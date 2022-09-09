@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "axios": "^0.24.0",
+    "deepcopy": "^2.1.0",
+    "fs-extra": "^10.0.0",
+    "js-yaml-parser": "^1.0.0",
+    "uw-proskomma": "^0.4.32",
+    "xregexp": "^5.1.0"
+  }
+}
