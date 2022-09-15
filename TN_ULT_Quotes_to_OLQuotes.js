@@ -8,7 +8,6 @@ const { rejigAlignment } = require('uw-proskomma/src/utils/rejig_alignment');
 // const { doAlignmentQuery } = require('uw-proskomma/src/utils/query');
 const { slimSourceTokens } = require('uw-proskomma/src/utils/tokens');
 const { UWProskomma } = require('uw-proskomma/src/index');
-const { exit } = require("process");
 
 // Adapted from TN_TSV7_OLQuotes_to_ULT_GLQuotes.js by RJH Sept 2021
 //  and using some of that code
@@ -23,7 +22,7 @@ const getDocuments = async (pk, testament, book, verbose, serialize) => {
     const baseURLs = [testament === 'OT' ?
         ["unfoldingWord", "hbo", "uhb", "https://git.door43.org/unfoldingWord/hbo_uhb/raw/branch/master"] :
         ["unfoldingWord", "grc", "ugnt", "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master"],
-        ["unfoldingWord", "en", "ult", "https://git.door43.org/unfoldingWord/en_ult/raw/branch/master"]
+    ["unfoldingWord", "en", "ult", "https://git.door43.org/unfoldingWord/en_ult/raw/branch/master"]
     ];
     verbose = verbose || false;
     serialize = serialize || false;
@@ -112,7 +111,6 @@ const doAlignmentQuery = async pk => {
         '    mainSequence {' +
         '      itemGroups (' +
         '        byScopes:["chapter/", "verses/"]' +
-        '        includeContext:true' +
         '      ) {' +
         '        scopeLabels' +
         '        tokens {' +
@@ -126,8 +124,6 @@ const doAlignmentQuery = async pk => {
         '  }' +
         '}' +
         '}');
-    console.log(query);
-    exit(1);
     const result = await pk.gqlQuery(query);
     if (result.errors) {
         throw new Error(result.errors);
@@ -163,7 +159,7 @@ const searchULTWordRecords = (ULTSearchString, ULTTokens) => {
 
     // Break the search string into a list of words, and determine if they're contiguous (why do we even need that?)
     const ret = [];
-    for (let searchExpr of xre.split(ULTSearchString, /[-\s־]/)) { // includes hyphen (beautiful-looking and maqaf)
+    for (let searchExpr of xre.split(ULTSearchString, /[-\s’.,"”־]/).filter(str => str.length > 0)) { // includes hyphen (beautiful-looking and maqaf)
         // console.log(`    searchULTWordRecords processing searchExpr='${searchExpr}'`);
         // The ULT "sourceTokens" have all punctuation (incl. word punctuation) as separate tokens!
         // So remove sentence punctuation (incl. all apostrophes!) from our individual search words

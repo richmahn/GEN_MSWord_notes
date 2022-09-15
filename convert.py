@@ -27,7 +27,7 @@ import subprocess
 
 
 LOCAL_SOURCE_BASE_FOLDERPATH = Path('/Users/richmahn/repos/git.door43.org/')
-LOCAL_SOURCE_FOLDERPATH = LOCAL_SOURCE_BASE_FOLDERPATH.joinpath('GEN_MSWord_notes/24/')
+LOCAL_SOURCE_FOLDERPATH = LOCAL_SOURCE_BASE_FOLDERPATH.joinpath('GEN_MSWord_notes/txt/')
 
 # The output folder below must also already exist!
 LOCAL_OUTPUT_FOLDERPATH = LOCAL_SOURCE_BASE_FOLDERPATH.joinpath('en_tn/')
