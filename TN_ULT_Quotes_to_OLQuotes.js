@@ -6,8 +6,9 @@ const deepcopy = require('deepcopy');
 const { readTsv } = require('uw-proskomma/src/utils/tsv');
 const { rejigAlignment } = require('uw-proskomma/src/utils/rejig_alignment');
 // const { doAlignmentQuery } = require('uw-proskomma/src/utils/query');
-const { slimSourceTokens } = require('uw-proskomma/src/utils/tokens');
+const { pruneTokens, slimSourceTokens, slimGLTokens } = require('uw-proskomma/src/utils/tokens');
 const { UWProskomma } = require('uw-proskomma/src/index');
+const { exit } = require("process");
 
 // Adapted from TN_TSV7_OLQuotes_to_ULT_GLQuotes.js by RJH Sept 2021
 //  and using some of that code
@@ -20,9 +21,9 @@ const { UWProskomma } = require('uw-proskomma/src/index');
 // Called from main
 const getDocuments = async (pk, testament, book, verbose, serialize) => {
     const baseURLs = [testament === 'OT' ?
-        ["unfoldingWord", "hbo", "uhb", "https://git.door43.org/unfoldingWord/hbo_uhb/raw/branch/master"] :
+        ["richmahn", "hbo", "uhb", "https://git.door43.org/richmahn/hbo_uhb_limited/raw/branch/master"] :
         ["unfoldingWord", "grc", "ugnt", "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master"],
-    ["unfoldingWord", "en", "ult", "https://git.door43.org/unfoldingWord/en_ult/raw/branch/master"]
+    ["richmahn", "en", "ult", "https://git.door43.org/richmahn/en_ult_limited/raw/branch/master"]
     ];
     verbose = verbose || false;
     serialize = serialize || false;
@@ -226,7 +227,7 @@ const searchULTWordRecords = (ULTSearchString, ULTTokens) => {
  * @param {bool} prune
  * @returns
  */
-const origLFromGLQuote = (book, cv, sourceTokens, ULTTokens, ULTSearchString, searchOccurrence, prune) => {
+const origLFromGLQuote1 = (book, cv, sourceTokens, ULTTokens, ULTSearchString, searchOccurrence, prune) => {
     // console.log(`origLFromGLQuote(${book}, ${cv}, (${sourceTokens.length}), (${ULTTokens.length}), '${ULTSearchString}', searchOccurrence=${searchOccurrence}, prune=${prune})…`);
     const ULTSearchThreeTuples = searchULTWordRecords(ULTSearchString, ULTTokens); // 0: ULT word, 1: followsEllipsisFlag, 2: alignment scopes array
     // console.log(`  ULTSearchThreeTuples = (${ULTSearchThreeTuples.length}) ${JSON.stringify(ULTSearchThreeTuples)}`);
@@ -234,25 +235,37 @@ const origLFromGLQuote = (book, cv, sourceTokens, ULTTokens, ULTSearchString, se
     const wordLikeOrigLTokens = slimSourceTokens(sourceTokens.filter(t => t.subType === "wordLike")); // drop out punctuation, space, eol, etc., tokens
     // console.log(`\n  wordLikeOrigLTokens = (${wordLikeOrigLTokens.length}) ${JSON.stringify(wordLikeOrigLTokens)}`); // The length of this list is now the number of Greek words in the verse
     const origLWordList = wordLikeOrigLTokens.map(t => t.payload);
+    console.log("USTT: ", ULTSearchThreeTuples);
+    console.log("WLOT: ", wordLikeOrigLTokens);
+    console.log("OLWL: ", origLWordList);
     // console.log(`\n  origLWordList = (${origLWordList.length}) ${origLWordList}`); // The length of this list is now the number of Greek words in the verse
 
     // Now we go through in the order of the original language words, to get the ones that match
     const origLQuoteWords = [];
+    const occurrences = {};
     for (const origLWord of origLWordList) {
-        // console.log(`  origLFromGLQuote checking origL word '${origLWord}'`);
-        const searchOrigLWord = `/${origLWord}:`;
+        if (!(origLWord in occurrences)) {
+            occurrences[origLWord] = 1;
+        } else {
+            occurrences[origLWord] += 1;
+        }
+        console.log(`  origLFromGLQuote checking origL word '${origLWord}'`);
+        const searchOrigLWord = `/${origLWord}:${occurrences[origLWord]}`;
         for (const ULTSearchThreeTuple of ULTSearchThreeTuples) {
             // console.log(`   origLFromGLQuote have ULTSearchThreeTuple=${ULTSearchThreeTuple}`);
             const scopesArray = ULTSearchThreeTuple[2];
+            console.log(`   scopesArray: `, scopesArray);
             // console.log(`    origLFromGLQuote looking for scopes ${scopesArray} for '${ULTSearchThreeTuple[0]}'`);
             if (scopesArray.length === 1) {
                 if (scopesArray[0].indexOf(searchOrigLWord) !== -1) {
                     origLQuoteWords.push(origLWord); // Might get the same word more than once???
+                    console.log("match 1", origLQuoteWords);
                     break;
                 }
             } else if (scopesArray.length === 2) {
                 if (scopesArray[0].indexOf(searchOrigLWord) !== -1 || scopesArray[1].indexOf(searchOrigLWord) !== -1) {
                     origLQuoteWords.push(origLWord); // Might get the same word more than once???
+                    console.log("match 2", origLQuoteWords);
                     break;
                 }
 
@@ -270,6 +283,73 @@ const origLFromGLQuote = (book, cv, sourceTokens, ULTTokens, ULTSearchString, se
     // console.log(`  origLFromGLQuote returning (${origLQuoteWords.length}) ${origLQuoteWords}`);
     return { "data": origLQuoteWords };
 }
+
+const origLFromGLQuote2 = (book, cv, sourceTokens, glTokens, searchString, searchOccurrence, prune) => {
+    const searchTuples = searchWordRecords(searchString);
+    const ugntTokens = slimSourceTokens(sourceTokens.filter(t => t.subType === "wordLike"));
+    const content = contentForSearchWords(searchTuples, ugntTokens);
+    if (!content) {
+        return {
+            "error":
+                `NO MATCH IN SOURCE\nSearch Tuples: ${JSON.stringify(searchTuples)}\nCodepoints: ${searchTuples.map(s => "|" + Array.from(s[0]).map(c => c.charCodeAt(0).toString(16)))}`
+        }
+    }
+    const highlightedTokens = highlightedAlignedGlText(slimGLTokens(glTokens), content);
+    if (prune) {
+        return {"data": pruneTokens(highlightedTokens)};
+    } else {
+        return {"data": highlightedTokens};
+    }
+}
+
+
+const searchWordRecords = origString => {
+    const ret = [];
+    for (let searchExpr of xre.split(origString, /[\s־]/)) {
+        searchExpr = xre.replace(searchExpr,/[,’?;.!׃]/, "");
+        if (searchExpr.includes("…")) {
+            const searchExprParts = searchExpr.split("…");
+            ret.push([searchExprParts[0], false]);
+            searchExprParts.slice(1).forEach(p => ret.push([p, true]));
+        } else {
+            ret.push([searchExpr, false]);
+        }
+    }
+    return ret.filter(t => t[0] !== "׀");
+}
+
+const contentForSearchWords = (searchTuples, tokens) => {
+
+    const lfsw1 = (searchTuples, tokens, content) => {
+        if (!content) {
+            content = [];
+        }
+        if (searchTuples.length === 0) { // Everything matched
+            return content;
+        } else if (tokens.length === 0) { // No more tokens - fail
+            return null;
+        } else if (tokens[0].payload === searchTuples[0][0]) { // First word matched, try next one
+            return lfsw1(searchTuples.slice(1), tokens.slice(1), content.concat([[tokens[0].payload, tokens[0].occurrence]]));
+        } else if (searchTuples[0][1]) { // non-greedy wildcard, try again on next token
+            return lfsw1(searchTuples, tokens.slice(1), content.concat([[tokens[0].payload, tokens[0].occurrence]]));
+        } else { // No wildcard and no match - fail
+            return null;
+        }
+    }
+
+    if (tokens.length === 0) {
+        return null;
+    }
+    return lfsw1(searchTuples, tokens) || contentForSearchWords(searchTuples, tokens.slice(1));
+}
+
+const highlightedAlignedGlText = (glTokens, content) => {
+    return glTokens.map(token => {
+            const matchingContent = content.filter(c => (token.occurrence.length > 0) && token.blContent.includes(c[0]) && token.occurrence.includes(c[1]));
+            return [token.payload, (matchingContent.length > 0)];
+        }
+    )
+};
 
 
 // Called from main
@@ -324,7 +404,7 @@ getDocuments(pk, testament, book, true, false) // last parameters are "verbose" 
             // console.log(`\n  Wordlike ULT tokens = (${wordLikeULTTokens.length}) ${JSON.stringify(wordLikeULTTokens)}`);
 
             // Do the alignment
-            const resultObject = origLFromGLQuote(
+            const resultObject = origLFromGLQuote1(
                 book,
                 cv,
                 sourceTokens,
