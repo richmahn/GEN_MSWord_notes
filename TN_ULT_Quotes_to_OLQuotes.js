@@ -21,9 +21,9 @@ const { exit } = require("process");
 // Called from main
 const getDocuments = async (pk, testament, book, verbose, serialize) => {
     const baseURLs = [testament === 'OT' ?
-        ["richmahn", "hbo", "uhb", "https://git.door43.org/richmahn/hbo_uhb_limited/raw/branch/master"] :
+        ["unfoldingWord", "hbo", "uhb", "https://git.door43.org/unfoldingWord/hbo_uhb/raw/branch/master"] :
         ["unfoldingWord", "grc", "ugnt", "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master"],
-    ["richmahn", "en", "ult", "https://git.door43.org/richmahn/en_ult_limited/raw/branch/master"]
+    ["unfoldingWord", "en", "ust", "https://git.door43.org/unfoldingWord/en_ust/raw/branch/master"]
     ];
     verbose = verbose || false;
     serialize = serialize || false;
