@@ -80,7 +80,7 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
             if line.isdigit():
                 newC = line
                 if int(line) != int(C)+1:
-                    print(f"WARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
+                    print(f"\nWARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
                 V = '0'
                 C = newC
                 glQuote = note = verseText = ''
@@ -90,7 +90,7 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
                 parts = line.split(' ')
                 newV = parts[1].split(':')[1]
                 if int(newV) != int(V)+1:
-                    print(f"WARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
+                    print(f"\nWARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
                 V = newV
                 verseText = ' '.join(parts[2:])
                 occurrences = {}
@@ -113,7 +113,7 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
             glQuote = line
             quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', verseText))
             if quote_count == 0:
-                print(f"ERROR: GL Quote NOT FOUND in verse {Bbb} {C}:{V}:\nGL Quote:  {glQuote}\nVerseText: {verseText}\n\n")
+                print(f"\nERROR: GL Quote NOT FOUND in verse {Bbb} {C}:{V}:\nGL Quote:  {glQuote}\nVerseText: {verseText}\n")
             else:
                 words = glQuote.split(' ')
                 words_str = ''
@@ -166,7 +166,7 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
 
             # Find "See:" TA refs and process them -- should only be one
             for match in re.finditer(r'\(See: ([-A-Za-z0-9]+?)\)', note):
-                assert not support_reference, f"WARNING at {BBB} {C}:{V}: Should only be one TA ref: {note}"
+                assert not support_reference, f"\nWARNING at {BBB} {C}:{V}: Should only be one TA ref: {note}"
                 support_reference = match.group(1)
                 note = f"{note[:match.start()]}(See: [[rc://en/ta/man/translate/{support_reference}]]){note[match.end():]}"
 
@@ -177,7 +177,7 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
             if (gl_quote.endswith("'")): gl_quote = f'{gl_quote[:-1]}’'
             gl_quote = gl_quote.replace('" ', '” ').replace(' "', ' “').replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
             if '"' in gl_quote or "'" in gl_quote:
-                print(f"WARNING at {BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
+                print(f"\nWARNING at {BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
 
             note = note.strip()
             if (note.startswith('"')): note = f'“{note[1:]}'
@@ -187,7 +187,7 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
                 .replace('("', '(“').replace('")', '”)') \
                 .replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
             if '"' in note or "'" in note:
-                print(f"WARNING at {BBB} {C}:{V}: note still has straight quote marks: '{note}'")
+                print(f"\nWARNING at {BBB} {C}:{V}: note still has straight quote marks: '{note}'")
 
             temp_output_TSV_file.write(f'{BBB}\t{C}\t{V}\t{generated_id}\t{support_reference}\t{orig_quote}\t{occurrence}\t{gl_quote}\t{note}\n')
 
@@ -233,7 +233,6 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
             with open(output_filepath, 'wt', encoding='utf-8') as output_TSV_file:
                 output_TSV_file.write(temp_input_text_file.readline()) # Write the TSV header
                 for line in temp_input_text_file:
-                    print(line)
                     B, C, V, rowID, support_reference, orig_quote, occurrence, gl_quote, occurrence_note = line.split('\t')
                     try:
                         if gl_quote:
