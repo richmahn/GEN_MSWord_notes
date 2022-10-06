@@ -16,8 +16,6 @@ do
 			rm "$TEXT"
 		fi
 		./docx2txt.sh "$DOCX"
-		echo $TEXT
-		echo $DOCX
 		if [ -f "$TEXT" ]; then
 			echo "Adding $DOCX"
 			cat "$TEXT" >> txt/GEN.txt
