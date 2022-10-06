@@ -18,6 +18,7 @@ Quick script to create 9-column TN files from MS-Word files.
 NOTE: This requires the addition of the OrigQuote column!
 """
 from typing import List, Tuple
+import sys
 import os
 from pathlib import Path
 import random
@@ -54,7 +55,7 @@ HELPER_PROGRAM_NAME = 'TN_ULT_Quotes_to_OLQuotes.js'
 DEBUG_LEVEL = 1
 
 
-def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,str]:
+def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,str,str]:
     """
     Generator to read the exported MS-Word .txt files
         and return the needed fields.
@@ -65,63 +66,77 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
     print(f"    Loading {BBB} TN links from MS-Word exported text file…")
     input_filepath = input_folderpath.joinpath(f'{BBB}.txt')
     Bbb = BBB[0] + BBB[1].lower() + BBB[2].lower()
-    C = V = None
-    lastIntC = 0
-    status = 'Idle'
+    C = V = '0'
     verseText = glQuote = note = ''
-    with open(input_filepath, 'rt') as input_text_file:
+    occurrence = 0
+    occurrences = {}
+    errors = ''
+    with open(input_filepath, 'rt', encoding='utf-8') as input_text_file:
         for line_number, line in enumerate(input_text_file, start=1):
-            if line_number == 1 and line.startswith('\ufeff'): line = line[1:] # Remove optional BOM
+            if line_number == 1 and line.startswith('\ufeff'):
+                line = line[1:]  # Remove optional BOM
             line = line.rstrip('\n\r').strip()
-            print(f"{line_number:3}/ {C}:{V} {status:10} ({len(line)}) '{line}'")
-            if status == 'Idle' and line.isdigit(): # chapter number
-                C = line
-                print(f"     Got chapter #{C} at line {line_number}")
-                intC = int(C)
-                if intC != lastIntC+1:
-                    print(f"WARNING at line {line_number}: Chapter number is not increasing as expected: moving from {lastIntC} to {C}")
-            elif status == 'Idle' and line.startswith(f'{C}:'):
-                if DEBUG_LEVEL > 1:
-                    print(f"     Ignoring {BBB} {C}:{V} section heading: '{line}' at line {line_number}")
-            elif (status == 'Idle' or status == 'Expecting glQuote or next verse') \
-            and line.startswith(f'{Bbb} {C}:'):
-                ix = 5 + len(C)
-                V = ''
-                while line[ix].isdigit():
-                    V += line[ix]
-                    ix += 1
-                verseText = line[ix:].strip()
-                print(f"     Got {C}:{V} verse text: '{verseText}'")
-                status = 'Expecting glQuote'
-            elif not line:
-                if status == 'Getting note':
-                    if not glQuote or not note:
-                        print(f"ERROR at line {line_number} {BBB} {C}:{V}: Why do we have glQuote='{glQuote}' and note='{note}'")
-                    print(f"  About to yield {C}:{V} '{glQuote}' '{note}' at line {line_number}")
-                    yield C,V, verseText, glQuote, note
-                    glQuote = note = ''
-                    status = 'Expecting glQuote or next verse'
-                # else ignoring blank line here
-            elif 'Paragraph Break' in line:
-                if DEBUG_LEVEL > 1:
-                    print(f"     Ignoring {BBB} {C}:{V} paragraph break at line {line_number}")
-            elif status == 'Expecting glQuote' or status == 'Expecting glQuote or next verse':
-                glQuote = line
-                print(f"     Got {C}:{V} GL Quote: '{glQuote}' at line {line_number}")
-                quote_count = verseText.count(glQuote)
-                if quote_count == 0:
-                    print(f"WARNING at line {line_number} {BBB} {C}:{V}: glQuote='{glQuote}' seems not to be in verse text: '{verseText}'")
-                elif quote_count > 1:
-                    print(f"WARNING at line {line_number} {BBB} {C}:{V}: glQuote='{glQuote}' seems to occur {quote_count} times in verse text: '{verseText}'")
-                    write_more_code # Need to write more code here if this happens
-                status = 'Getting note'
-            elif status == 'Getting note':
-                note += ' ' + line
+
+            if line.isdigit():
+                newC = line
+                if int(line) != int(C)+1:
+                    print(f"WARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
+                V = '0'
+                C = newC
+                glQuote = note = verseText = ''
+                continue
+            
+            if line.startswith(f'{Bbb} {C}:'):
+                parts = line.split(' ')
+                newV = parts[1].split(':')[1]
+                if int(newV) != int(V)+1:
+                    print(f"WARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
+                V = newV
+                verseText = ' '.join(parts[2:])
+                occurrences = {}
+                glQuote = note = ''
+                continue
+
+            if not line or 'Paragraph Break' in line or line.startswith(f'{C}:'):
+                if glQuote and note:
+                    yield C, V, verseText, glQuote, str(occurrence), note
+                glQuote = note = ''
+                occurrence = 0
+                continue
+            
+            if glQuote:
+                if note:
+                    note += " "
+                note += line
+                continue
+
+            glQuote = line
+            quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', verseText))
+            if quote_count == 0:
+                print(f"ERROR: GL Quote NOT FOUND in verse {Bbb} {C}:{V}:\nGL Quote:  {glQuote}\nVerseText: {verseText}\n\n")
             else:
-                print(f"  WARNING at line {line_number} {C}:{V}: Didn't process '{line}'!")
+                words = glQuote.split(' ')
+                words_str = ''
+                for word in words:
+                    if words_str:
+                        words_str += ' '
+                    words_str += word
+                    if words_str not in occurrences:
+                        occurrences[words_str] = 1
+                    else:
+                        occurrences[words_str] += 1
+                occurrence = occurrences[glQuote]
+                if quote_count < occurrence:
+                    occurrence = quote_count
+            continue
+
+    if errors:
+        print(errors)
+        print("Please fix GL quotes so they match and try again.")
+        sys.exit(1)
+    
     if glQuote and note:
-        print(f"  At EOF: about to yield {C}:{V} '{glQuote}' '{note}'")
-        yield C,V, verseText, glQuote, note
+        yield C, V, verseText, glQuote, str(occurrence), note
 # end of get_input_fields function
 
 
@@ -135,11 +150,11 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
     testament = 'OT' if int(nn)<40 else 'NT'
     output_filepath = output_folderpath.joinpath(f'en_tn_{nn}-{BBB}.tsv')
     temp_output_filepath = Path(f"{output_filepath}.tmp")
-    with open(temp_output_filepath, 'wt') as temp_output_TSV_file:
+    with open(temp_output_filepath, 'wt', encoding='utf-8') as temp_output_TSV_file:
         previously_generated_ids:List[str] = [''] # We make ours unique per file (spec only used to say unique per verse)
         temp_output_TSV_file.write('Book\tChapter\tVerse\tID\tSupportReference\tOrigQuote\tOccurrence\tGLQuote\tOccurrenceNote\n')
-        for line_count, (C, V, verse_text, gl_quote, note) in enumerate(get_input_fields(input_folderpath, BBB), start=1):
-            print(f"Got {BBB} {C}:{V} '{note}' for '{gl_quote}' in: {verse_text}")
+        for line_count, (C, V, verse_text, gl_quote, occurrence, note) in enumerate(get_input_fields(input_folderpath, BBB), start=1):
+            # print(f"Got {BBB} {C}:{V} '{note}' for '{gl_quote}' {occurrence} in: {verse_text}")
 
             generated_id = ''
             while generated_id in previously_generated_ids:
@@ -148,17 +163,12 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
 
             support_reference = ''
             orig_quote = OrigL_QUOTE_PLACEHOLDER
-            occurrence = '1'
 
             # Find "See:" TA refs and process them -- should only be one
             for match in re.finditer(r'\(See: ([-A-Za-z0-9]+?)\)', note):
-                print(f"match={match}")
-                print(f"match.group(1)={match.group(1)}")
                 assert not support_reference, f"WARNING at {BBB} {C}:{V}: Should only be one TA ref: {note}"
                 support_reference = match.group(1)
-                print(f"HAD '{note}'")
                 note = f"{note[:match.start()]}(See: [[rc://en/ta/man/translate/{support_reference}]]){note[match.end():]}"
-                print(f"NOW '{note}'")
 
             gl_quote = gl_quote.strip()
             if (gl_quote.startswith('"')): gl_quote = f'“{gl_quote[1:]}'
@@ -208,7 +218,6 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
     # Put the GL Quotes into a dict for easy access
     match_dict = {}
     for match in re.finditer(r'(\w{3})_(\d{1,3}):(\d{1,3}) ►(.+?)◄ “(.+?)”', proskomma_output_string):
-        print(match)
         B, C, V, gl_quote, orig_quote = match.groups()
         assert B == BBB, f"{B} {C}:{V} '{orig_quote}' Should be equal '{B}' '{BBB}'"
         if orig_quote:
@@ -220,10 +229,11 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
     match_count = fail_count = 0
     if match_dict: # (if not, the ULT book probably isn't aligned yet)
         # Now put the OrigL Quotes into the file
-        with open(temp_output_filepath, 'rt') as temp_input_text_file:
-            with open(output_filepath, 'wt') as output_TSV_file:
+        with open(temp_output_filepath, 'rt', encoding="utf-8") as temp_input_text_file:
+            with open(output_filepath, 'wt', encoding='utf-8') as output_TSV_file:
                 output_TSV_file.write(temp_input_text_file.readline()) # Write the TSV header
                 for line in temp_input_text_file:
+                    print(line)
                     B, C, V, rowID, support_reference, orig_quote, occurrence, gl_quote, occurrence_note = line.split('\t')
                     try:
                         if gl_quote:
@@ -261,12 +271,12 @@ def main():
         #                 '1TH','2TH','1TI','2TI','TIT','PHM',
         #                 'HEB','JAS','1PE','2PE','1JN','2JN','3JN','JUD','REV'):
         #     continue # Just process NT books
-        try:
-            lines_read, this_note_count, fail_count = convert_MSWrd_TN_TSV(LOCAL_SOURCE_FOLDERPATH, LOCAL_OUTPUT_FOLDERPATH, BBB, nn)
-        except Exception as e:
-            print(f"   {BBB} got an error: {e}")
-            failed_book_list.append((BBB,str(e)))
-            lines_read = this_note_count = fail_count = 0
+        # try:
+        lines_read, this_note_count, fail_count = convert_MSWrd_TN_TSV(LOCAL_SOURCE_FOLDERPATH, LOCAL_OUTPUT_FOLDERPATH, BBB, nn)
+        # except Exception as e:
+        #     print(f"   {BBB} got an error: {e}")
+        #     failed_book_list.append((BBB,str(e)))
+        #     lines_read = this_note_count = fail_count = 0
         total_lines_read += lines_read
         total_files_read += 1
         if this_note_count:

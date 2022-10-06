@@ -1,4 +1,6 @@
 .venv
 .history
 node_modules
+~$*
+Notes*.txt
 

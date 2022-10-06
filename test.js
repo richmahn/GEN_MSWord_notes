@@ -6,7 +6,7 @@ const deepcopy = require('deepcopy');
 const { readTsv } = require('uw-proskomma/src/utils/tsv');
 const { rejigAlignment } = require('uw-proskomma/src/utils/rejig_alignment');
 // const { doAlignmentQuery } = require('uw-proskomma/src/utils/query');
-const { pruneTokens, slimSourceTokens, slimGLTokens } = require('uw-proskomma/src/utils/tokens');
+const { slimSourceTokens } = require('uw-proskomma/src/utils/tokens');
 const { UWProskomma } = require('uw-proskomma/src/index');
 const { exit } = require("process");
 
@@ -23,9 +23,9 @@ const getDocuments = async (pk, testament, book, verbose, serialize) => {
     const baseURLs = [testament === 'OT' ?
         ["unfoldingWord", "hbo", "uhb", "https://git.door43.org/unfoldingWord/hbo_uhb/raw/branch/master"] :
         ["unfoldingWord", "grc", "ugnt", "https://git.door43.org/unfoldingWord/el-x-koine_ugnt/raw/branch/master"],
-    ["unfoldingWord", "en", "ult", "https://git.door43.org/unfoldingWord/en_ult/raw/branch/master"]
+        ["unfoldingWord", "en", "ult", "https://git.door43.org/unfoldingWord/en_ult/raw/branch/master"]
     ];
-    verbose = verbose || false;
+	    verbose = verbose || false;
     serialize = serialize || false;
     if (verbose) console.log("Download USFM");
     for (const [org, lang, abbr, baseURL] of baseURLs) {
@@ -104,27 +104,25 @@ const getDocuments = async (pk, testament, book, verbose, serialize) => {
 // Adapted from https://github.com/unfoldingWord-box3/uw-proskomma/blob/main/src/utils/query.js May 2021
 // Called from main
 const doAlignmentQuery = async pk => {
-    const query = ('{' +
-        'docSets {' +
-        '  abbr: selector(id:"abbr")' +
-        '  documents {' +
-        '    book: header(id:"bookCode")' +
-        '    mainSequence {' +
-        '      itemGroups (' +
-        '        byScopes:["chapter/", "verses/"]' +
-        '      ) {' +
-        '        scopeLabels' +
-        '        tokens {' +
-        '          subType' +
-        '          payload' +
-        '          position' +
-        '          scopes(startsWith:"attribute/milestone/zaln/x-align")' + // This line was changed (and assumes preprocessing of alignment info)
-        '        }' +
-        '      }' +
-        '    }' +
-        '  }' +
-        '}' +
-        '}');
+	const query =
+	'{' +
+	'  documents(withBook:"3JN") {' +
+	'    mainSequence {' +
+	'      blocks (withScriptureCV: "1:3") {' +
+	'        tokens(' +
+	'          includeContext:true' +
+	'          withScriptureCV: "1:3"' +
+	'          withChars: ["ἐρχομένων", "ἀδελφῶν"]' +
+	'        ) {' +
+	'          payload position' +
+	'          scopes(startsWith:["attribute/spanWithAtts/w/lemma", "attribute/spanWithAtts/w/strong"])' +
+	'        }' +
+	'      }' +
+	'    }' +
+	'  }' +
+	'}';
+    console.log(query);
+    exit(1);
     const result = await pk.gqlQuery(query);
     if (result.errors) {
         throw new Error(result.errors);
@@ -160,12 +158,12 @@ const searchULTWordRecords = (ULTSearchString, ULTTokens) => {
 
     // Break the search string into a list of words, and determine if they're contiguous (why do we even need that?)
     const ret = [];
-    for (let searchExpr of xre.split(ULTSearchString, /[-\s’."”־]/).filter(str => str.length > 0)) { // includes hyphen (beautiful-looking and maqaf)
+    for (let searchExpr of xre.split(ULTSearchString, /[-\s־]/)) { // includes hyphen (beautiful-looking and maqaf)
         // console.log(`    searchULTWordRecords processing searchExpr='${searchExpr}'`);
         // The ULT "sourceTokens" have all punctuation (incl. word punctuation) as separate tokens!
         // So remove sentence punctuation (incl. all apostrophes!) from our individual search words
         // Added 'all' scope flag below to handle words with multiple punctuation marks to be removed, e.g. "(word),"
-        searchExpr = xre.replace(searchExpr, /[“‘(),”’?:;.!{}]/, '', 'all'); // Added colon and parentheses
+        searchExpr = xre.replace(searchExpr, /[“‘(),”’?:;.!]/, '', 'all'); // Added colon and parentheses
         if (searchExpr.includes("…")) {
             const searchExprParts = searchExpr.split("…");
             ret.push([searchExprParts[0], false]);
@@ -201,7 +199,7 @@ const searchULTWordRecords = (ULTSearchString, ULTTokens) => {
         ++startULTIndex;
     }
     if (!foundAllWords) {
-        // console.log(`ERROR: searchULTWordRecords couldn't find ${intermediateSearchList} in ${JSON.stringify(ULTTokens.map(t => t.payload))}`);
+        console.log(`ERROR: searchULTWordRecords couldn't find ${intermediateSearchList} in ${JSON.stringify(ULTTokens.map(t => t.payload))}`);
         return [];
     }
     // console.log(`  searchULTWordRecords found ${intermediateSearchList} starting at ${startULTIndex}`);
@@ -227,7 +225,7 @@ const searchULTWordRecords = (ULTSearchString, ULTTokens) => {
  * @param {bool} prune
  * @returns
  */
-const origLFromGLQuote1 = (book, cv, sourceTokens, ULTTokens, ULTSearchString, searchOccurrence, prune) => {
+const origLFromGLQuote = (book, cv, sourceTokens, ULTTokens, ULTSearchString, searchOccurrence, prune) => {
     // console.log(`origLFromGLQuote(${book}, ${cv}, (${sourceTokens.length}), (${ULTTokens.length}), '${ULTSearchString}', searchOccurrence=${searchOccurrence}, prune=${prune})…`);
     const ULTSearchThreeTuples = searchULTWordRecords(ULTSearchString, ULTTokens); // 0: ULT word, 1: followsEllipsisFlag, 2: alignment scopes array
     // console.log(`  ULTSearchThreeTuples = (${ULTSearchThreeTuples.length}) ${JSON.stringify(ULTSearchThreeTuples)}`);
@@ -239,19 +237,12 @@ const origLFromGLQuote1 = (book, cv, sourceTokens, ULTTokens, ULTSearchString, s
 
     // Now we go through in the order of the original language words, to get the ones that match
     const origLQuoteWords = [];
-    const occurrences = {};
     for (const origLWord of origLWordList) {
-        if (!(origLWord in occurrences)) {
-            occurrences[origLWord] = 1;
-        } else {
-            occurrences[origLWord] += 1;
-        }
         // console.log(`  origLFromGLQuote checking origL word '${origLWord}'`);
-        const searchOrigLWord = `/${origLWord}:${occurrences[origLWord]}`;
+        const searchOrigLWord = `/${origLWord}:`;
         for (const ULTSearchThreeTuple of ULTSearchThreeTuples) {
             // console.log(`   origLFromGLQuote have ULTSearchThreeTuple=${ULTSearchThreeTuple}`);
             const scopesArray = ULTSearchThreeTuple[2];
-            // console.log(`   scopesArray: `, scopesArray);
             // console.log(`    origLFromGLQuote looking for scopes ${scopesArray} for '${ULTSearchThreeTuple[0]}'`);
             if (scopesArray.length === 1) {
                 if (scopesArray[0].indexOf(searchOrigLWord) !== -1) {
@@ -278,73 +269,6 @@ const origLFromGLQuote1 = (book, cv, sourceTokens, ULTTokens, ULTSearchString, s
     // console.log(`  origLFromGLQuote returning (${origLQuoteWords.length}) ${origLQuoteWords}`);
     return { "data": origLQuoteWords };
 }
-
-const origLFromGLQuote2 = (book, cv, sourceTokens, glTokens, searchString, searchOccurrence, prune) => {
-    const searchTuples = searchWordRecords(searchString);
-    const ugntTokens = slimSourceTokens(sourceTokens.filter(t => t.subType === "wordLike"));
-    const content = contentForSearchWords(searchTuples, ugntTokens);
-    if (!content) {
-        return {
-            "error":
-                `NO MATCH IN SOURCE\nSearch Tuples: ${JSON.stringify(searchTuples)}\nCodepoints: ${searchTuples.map(s => "|" + Array.from(s[0]).map(c => c.charCodeAt(0).toString(16)))}`
-        }
-    }
-    const highlightedTokens = highlightedAlignedGlText(slimGLTokens(glTokens), content);
-    if (prune) {
-        return {"data": pruneTokens(highlightedTokens)};
-    } else {
-        return {"data": highlightedTokens};
-    }
-}
-
-
-const searchWordRecords = origString => {
-    const ret = [];
-    for (let searchExpr of xre.split(origString, /[\s־]/)) {
-        searchExpr = xre.replace(searchExpr,/[,’?;.!׃]/, "");
-        if (searchExpr.includes("…")) {
-            const searchExprParts = searchExpr.split("…");
-            ret.push([searchExprParts[0], false]);
-            searchExprParts.slice(1).forEach(p => ret.push([p, true]));
-        } else {
-            ret.push([searchExpr, false]);
-        }
-    }
-    return ret.filter(t => t[0] !== "׀");
-}
-
-const contentForSearchWords = (searchTuples, tokens) => {
-
-    const lfsw1 = (searchTuples, tokens, content) => {
-        if (!content) {
-            content = [];
-        }
-        if (searchTuples.length === 0) { // Everything matched
-            return content;
-        } else if (tokens.length === 0) { // No more tokens - fail
-            return null;
-        } else if (tokens[0].payload === searchTuples[0][0]) { // First word matched, try next one
-            return lfsw1(searchTuples.slice(1), tokens.slice(1), content.concat([[tokens[0].payload, tokens[0].occurrence]]));
-        } else if (searchTuples[0][1]) { // non-greedy wildcard, try again on next token
-            return lfsw1(searchTuples, tokens.slice(1), content.concat([[tokens[0].payload, tokens[0].occurrence]]));
-        } else { // No wildcard and no match - fail
-            return null;
-        }
-    }
-
-    if (tokens.length === 0) {
-        return null;
-    }
-    return lfsw1(searchTuples, tokens) || contentForSearchWords(searchTuples, tokens.slice(1));
-}
-
-const highlightedAlignedGlText = (glTokens, content) => {
-    return glTokens.map(token => {
-            const matchingContent = content.filter(c => (token.occurrence.length > 0) && token.blContent.includes(c[0]) && token.occurrence.includes(c[1]));
-            return [token.payload, (matchingContent.length > 0)];
-        }
-    )
-};
 
 
 // Called from main
@@ -399,7 +323,7 @@ getDocuments(pk, testament, book, true, false) // last parameters are "verbose" 
             // console.log(`\n  Wordlike ULT tokens = (${wordLikeULTTokens.length}) ${JSON.stringify(wordLikeULTTokens)}`);
 
             // Do the alignment
-            const resultObject = origLFromGLQuote1(
+            const resultObject = origLFromGLQuote(
                 book,
                 cv,
                 sourceTokens,
@@ -424,6 +348,6 @@ getDocuments(pk, testament, book, true, false) // last parameters are "verbose" 
             }
             // }
         }
-        // console.log(counts);
+        console.log(counts);
     }
     )
