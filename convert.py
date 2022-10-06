@@ -113,7 +113,7 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
             glQuote = line
             quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', verseText))
             if quote_count == 0:
-                print(f"\nERROR: GL Quote NOT FOUND in verse {Bbb} {C}:{V}:\nGL Quote:  {glQuote}\nVerseText: {verseText}\n")
+                print(f"\nERROR: GL Quote NOT FOUND in verse {Bbb} {C}:{V}:\nGL Quote:  {glQuote}\nVerseText: {verseText}\n\n")
             else:
                 words = glQuote.split(' ')
                 words_str = ''
@@ -270,12 +270,12 @@ def main():
         #                 '1TH','2TH','1TI','2TI','TIT','PHM',
         #                 'HEB','JAS','1PE','2PE','1JN','2JN','3JN','JUD','REV'):
         #     continue # Just process NT books
-        # try:
-        lines_read, this_note_count, fail_count = convert_MSWrd_TN_TSV(LOCAL_SOURCE_FOLDERPATH, LOCAL_OUTPUT_FOLDERPATH, BBB, nn)
-        # except Exception as e:
-        #     print(f"   {BBB} got an error: {e}")
-        #     failed_book_list.append((BBB,str(e)))
-        #     lines_read = this_note_count = fail_count = 0
+        try:
+            lines_read, this_note_count, fail_count = convert_MSWrd_TN_TSV(LOCAL_SOURCE_FOLDERPATH, LOCAL_OUTPUT_FOLDERPATH, BBB, nn)
+        except Exception as e:
+             print(f"   {BBB} got an error: {e}")
+             failed_book_list.append((BBB,str(e)))
+             lines_read = this_note_count = fail_count = 0
         total_lines_read += lines_read
         total_files_read += 1
         if this_note_count:
