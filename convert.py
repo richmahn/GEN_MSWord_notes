@@ -112,7 +112,7 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
 
             glQuote = line
             quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', verseText))
-            if quote_count == 0:
+            if quote_count == 0 and False:
                 print(f"\nERROR: GL Quote NOT FOUND in verse {Bbb} {C}:{V}:\nGL Quote:  {glQuote}\nVerseText: {verseText}\n\n")
             else:
                 words = glQuote.split(' ')
