@@ -1,0 +1,193 @@
+WARNING at GEN 3:1: glQuote still has straight quote marks: 'from any tree of the garden'?”'
+
+WARNING at GEN 3:5: note still has straight quote marks: '“you will be like God/him because you will know {what is} good/right and {what is} evil/wrong.” or “you will know {what is} good/right and {what is} evil/wrong just like God does.” The Hebrew word “Elohim” in this clause is ambiguous. It can mean (1) “God”, as it does everywhere else in the first 30 chapters of Genesis; (2) “gods” or “divine beings"; (3) “angels”. See how you translated “good and evil” in Gen 2:9, 17.'
+
+WARNING at GEN 3:11: note still has straight quote marks: '“that I commanded you, `Do not eat from it'?” For some languages it is more natural to use a direct quote here for Yahweh’s words. Do what is best in your language. (See: [[rc://en/ta/man/translate/figs-quotesinquotes]])'
+
+WARNING at GEN 3:20: note still has straight quote marks: '“Eve, {which means “living/live,"}” If you include the meaning of Eve’s name in your translation or in a footnote, make sure it is similar to the word in the following clause that has the same meaning (“living”), so that it is clear why Eve was given that name. The meaning of names is important in the Hebrew language, and this translation issue occurs frequently in the book of Genesis. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 4:1: note still has straight quote marks: '“{a son they named} Cain{, which means “obtained/acquired"}.” You could include the meaning of Cain’s name in your translation or in a footnote. See what you did for a similar case in Gen 3:20.'
+
+WARNING at GEN 4:7: note still has straight quote marks: '“But if you don't do {what is} right,” or “But if you do what is wrong,”'
+
+WARNING at GEN 4:16: note still has straight quote marks: '“in the land/region of/called Nod, {which means “wandering,"}” or “in Nod Land,” The original readers of the Hebrew text knew that the name “Nod” means “wandering”. Usually translators transliterate (copy or borrow) the name from the Hebrew text, and they might also include the meaning of the name in the text or in a footnote. If you do that here, the meaning should be similar to how you translated “wanderer” in verses 12 and 14. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 4:25: note still has straight quote marks: '“Seth, {which means “appointed/granted/given,"}” (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 5:29: note still has straight quote marks: '“Noah, {which means “comfort/relief/rest,"}” If you include the meaning of Noah’s name in your translation or in a footnote, make sure it matches what Lamech says about him in the following quote, so it is clear why he was given that name. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 10:16: note still has straight quote marks: '*"{and Canaan/he was the ancestor of} the Jebusites, Amorites, Girgashites,” Consider what is the best way in your language to list these names of people groups.'
+
+WARNING at GEN 10:25: note still has straight quote marks: '“Peleg, {which means “division/divide,"}” You can put the meaning of Peleg’s name in the text or in a footnote, so that it is clear why he was given his name. See what you did for a similar case (Noah’s name) in Gen 5:29.'
+
+WARNING at GEN 11:9: note still has straight quote marks: '“Babel, {which means “confused/mixed-up/scrambled,"}” If you include the meaning of “Babel” here in your translation or in a footnote, be consistent with the way you translate “confused” later in this verse and in verse 7.'
+
+WARNING at GEN 12:19: note still has straight quote marks: '“here is your wife {back}.” or “look, I'm giving your wife back to you.”'
+
+WARNING at line 5731: Chapter number is not increasing as expected: moving from 12 to 22
+
+WARNING at GEN 22:1: note still has straight quote marks: '“I'm listening, {Lord/Master}.” or “Yes, {Lord/Master}?” or “What is it, {Lord/Master}?” Abraham’s reply is respectful and means that he is listening and ready to do what God wants him to do. Consider what is the best way to say this in your language. (See: [[rc://en/ta/man/translate/figs-idiom]])'
+
+WARNING at GEN 22:7: note still has straight quote marks: '“I'm listening, my son.” or “Yes, my son?” or “What is it, my son?” See how you translated the idiom “Behold me” in verse 1. (See: [[rc://en/ta/man/translate/figs-idiom]])'
+
+WARNING at GEN 22:7: note still has straight quote marks: '“but where {is} the lamb/sheep” or “but why is there no lamb/sheep” or “but why don't we have a lamb”'
+
+WARNING at GEN 22:11: note still has straight quote marks: '“I'm listening, {Lord}.” or “What is it, {Lord}?” or “Yes, {Lord}?” See how you translated “Behold me” in verse 1. (See: [[rc://en/ta/man/translate/figs-idiom]])'
+
+WARNING at GEN 22:14: note still has straight quote marks: '“Yahweh-Yireh, {which means “Yahweh will see/provide,"}” If you include the meaning of this name in your translation or in a footnote, be consistent with how you translate the verb “see/provide” in verse 8 (and later in verse 14), which the name is based on. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 23:11: note still has straight quote marks: '“I'm giving it/them to you {now/here}”'
+
+WARNING at GEN 25:6: note still has straight quote marks: '“"he sent them eastward to the land/region in the East” or “he sent them to the east country” or “he made them move away to the east country”. The Hebrew word “Kedem” means “east” and refers to the region east of Canaan and the Dead Sea. Consider whether it is best in your language to transliterate (copy) the Hebrew name or to translate the meaning. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 25:25: note still has straight quote marks: '“Esau {which means “hairy"}.” Consider whether or not to include the meaning of Esau’s name in the text or in a footnote. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 25:26: note still has straight quote marks: '“Jacob {which means “heel-grabber"}.” If you decide to include the meaning of Jacob’s name in the text or in a footnote, make sure it matches the way you translate “grabbing” earlier in this sentence. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 25:30: note still has straight quote marks: '“Edom, {which means “red."}” You could include the meaning of “Edom” in your translation or in a footnote so that it is clear why Esau was given that name. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 26:9: glQuote still has straight quote marks: 'So how could you say, `She {is} my sister'?”'
+
+WARNING at GEN 26:20: note still has straight quote marks: '“Esek, {which means “dispute/argument,"}” If you include the meaning of this well in your translation or in a footnote, make sure it fits with how you translate “disputed” in the next clause. This word is different from the word for “quarreled” earlier in verse 20 but it has the same meaning. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 26:21: note still has straight quote marks: '“Sitnah, {which means “hostility/strife."}” (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 26:22: note still has straight quote marks: '“Rehoboth, {which means “space/room,"}” Be consistent here with how you spelled “Rehoboth” in Gen 10:11.'
+
+WARNING at GEN 26:27: note still has straight quote marks: '“Why did you come here,” or “I don't understand why you came to see me,” Isaac probably wants to know why King Abimelech and his men are there, but this may also be a rhetorical question that shows his strong emotion. (See: [[rc://en/ta/man/translate/figs-rquestion]])'
+
+WARNING at GEN 26:33: note still has straight quote marks: '“So Isaac named the well Shebah, {which means “oath/vow."}”'
+
+WARNING at GEN 26:33: note still has straight quote marks: '“{even} today the name of that city {is} still Beersheba, {which means “well of the oath/vow."}” See how you translated “Beersheba” and its meaning in Gen 21:31.'
+
+WARNING at GEN 27:8: note still has straight quote marks: '“listen to me” or “listen to what I'm saying”. See how you translated “my voice” in Gen 26:5. (See: [[rc://en/ta/man/translate/figs-metonymy]])'
+
+WARNING at GEN 27:8: note still has straight quote marks: '“and do what I tell you {to do}.” or “so that you do what I'm telling you.” or “and obey me.”'
+
+WARNING at GEN 27:36: note still has straight quote marks: '“Don't you still have at least one blessing left for me?” or “Is there still a/some way you can {ask God to} bless me?”'
+
+WARNING at GEN 27:38: note still has straight quote marks: '“Father, isn't there {just/even} one way that you can bless {me}?” or “Father, don't you have at least one blessing left to give me?” It may be more natural to put “my father” or “Father” first in this quote. See what you did in verse 34.'
+
+WARNING at GEN 27:45: note still has straight quote marks: '“and he forgets what you did to him” or “and he no longer thinks about what you did” or “and he doesn't hold a grudge against you anymore”. Rebekah is not saying that Esau would totally forget what Jacob did, but that at some point he would not hold it against him anymore.'
+
+WARNING at GEN 28:13: note still has straight quote marks: '“Then suddenly Yahweh was standing at the top {of the stairway},” or “And there standing at the top {of the stairway} was Yahweh,” or “And Yahweh was {also} there, standing at the top {of the stairway}”. The phrase for “above it” in the Hebrew text is ambiguous. It could mean: 1) “above it” or “at the top {of the stairway}"; or 2) “above/beside him/Jacob”. The interpretation that is not followed in your translation could be put in a footnote.'
+
+WARNING at GEN 28:19: note still has straight quote marks: '“He named that place Bethel, {which means “God’s house,"}” Be consistent here with how you spelled “Bethel” in Gen 12:8 and 13:3.'
+
+WARNING at GEN 29:8: glQuote still has straight quote marks: '“We can't'
+
+WARNING at GEN 29:8: note still has straight quote marks: '“We can't {do that}” or “We have to wait”'
+
+WARNING at GEN 29:17: note still has straight quote marks: '“Leah’s eyes {were} delicate/pretty/weak,” or “Leah had pretty eyes,” The Hebrew word for “delicate” is ambiguous in this context. It can have: 1) a positive meaning of “pretty” or “lovely"; or 2) a negative meaning of “weak”, which implies that Leah’s eyes were plain, dull or unattractive.'
+
+WARNING at GEN 29:32: note still has straight quote marks: '“She named him Reuben, {which means “Look/See, a son!"}” You could include the meaning of Reuben’s name in your translation (or in a footnote), so that people understand why Leah gave him that name. If you do that, make sure the meaning of Reuben’s name matches the way you translate “looked/seen” later in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 29:33: note still has straight quote marks: '“Simeon, {which means “he hears."}” If you include the meaning of Simeon’s name in your translation (or in a footnote), make sure it matches the way you translated “heard” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 29:34: note still has straight quote marks: '“Levi, {which means “joined/attached."}” or “Levi, {which means “be with."}” If you include the meaning of Levi’s name in your translation (or in a footnote), make sure it matches the way you translated “be joined” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 29:35: note still has straight quote marks: '“Judah, {which means “praise."}” See how you translated “praise” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:6: note still has straight quote marks: '“Dan, {which means “he vindicated."}” or “Dan, {which means “he judged in my favor."}” If you include the meaning of Dan’s name in your translation (or in a footnote), make sure it matches the way you translated “he has vindicated” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:8: note still has straight quote marks: '“Naphtali, {which means “my struggle/contest."}” As always, if you include the meaning of a name in your translation or in a footnote, make sure that it matches the text that the name is based on. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:11: note still has straight quote marks: '“Gad, {which means “fortunate/lucky."}” If you include the meaning of Gad’s name in your translation or in a footnote, make sure it matches the way you translated “good fortune” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:13: note still has straight quote marks: '“Asher, {which means “blessed."}” If you include the meaning of Asher’s name in your translation or in a footnote, make sure it matches the way you translated “blessed” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:18: note still has straight quote marks: '“Issachar, {which means “reward."}” See how you translated “reward” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:20: note still has straight quote marks: '“Zebulun, {which means “honor."}” See how you translated “honor” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:24: note still has straight quote marks: '“Joseph, {which means “may he add/give another,"}” If you include the meaning of Joseph’s name here in your translation or in a footnote, make sure it matches the way you translate what Rachel says next. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 30:24: note still has straight quote marks: '“{because} she said,” For some languages it is more natural to put the last half of verse 24 first in the verse and say, “She also said, “May Yahweh add/give another son to me.” So she named that/her son Joseph, {which means “may he add/give another."}” Do what is best in your language. (See: [[rc://en/ta/man/translate/figs-infostructure]])'
+
+WARNING at GEN 31:15: note still has straight quote marks: '“Doesn't he regard/treat us” or “It is obvious that he regards/treats us” or “He obviously is treating us”. This rhetorical question expects the answer “yes” and expresses Rachel and Leah’s anger at how their father treats them. Consider whether or not it is natural in your language to use a rhetorical question here. (See: [[rc://en/ta/man/translate/figs-rquestion]])'
+
+WARNING at GEN 31:27: note still has straight quote marks: '“without telling me {you were leaving}?” or “{Why} didn't you tell me {that you were leaving}?” or “You should have told me {you were leaving}”. Verse 27 is one long rhetorical question in the Hebrew text that expresses Laban’s anger at Jacob. For some languages, it is better to break it up into two or more sentences. Do what is best in your language. (See: [[rc://en/ta/man/translate/figs-rquestion]])'
+
+WARNING at GEN 31:28: note still has straight quote marks: '“You did not {even} let me kiss my daughters and my grandchildren {goodbye} {before they left}!” or “{You left so secretly that} I wasn't even able to say goodbye to my daughters and grandchildren!” For some languages, it may be more natural to mention the daughters before the children. Do what is best in your language. Also see how you translated “kiss” in Gen 27:26-27, and see the note about that at 27:26. (See: [[rc://en/ta/man/translate/figs-infostructure]])'
+
+WARNING at GEN 31:42: note still has straight quote marks: '“If God, the Revered/Awesome One, whom my father Isaac and {grandfather} Abraham serve/worship” or “If God whom my ancestors Abraham and Isaac serve/worship and fear/revere”. The phrase “the Fear of Isaac” is a title for God that is ambiguous in Hebrew (and English). It could mean: 1) “the One/God whom Isaac fears/reveres"; or 2) “Isaac’s God whom {people/others} are afraid/terrified of”. The interpretation that is not used in your translation could be put in a footnote. Make sure it is clear in your translation that Jacob is only talking about one God in this verse, not two or three. Also notice that “my father” and “Isaac” both refer to Jacob’s father Isaac, not two different people.'
+
+WARNING at GEN 31:43: note still has straight quote marks: '“But/Yet there is nothing I can do today/now” or “But I can't do anything now”. Laban uses this rhetorical question to express his emotions and emphasize that there is nothing that he can do. Consider whether or not a rhetorical question fits well here in your language. (See: [[rc://en/ta/man/translate/figs-rquestion]])'
+
+WARNING at GEN 31:47: note still has straight quote marks: '“Jegar Sahadutha {which means “witness heap/pile/mound"},” or “Jegar Sahadutha {which means “heap/pile that reminds"},” If the meaning of “Jegar Sahadutha” and “Galeed” is included in your translation or in a footnote, be sure that it fits with how you translate “heap/pile/mound” in verses 46 and 48, and “witness” in verse 48. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 31:48: note still has straight quote marks: '“they/people call it Galeed.” or “that place is called Galeed.” or “the name of that place is Galeed.” The phrase “he called its name” is used here as an idiom that is very general and means “they/people call it"; it does not refer to Laban. Make sure that is clear in your language. See how you translated this idiom in Gen 11:9.'
+
+WARNING at GEN 31:49: note still has straight quote marks: '“{It is/was} also {called/named} Mizpah,” or “People also call {the place,} Mizpah,” or “{Another name for the place is} Mizpah, {which means “watchtower,"}”'
+
+WARNING at GEN 31:50: note still has straight quote marks: '“{even if} no one {else} is watching us, don't forget {that}” or “remember {that} {even if} no one {else} is watching us,” See how you translated the pronoun “we” in verse 49. (See: [[rc://en/ta/man/translate/figs-dual]])'
+
+WARNING at GEN 32:2: note still has straight quote marks: '“So he named that place Mahanaim, {which means “two camps/armies."}” If you include the meaning of the name “Mahanaim” in your translation or in a footnote, be sure it matches the way you translated “God’s camp” earlier in the verse, so that it is clear why Jacob gave the place that name. Also see how you translated “he called the name of that place” in Gen 28:19. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 32:11: note still has straight quote marks: '“Please rescue me {now}” or “{I'm asking you now to} please save/rescue me”'
+
+WARNING at GEN 32:28: note still has straight quote marks: '“but {rather} {it will be} Israel, {which means “he who struggles/contends with God,"}” If you include the meaning of the name “Israel” in your translation or in a footnote, make sure it fits with how you translate “struggled” in the following clause. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 32:30: note still has straight quote marks: '“So/Then Jacob named the/that place Peniel, {which means “face of God,"}”'
+
+WARNING at GEN 33:10: note still has straight quote marks: '“No, I beg you.” or “Please don't refuse {my gift}.” In verses 10 and 11, Jacob speaks urgently to Esau, because in that culture if Esau accepts Jacob’s gift, he is committing himself to treat Jacob as a friend.'
+
+WARNING at GEN 33:17: note still has straight quote marks: '“the name of that place/town is {called} Succoth, {which means “shelters."}” or “they/people call that place/town Succoth, {which means “shelters."}” The phrase “he called” could refer to Jacob, or it could refer to people in general, as in Gen 11:9; 16:14; 21:31; 25:30; 27:36; 29:34; 31:48. If you include the meaning of the name Succoth in your translation or in a footnote, make sure it matches the way you translate “shelters” earlier in this verse. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 33:20: note still has straight quote marks: '“and he named it El Elohe Israel, {which means “God is the God of Israel."}” The name “El Elohe Israel” could also mean “Powerful/Mighty is the God of Israel” because the Hebrew word “el” can mean “God” or “powerful”. You could put that information in a footnote. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 34:1: note still has straight quote marks: '“went {to/into the city} to visit {with}”. The Hebrew text is ambiguous here. The verb “to see": 1. could be used here as an idiom that means “to visit"; many languages have a similar idiom; or 2. could literally mean that Dinah went “to see/observe” the local women, for example, how they dressed and what jewelry they wore. (See: [[rc://en/ta/man/translate/figs-idiom]])'
+
+WARNING at GEN 34:5: note still has straight quote marks: '“so he didn't say anything {about it}” or “so he didn't tell anyone {about it}”. Make sure your translation of this phrase does not mean that Jacob was totally silent. Rather, it means he did not speak about what Shechem had done to Dinah.'
+
+WARNING at GEN 34:30: note still has straight quote marks: '“I/We {only} have a few men {to defend us},” or “I/We don't have many people {in our family/household},” The words “I”, “me” and “my” refer in this verse to all of Jacob’s family; he uses these pronouns because he is the leader of his family. (See: [[rc://en/ta/man/translate/figs-synecdoche]])'
+
+WARNING at GEN 34:31: note still has straight quote marks: '“He/Shechem should not have treated our sister” or “We couldn't let him/Shechem {just} get away with treating our sister”. This rhetorical question shows Simeon and Levi’s anger and emphasizes that Shechem was wrong to do what he did and implies that he (and his city) deserved justice. (See: [[rc://en/ta/man/translate/figs-rquestion]])'
+
+WARNING at GEN 35:7: note still has straight quote marks: '“El Bethel, {which means “the God of/at Bethel,"}” or “El Bethel, {which means “the God of/at God’s house,"}” (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 35:8: note still has straight quote marks: '“Allon Bacuth, {which means “oak tree of weeping/mourning."}” or “Allon Bacuth, {which means “oak tree where people mourn."}” If you include the meaning of this name in your translation or in a footnote, make sure it fits with how you translated “oak tree” in the previous sentence. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 35:15: note still has straight quote marks: '“Then Jacob called/named that place Bethel, {which means “house of God,"} because God had spoken/talked to him there.” or “Since God had spoken/talked to Jacob at that place, Jacob named it Bethel, {which means “God’s house."}” See how you translated “called the name of that place Bethel” in Gen 28:19.'
+
+WARNING at GEN 35:18: note still has straight quote marks: '“she named her baby {boy} Benoni, {which means “son of my sorrow/trouble."}” The meaning of this name could imply that the child caused Rachel’s death. In the Hebrew text this name is two words connected with a dash (“Ben-oni”). Many translations write it that way, or as one word (“Benoni”), and a few translations write it as “Ben Oni”. Any of these spellings is fine. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 35:18: note still has straight quote marks: '“named him Benjamin {instead}.” or “changed his name to Benjamin, {which means “son of my right hand."}” The phrase “son of my right hand” is an idiom that means “favored son” or “son of strength”. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at line 14245: Verse number is not increasing as expected: moving from 1 to 1
+
+WARNING at GEN 37:8: note still has straight quote marks: '“Do you really expect to” or “Certainly you don't think you will” or “You will never”. The brothers use two rhetorical questions in this verse to express their disagreement with Joseph and to emphasize that they are not happy with him. Do what is best in your language. (See: [[rc://en/ta/man/translate/figs-rquestion]])'
+
+WARNING at GEN 37:10: note still has straight quote marks: '“Do you really expect your mother and me and your brothers to” or “Certainly you don't think that your mother and I or your brothers will”. See how you translated a similar rhetorical question in verse 8. (See: [[rc://en/ta/man/translate/figs-rquestion]])'
+
+WARNING at GEN 37:13: glQuote still has straight quote marks: '“Aren't your brothers shepherding'
+
+WARNING at GEN 37:13: note still has straight quote marks: '“I'm here {and ready to go}.” or “I'm ready {to go}.” or “Yes, {sir}.”'
+
+WARNING at GEN 38:11: note still has straight quote marks: '“{He said/did that} because he said/thought {to himself}, “I don't want Shelah to die like his brothers did!” ” or “{He did/said that} because he was afraid Shelah would die like his brothers had.” or “{Actually Judah did not want Shelah to marry Tamar} because he was afraid/worried {that if he did,} he would also die like his brothers had.”'
+
+WARNING at GEN 38:29: note still has straight quote marks: '“Perez, {which means “break/burst out."}” If you include the meaning of Perez’ name in your translation or in a footnote, make sure it fits with how you translated the previous sentence. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 38:30: note still has straight quote marks: '“Zerah, {which means “brightness."}”'
+
+WARNING at GEN 40:8: glQuote still has straight quote marks: '“Don't interpretations {belong} to God?'
+
+WARNING at GEN 41:15: note still has straight quote marks: '“but no one has been able to explain {to me} what it means.” or “but there isn't anyone who can interpret/explain it {for/to me}.” See how you translated a similar clause in Gen 40:8.'
+
+WARNING at GEN 41:45: note still has straight quote marks: '“Zaphenath-Paneah {which means “explainer/revealer of secrets"},” or “Zaphenath-Paneah {which means “the one who explains/reveals secrets"},” (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 41:51: note still has straight quote marks: '“Manasseh, {which means “forget,"}” or “Manasseh, {which means “stop/not thinking about,"}” If you include the meaning of the name “Manasseh” in your translation or in a footnote, it should fit with the way you translate “forget” in the following clause. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 41:52: note still has straight quote marks: '“Ephraim, {which means “twice fruitful/prosperous,"}” If you include the meaning of Ephraim’s name in your translation or in a footnote, it should fit with the way you translate “fruitful” in the following clause. (See: [[rc://en/ta/man/translate/translate-names]])'
+
+WARNING at GEN 42:12: note still has straight quote marks: '“No/Yes, {you are spies!} {I'm sure} you must have come {here}” or “{That is} not {true}! You have definitely come {here}”. Different languages use “yes” and “no” in different ways, depending on the context. Do what is accurate and natural in this context in your language. Also see how you translated “No” in Gen 18:15.'
+
+WARNING at GEN 42:22: glQuote still has straight quote marks: '`Do not sin against the lad'?'
+
+WARNING at GEN 43:7: glQuote still has straight quote marks: 'that he would say, `Bring your brother down'?”'
+
+WARNING at GEN 44:30: note still has straight quote marks: '“but I/we don't have his youngest son with me/us,” or “without his youngest son,”'
+
+WARNING at GEN 45:28: note still has straight quote marks: '“{That’s} enough! {It must be true!}” or “{I have heard} enough! {I'm convinced!}”'
+
+WARNING at GEN 46:3: note still has straight quote marks: '“Don't be afraid” or “You must not be afraid”'

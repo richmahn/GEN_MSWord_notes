@@ -200,8 +200,7 @@ def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, n
     if completed_process_result.stderr:
         print(f"      Proskomma {BBB} error output was:\n{completed_process_result.stderr.decode()}")
     proskomma_output_string = completed_process_result.stdout.decode()
-    print(f"Proskomma {BBB} output was: {proskomma_output_string}") # For debugging JS helper program only
-    exit(1)
+    # print(f"Proskomma {BBB} output was: {proskomma_output_string}") # For debugging JS helper program only
     output_lines = proskomma_output_string.split('\n')
     if output_lines:
         # Log any errors that occurred -- not really needed now coz they go to stderr
