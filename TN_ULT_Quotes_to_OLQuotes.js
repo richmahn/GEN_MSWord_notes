@@ -389,7 +389,6 @@ getDocuments(pk, testament, book, true, false) // last parameters are "verbose" 
             nRecords++;
             const cv = `${tsvRecord.chapter}:${tsvRecord.verse}`;
             const source = testament === 'OT' ? tokenLookup.uhb : tokenLookup.ugnt;
-            // Get the tokens for this BCV
             const sourceTokens = source[book][cv];
             // console.log(`\n  All OrigL source tokens = (${sourceTokens.length}) ${JSON.stringify(sourceTokens)}`);
 

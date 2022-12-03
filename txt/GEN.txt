@@ -65,7 +65,7 @@ separated between the light and the darkness.
 "separated/divided the light from the darkness {so that each had its own time}." or "caused the light to have its own time and the darkness to have its own time." or "separated the light from the darkness {so that it would be light for a number of hours, and then dark for a number of hours}."
 
    
-Gen 1:5 And God called the light Day, and the darkness he called Night. Then there was evening and there was morning, one day.
+Gen 1:5 And God called the light Day, and the darkness he called Night. Then there was evening, and there was morning, one day.
 
 And God called
 "Then God/he called/named" or "God/He called/named". Some languages omit the connecting word "And" or "Then" here. Consider the best way in your language to connect this sentence with the previous one. (See: grammar-connect-words-phrases)
@@ -548,7 +548,7 @@ male and female he created them.
 
 __________________________Paragraph Break________________________________
 
-Gen 1:28 Then God blessed them, and God said to them, "Be fruitful and multiply, and fill the earth and subdue it. And rule over the fish of the sea and over the bird{s} of the sky and over every living creature that moves on the earth." 
+Gen 1:28 Then God blessed them, and God said to them, "Be fruitful and multiply, and fill the earth and subdue it. And rule over the fish of the sea and over the bird{s} of the sky and over every living thing that moves on the earth." 
 
 Then God blessed them 
 "Then God showed his favor to them" or "Then God caused them to prosper/flourish". See how you translated "blessed" in verse 22.
@@ -578,7 +578,7 @@ and over every living thing that moves on the earth."
 "and every creature/animal that moves/lives on the earth/land." or "and all the creatures/animals that move/live on the earth/land." This phrase refers generally here to every kind of creature that lives on land.
 
 
-Gen 1:29 Then God said, "Behold, I have given to you every plant {that} yields seed that is on the surface of the whole earth and every tree that {bears} fruit {that} yields seed inside it. They will be yours for food.
+Gen 1:29 Then God said, "Behold, I have given to you every plant {that} yields seed that is on the surface of the whole earth and every tree that {has} tree fruit {that} yields seed inside it. They will be yours for food.
 
 Then God said,
 "Then God/he {also} said {to them}," or "Then God/he continued/added," God is still speaking to the human beings, so it may be necessary to add "also" to this quote margin. Some languages need to specify who is being spoken to. Other languages may leave this quote margin implied, since the same subject (God) is talking to the same people. However the repeated quote margin in the Hebrew text could show that God paused before continuing or that he is changing the topic, or to emphasize what he says next. So if it is natural to keep the quote margin here in your language, that is best. (See: writing-quotations)
@@ -605,7 +605,7 @@ They will be yours for food.
 "All of them are yours to eat from." or "You may eat from any/all of those plants."
 
 
-Gen 1:30 And to every living thing of the earth, and to every bird of the sky, and to every{thing} moving on the earth that {has} the breath of life in it, {I have given} every green plant for food." And it was so.
+Gen 1:30 And to every living thing of the earth, and to every bird of the sky, and to every{thing} moving on the earth that {has} living breath in it, {I have given} every green plant for food." And it was so.
 
 And
 "In the same way,"
@@ -1030,7 +1030,7 @@ that {was} its name.
 "that {became} its name." or "that {became} the name of/for that kind/type of animal."
 
 
-Gen 2:20 And the man gave names to all the livestock and to the bird{s} of the sky and to all the living creature{s} of the field{s}, but a suitable helper was not found for the man.
+Gen 2:20 And the man gave names to all the livestock and to the bird{s} of the sky and to all the living creature{s} of the field{s}, but for the man a suitable helper was not found.
 
 And the man
 "So the man" or "The man" or "Adam". For a note about when to first use Adam's name, see verse 19.
@@ -1100,7 +1100,7 @@ because {it was} from a man {that} she was taken."
 "because she was taken {by God} from {the body of} a man." or "because {it was} from {the body of} a man {that} {God} took her." Consider what is the best way to translate this passive clause in your language. (See: figs-activepassive)
 
 
-Gen 2:24 For that {reason} a man will leave his father and his mother, and he will cling to his wife, and they will become as one flesh.
+Gen 2:24 For that {reason} a man will leave his father and his mother, and he will cling to his wife, and they will become one flesh.
 
 For that {reason} 
 "Because of that," or "That is why" or "Since the woman was created from the man's body,"
@@ -1199,7 +1199,7 @@ said to the woman,
 "{That is not true.} You will not die." or "It's not true that you will die."
 
 
-Gen 3:5 For God knows that on the day you eat from it, your eyes will be opened, and you will be like God in knowing good and evil." 
+Gen 3:5 For God knows that on the day you eat from it, then your eyes will be opened, and you will be like God in knowing good and evil." 
 
 For God knows
 "Actually, God/he knows" or "The reason God said that is he knows". The connecting word "For" introduces an explanation here. Consider the best way to do that in your language. 
@@ -1337,7 +1337,7 @@ Gen 3:11 Then he said, "Who told you that you {were} naked? Did you eat from the
 Then he said,
 "So Yahweh God asked {him}," Make sure your translation of "he" refers to Yahweh here, not the man. (See: writing-pronouns)
 
-"Who told you that you were naked?
+"Who told you that you {were} naked?
  "What made you realize/know that you were naked?" or "How did you find out that you were naked?" The pronoun "you" is still singular here. (See: figs-yousingular)
 
 Did you eat from the tree
@@ -1362,7 +1362,7 @@ and I ate {it}."
 "so I ate {it}." or "That is why I ate {it/some}." Consider whether or not it is better in your language to begin a new sentence here.
 
 
-Gen 3:13 Then Yahweh God said to the woman, "What {is} this you have done?" But the woman said, "The serpent deceived me, so I ate {it}."
+Gen 3:13 Then Yahweh God said to the woman, "What {is} this you have done?" And the woman said, "The serpent deceived me, so I ate {it}."
 
 Then Yahweh God said to the woman,
 "So Yahweh God asked the woman," Consider what is the best way to translate this quote margin in your language. (See: writing-quotations)
@@ -1430,7 +1430,7 @@ will strike you {on} the head, and you will strike him {on} the heel."
 
 ________________________Paragraph Break______________________
 
-Gen 3:16 To the woman he said, "I will greatly multiply your pain and your childbearing; you will bear children in pain. Yet your desire {will be} for your husband, and he will rule over you."
+Gen 3:16 To the woman he said, "I will greatly multiply your pain and your childbearing; in pain you will bear children. Yet your desire {will be} for your husband, and he will rule over you."
 
 To the woman he said,
 "{Then} he/God said to the woman," or "{Then} Yahweh God {turned} to the woman and said {to her}," In the Hebrew text, "to the woman" comes first in this sentence, to emphasize her. Do what is natural in your language. Also consider what is the best way to refer to God here in your language. (See: writing-pronouns)
@@ -1452,7 +1452,7 @@ he will rule over you."
 
 ________________________Paragraph Break______________________
 
-Gen 3:17 Then to the man he said, "Since you listened to your wife's voice and ate from the tree that I commanded you by saying, `You must not eat from it,' the ground is cursed because of you. By painful toil you will eat {from} it all the days of your life.
+Gen 3:17 Then to the man he said, "Since you listened to the voice of your wife and ate from the tree that I commanded you, saying, `You must not eat from it,' the ground is cursed because of you. By painful toil you will eat {from} it all the days of your life.
 
 Then to the man he said,
 "Then/Next he/God said to the man," or "Then/Next Yahweh God {turned} to Adam and said {to him}," In the Hebrew text, "to the man" is emphasized. See how you translated a similar case ("to the woman") in verse 16. For a note about when to start using Adam's name in your translation see Gen 2:19.
@@ -1466,7 +1466,7 @@ listened to the voice of your wife
 and ate from the tree 
 "and ate {fruit} from the tree"
 
-that I commanded you by saying, `You must not eat from it,' 
+that I commanded you, saying, `You must not eat from it,' 
 "that I commanded/told you, "Do not eat {any fruit} from it," or "that I commanded you to not eat {any fruit} from." Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. Also see how you translated this command in verse 3. (See: figs-quotesinquotes) 
 
 the ground is cursed because of you.
@@ -2019,7 +2019,7 @@ and the name of the second {was} Zillah.
 "and his second wife's name was Zillah." or "and his second/other wife was named Zillah."
 
 
-Gen 4:20 And Adah bore Jabal. He was the father of {those} who live in tents and own livestock. 
+Gen 4:20 And Adah bore Jabal. He was the father of {those} who live {in} tents and own livestock. 
 
 And Adah bore 
 "Adah gave birth to" or "Adah had"
@@ -2078,7 +2078,7 @@ all {kinds} of tools out of bronze and iron.
 
 _________________________Paragraph Break_________________________
 
-Gen 4:23 And Lamech said to his wives, "Adah and Zillah, listen to my voice. You wives of Lamech, hear my words: For I killed a man for my wound, even a young man for my bruise. 
+Gen 4:23 And Lamech said to his wives, "Adah and Zillah, listen to my voice. Wives of Lamech, hear my words: For I killed a man for my wound, even a young man for my bruise. 
 
 And Lamech said
 "{One time,} Lamech said {proudly}" or "{One day,} Lamech bragged/boasted". Consider what is the best way in your language to introduce this new event. (See: writing-newevent)
@@ -2217,7 +2217,8 @@ And the days of Adam after he fathered Seth were
 "After he/Adam fathered/had Seth, Adam/he lived" or "After Seth's birth, Adam lived" or "After Seth was born, Adam lived"
 
 800 years,
-"{another} 800 years," or "800 {more} years,"
+"{another} 800 years," or "800 {more} years," For some languages, it may be more natural to change the clause order of this sentence and say, "Adam lived 800 {more} years after Seth was born,..." Do what is best in your language throughout this chapter. (See: figs-infostructure)
+
 
 and he fathered {other} sons and daughters.
 "He {also} fathered/had {other} sons and daughters." or "He was {also} the father of {other} sons and daughters." This clause probably refers to all the other children that Adam had, including those who were born before and after Seth was born. Consider whether or not it is better in your language to begin a new sentence here.
@@ -2245,7 +2246,7 @@ he fathered Enosh.
 Gen 5:7 Then after he fathered Enosh, Seth lived 807 years, and he fathered {other} sons and daughters. 
 
 Then after he fathered Enosh, Seth lived
-"After he/Seth had Enosh, Seth/he lived" or "After Enosh's birth, Seth lived" or "After Enosh was born, Seth lived". If you use a pronoun ("he") in this sentence in your translation, make sure it refers to Seth. In fact, throughout chapter 5, make sure it is clear in your translation whom each pronoun refers to. (See: writing-pronouns)
+"After he/Seth had Enosh, Seth/he lived" or "After Enosh's birth, Seth lived" or "After Enosh was born, Seth lived". In fact, throughout chapter 5, make sure it is clear in your translation whom each pronoun refers to. (See: writing-pronouns)
 
 807 years,
 "{another} 807 years," or "807 {more} years,"
@@ -2270,7 +2271,7 @@ And Enosh lived 90 years, then
 "When/After Enosh had lived 90 years," or "When/After Enosh was 90 years old," See how you translated the beginning of a similar new paragraph in this genealogy at verse 6. (See: grammar-connect-time-background)
 
 he fathered Kenan.
-"he fathered/had {a son named} Kenan." or " he fathered/had {a son he/they named} Kenan." or " he fathered/had {a son whose name was} Kenan." (See: figs-explicit)
+"he fathered/had {a son named} Kenan." or "he fathered/had {a son whose name was} Kenan." (See: figs-explicit)
 
 
 Gen 5:10 Then after he fathered Kenan, Enosh lived 815 years, and he fathered {other} sons and daughters.
@@ -2300,14 +2301,14 @@ Gen 5:12 And Kenan lived 70 years, then he fathered Mahalalel.
 And Kenan lived 70 years, then
 "When/After Kenan had lived 70 years," or "When/After Kenan was 70 years old,"
 
-he fathered Mehalalel.
-"he fathered/had {a son named} Mehalalel." or "he fathered/had {a son he/they named} Mehalalel." or "he fathered/had {a son whose name was} Mehalalel." (See: figs-explicit)
+he fathered Mahalalel.
+"he fathered/had {a son named} Mahalalel." or "he fathered/had {a son whose name was} Mahalalel." (See: figs-explicit)
  
 
 Gen 5:13 Then after he fathered Mahalalel, Kenan lived 840 years, and he fathered {other} sons and daughters. 
 
-Then after he fathered Mehalalel, Kenan lived	
-"After he/Kenan had Mehalalel, Kenan/he lived" or "After Mehalalel's birth, Kenan lived" or "After Mehalalel was born, Kenan lived" (See: writing-pronouns)
+Then after he fathered Mahalalel, Kenan lived	
+"After he/Kenan had Mahalalel, Kenan/he lived" or "After Mahalalel's birth, Kenan lived" or "After Mahalalel was born, Kenan lived" (See: writing-pronouns)
 
 840 years,
 "{another} 840 years," or "840 {more} years,"
@@ -2332,7 +2333,7 @@ And Mahalalel lived 65 years, then
 "When/After Mahalalel had lived 65 years," or "When/After Mahalalel was 65 years old,"
 
 he fathered Jared.
-"he fathered/had {a son named} Jared." or "he fathered/had {a son he/they named} Jared." or "he fathered/had {a son whose name was} Jared." (See: figs-explicit)
+"he fathered/had {a son named} Jared." or "he fathered/had {a son whose name was} Jared." (See: figs-explicit)
 
 
 Gen 5:16 Then after he fathered Jared, Mahalalel lived 830 years, and he fathered {other} sons and daughters.
@@ -2363,7 +2364,7 @@ And Jared lived 162 years, then
 "When/After Jared had lived 162 years," or "When/After Jared was 162 years old,"
 
 he fathered Enoch.
-"he fathered/had {a son named} Enoch." or "he fathered/had {a son he/they named} Enoch" or " he fathered/had {a son whose name was} Enoch." (See: figs-explicit)
+"he fathered/had {a son named} Enoch." or "he fathered/had {a son whose name was} Enoch." (See: figs-explicit)
 
 Gen 5:19 Then after he fathered Enoch, Jared lived 800 years, and he fathered {other} sons and daughters.
 
@@ -2392,13 +2393,13 @@ And Enoch lived 65 years, then
 "When/After Enoch had lived 65 years," or "When/After Enoch was 65 years old,"
 
 he fathered Methuselah.
-"he fathered/had {a son named} Methuselah." or "he fathered/had {a son he/they named} Methuselah." or "he fathered/had {a son whose name was} Methuselah." (See: figs-explicit)
+"he fathered/had {a son named} Methuselah." or "he fathered/had {a son whose name was} Methuselah." (See: figs-explicit)
 
 
-Gen 5:22 Then after he fathered Methuselah, Enoch walked with God 300 more years, and he fathered {other} sons and daughters. 
+Gen 5:22 Then after he fathered Methuselah, Enoch walked with God 300 years, and he fathered {other} sons and daughters. 
 
 Then after he fathered Methuselah, 
-"After he had Methuselah," or "After Methuselah was born," or "After Methselah's birth,"
+"After he/Enoch had Methuselah," or "After Methuselah was born," or "After Methselah's birth,"
 
 Enoch walked with God
 "Enoch walked/lived {closely/faithfully} with God" or "Enoch lived {in a close/faithful relationship} with God". The phrase "walked with" is used here as an idiom that means "lived in a close relationship with". Consider whether you have a similar idiom in your language. (See: figs-idiom)
@@ -2434,7 +2435,7 @@ And Methuselah lived 187 years, then
 "When/After Methuselah had lived 187 years," or "When/After Methuselah was 187 years old," Consider again how you translated verses in this chapter that are similar in structure to this verse; see verses 6, 9, 12, 15, 18, 21, 25, and part of verses 3 and 28, and see the note about this at verse 6.
 
 he fathered Lamech.
-"he fathered/had {a son named} Lamech." or "he fathered/had {a son he/they named} Lamech" or "he fathered/had {a son whose name was} Lamech." (See: figs-explicit)
+"he fathered/had {a son named} Lamech." or "he fathered/had {a son whose name was} Lamech." (See: figs-explicit)
 
 
 Gen 5:26 Then after he fathered Lamech, Methuselah lived 782 years, and he fathered {other} sons and daughters. 
@@ -2509,10 +2510,10 @@ and he died.
 
 ___________________________Paragraph Break____________________________
 
-Gen 5:32 And Noah was a son of 500 years, then Noah fathered Shem, Ham and Japheth.
+Gen 5:32 And Noah was a son of 500 years, then Noah fathered Shem, Ham, and Japheth.
 
 And Noah was a son of 500 years, then 
-"After Noah was 500 years old," Noah's sons were not triplets, but were born in different years after Noah was 500 years old. The way you translate this verse should allow for that meaning. (See: figs-grammar-connect-words-phrases)
+"After Noah was 500 years old," Noah's sons were not triplets, but were born in different years after Noah was 500 years old. The way you translate this verse should allow for that meaning. (See: grammar-connect-words-phrases)
 
 Noah fathered
 "he fathered/had". Consider again how you translated "fathered" in this chapter; see verses 4, 6-7, 9-10, 12-13, 15-16, 18-19, 25-26, 28, 30, 32.
@@ -2573,8 +2574,7 @@ will not
 "will no longer"
 
 strive with
-The Hebrew text is ambiguous here. It can mean: (1) "strive/contend with" or "put up 
-with" man's rebellion; (2) "remain/live with/in". The interpretation that is not used in your translation could be put in a footnote.
+The Hebrew text is ambiguous here. It can mean (1) "strive/contend with" or "put up with" man's rebellion (2) "remain/live with/in". The interpretation that is not used in your translation could be put in a footnote.
 
 mankind 
 "human beings" or "people"
@@ -2641,7 +2641,7 @@ Gen 6:5 And Yahweh saw that the wickedness of mankind {was} great on the earth, 
 And Yahweh saw
 "Yahweh knew" or "Yahweh was aware". The verb "saw" is used here as an idiom. Consider whether your language has a similar idiom that would fit well here. Do what is best in your language. (See: figs-idiom)
 
-that wickedness of mankind {was} great on the earth, 
+that the wickedness of mankind {was} great on the earth, 
 "how wicked/evil mankind/people had become on the earth," or "that the people on the earth had become very wicked/evil,"
 
 and that every inclination of the thoughts of their hearts 
@@ -2818,7 +2818,7 @@ the length of the ark {must be} 300 cubits, its width 50 cubits, and its height 
 "It {must be} 140 meters long, 23/twenty-three meters wide, and 14/fourteen meters high." or "It {must be} 450 feet long, 75/seventy-five feet wide, and 45/forty-five feet high." A cubit was about half a meter (18 inches) long, which was the distance from a man's elbow to the tip of his middle finger. You can (1) translate cubits into meters or feet, and put the literal text in a footnote; or (2) keep "cubits" in the main text (so that the numbers 300, 50 and 30 are kept) and put what that equals in meters or feet in a footnote. (See: translate-bdistance)
 
 
-Gen 6:16 Make a window for the ark and finish it to within one cubit from the top. And put the door of the ark in its side. Make a lower, a second, and a third deck. 
+Gen 6:16 Make a window for the ark and finish it to within one cubit from the top. And put the door of the ark in its side. Make a lower, a second, and a third {deck}. 
 
 Make a window for the ark and finish it to within one cubit from the top.
 "Make/Build a window/skylight for the ark/boat by finishing {the sides/walls of} the ark/boat to within one cubit below the top/roof {of the ark/boat}." or "Make/Build a half-meter high window/opening between the top of the walls/sides of the ark and its roof {all the way around}, {to let light and air in}." The meaning of the Hebrew text is not completely certain here, but God was probably telling Noah to make a one-cubit high window or opening at the top of the outside walls of the ark, just below the roof, all the way around the ark, to let light and air into the ark. See the note about "cubit" in verse 15. (See: translate-bdistance)
@@ -2826,7 +2826,7 @@ Make a window for the ark and finish it to within one cubit from the top.
 And put the door of the ark in its side.
 "Also put/build a door in the side of the ark/boat." or "Put/Build a door for the ark/boat in its side." Some translations begin this sentence without a conjunction ("And" or "Also"). Do what is natural in your language. (See: grammar-connect-words-phrases)
 
-Make lower, second, and third {decks}.
+Make a lower, a second, and a third {deck}.
 "Make/Build a lower {deck/level}, a middle {deck/level}, and an upper {deck/level} {on the inside}." or "{and} make/build a lower, second/middle, and third/upper story/floor {on the inside}." or "{and} make/build three {complete} levels/floors {on the inside}." Consider whether or not it is best in your language to begin a new sentence here.
 
 
@@ -2932,7 +2932,7 @@ and for them."
 Gen 6:22 And Noah did {that}; according to all that God had commanded him, so he did.
 
 And Noah did {that};
-"So, {that is what} Noah did;" or "Noah did {all of that}". Some translations begin verse 22 without a conjunction. Do what is best in your language. (See: grammar-connect-time-sequential)
+"So, {that is what} Noah did;" or "Noah did {all of that}". Some translations begin verse 22 without a conjunction. Do what is best in your language.
 
 according to all that God had commanded him, so he did.
 "he did everything just/exactly as God had commanded/told him {to do}."
@@ -3185,7 +3185,7 @@ which {has} in it the breath of life.
 "that breathes {air}." See how you translated this phrase in Gen 6:17. For some languages it may be better to change the order of the clauses in this verse and say, "Pairs of every {kind of} living thing that breathes {air} came to Noah {and went} into the boat." Do what is best in your language. (See: figs-infostructure)
 
 
-Gen 7:16 And those that went in {were} male and female from all flesh; they went in just as God had commanded him. Then Yahweh shut the door behind him.
+Gen 7:16 And those that went in {were} male and female from all flesh; they went in just as God had commanded him. Then Yahweh shut him in.
 
 And those that went in 
 "The pairs/animals that went/came into {the ark/boat}" or "Those animals". Consider whether it is better in your language to use "went" or "came" here. Also consider again how you translated "went" in verses 7, 9, 13, and 15. (See: figs-go)
@@ -3219,10 +3219,10 @@ on the earth
 "{all} over the earth"
 
 {for} forty days,
-"{for} forty days {and forty nights},"For some languages it may be more natural to put this time phrase first in this sentence and say, "{For} forty days {and forty nights} the flood kept getting deeper and deeper {all} over the earth," Do what is best in your language. Also see how you translated this phrase in verse 12. (See: figs-infostructure)
+"{for} forty days {and forty nights}," For some languages it may be more natural to put this time phrase first in this sentence and say, "{For} forty days {and forty nights} the flood kept getting deeper and deeper {all} over the earth," Do what is best in your language. Also see how you translated this phrase in verse 12. (See: figs-infostructure)
 
 and the waters increased and
-"and as the water level rose, " or "As the water got deeper and deeper"
+"and as the water level rose," or "As the water got deeper and deeper"
 
 lifted the ark so that it rose up off the earth.
 "it lifted up the ark/boat so that it floated {on the water} {high} above the earth/ground." or "it made the ark/boat lift/rise up off the ground and float."
@@ -3489,7 +3489,7 @@ dried up from the earth.
 "had dried up {more} from the ground/land." This phrase refers to the ground/land (as verse 8 confirms), not the entire planet.
 
 
-Gen 8:8 Then he sent out the dove from him to see if the waters had receded from the surface of the ground. 
+Gen 8:8 Then he sent out the dove from him to see if the waters had subsided from the surface of the ground. 
 
 Then he
 "Then/Meanwhile he/Noah". The events in verse 8 happened while the raven was still flying back and forth (verse 7). Consider what conjunction best communicates that in your language. (See: grammar-connect-time-simultaneous)
@@ -3513,7 +3513,7 @@ from the surface of the ground.
 "from the surface of the land." or "from the ground/land."
 
 
-Gen 8:9 But the dove did not find a resting place for the sole of its feet, so it returned to him in the ark, because the waters {were} over the surface of the entire earth. And he reached out his hand and caught it and brought it to him into the ark.
+Gen 8:9 But the dove did not find a resting place for the sole of its feet, so it returned to him in the ark, because the waters {were} over the surface of the entire earth. And he reached out his hand and took it and brought it to him into the ark.
 
 But the dove 
 "But it" (See: writing-pronouns)
@@ -3596,7 +3596,8 @@ but it did not return to him again.
 
 ____________________Paragraph Break____________________
 
-Gen 8:13 So it happened in the six hundred and first year, in the first {month}, on the first day of the month, the waters were drying up from the earth. Then Noah removed the covering of the ark and looked, and behold, the surface of the ground was drying	. 
+Gen 8:13 So it happened in the six hundred and first year, in the first {month}, on the first day of the month, the waters were drying up from the earth. Then Noah removed the covering of the ark and looked, and behold, the surface of the ground was drying.
+ 
 So it happened 
 "So it happened {that}" or "So it was,"
 
@@ -3758,7 +3759,7 @@ and offered burnt offerings on the altar.
 "and he {killed them and} offered/sacrificed them as burnt offerings {to Yahweh} on the altar." or "and he {killed them and} burned {their bodies} on the altar as offerings/gifts {to Yahweh} {to worship/honor/thank him}." Notice that animals were not burned alive, but were killed first. Consider whether or not you need to make that information explicit in your translation. (See: figs-explicit)
 
 
-Gen 8:21 And Yahweh smelled the pleasant aroma, and Yahweh said in his heart, "Never again will I curse the ground because of mankind, though the inclination of mankind's hearts {is} evil from their youth. And never again will I destroy every living {thing} as I have done. 
+Gen 8:21 And Yahweh smelled the pleasant aroma, and Yahweh said in his heart, "Never again will I curse the ground because of mankind, though the inclination of mankind's hearts {is} evil from their youth. And never again will I strike every living {thing} as I have done. 
 
 And Yahweh smelled the pleasant aroma,
 "Yahweh smelled the pleasant/sweet aroma/smell {of the sacrifices}," or "When Yahweh smelled the aroma {of the sacrifices}, he was pleased,"
@@ -3835,7 +3836,7 @@ and fill the earth.
 "and fill the earth {with people}." or "and inhabit the whole earth." or "and live/spread all over the earth/world."
 
 
-Gen 9:2 And the fear of you and the dread of you will be on every living thing of the earth, including on every bird of the sky, on every creature that moves on the ground, and on all the fish of the sea. They are given into your hand. 
+Gen 9:2 And the fear of you and the dread of you will be on every living thing of the earth, including on every bird of the sky, on every creature that moves on the ground, and on all the fish of the sea. Into your hand they are given. 
 
 And the fear of you and the dread of you will be on every living thing of the earth,
 "Every living thing/creature on the earth will be afraid and terrified of you," or "All the animals on earth will be very/terribly afraid of you," The phrase "the fear...and the dread" repeats the same idea in two different ways to emphasize how afraid the creatures were. For some languages it may be better to combine the phrase and say "very afraid/terrified". Do what is best in your language. (See: figs-doublet)
@@ -4086,8 +4087,8 @@ Gen 9:15 then I will remember my covenant that {is} between me and you and every
 then I will remember my covenant
 "then I will remember {and keep} my/the covenant/agreement" or "then I will not forget {to keep/fulfill} my/the covenant/treaty". See how you translated "remember" in Gen 8:1. It may need to be translated differently in different contexts. (See: figs-idiom)
 
-that is between me and you
-"that I have established/made between me and you" or "that I have established/made with you"
+that {is} between me and you
+"that {I have established/made} between me and you" or "that I have established/made with you"
 
 and every living creature of all flesh,
 The Hebrew text is ambiguous here. It can mean (1) "and all living creatures of every kind," or "and all the animals, including all the different kinds," (2) "and all {other} living creatures, including all people and animals,"
@@ -4122,7 +4123,7 @@ the everlasting covenant
 between God and
 "between me and" or "which I have established/made with". Make sure it is clear in your translation that God is referring to himself here. (See: figs-123person)
 
-every living creature of all flesh 
+every living creature, with all flesh 
 "all living creatures/beings/things of every kind" or "all people and animals". See how you translated this phrase in verse 15 and how you translated "every living creature" in verses 10 and 12.
 
 that {is} on the earth."
@@ -4303,7 +4304,7 @@ a slave for him.
 "a servant for him/Shem." or "his/Shem's slave/servant." 
 
 
-Gen 9:27 May God enlarge Japheth, and may he live in the tents of Shem. And may Canaan be a slave for him.
+Gen 9:27 May God enlarge Japheth, and may he live in the tents of Shem. And may Canaan be a slave for him."
 
 May God
 "I {also} ask God to" or "I {also} pray that God will"
@@ -4328,7 +4329,7 @@ ____________________Paragraph Break____________________
 Gen 9:28 And after the flood, Noah lived 350 years. 
 
 And after the flood,
-"After/From {the time that} the flood {began}," or "After/From {the beginning of} the flood," Notice that "after the flood" refers to after it began, not when it ended a year later. (See: figs-explicit)
+"After/From {the time that} the flood {began}," or "After/From {the beginning of} the flood," Notice that this phrase refers to when the flood began, when Noah was 600 years old (Gen 7:6), not when it ended a year later, when he was 601 years old (8:13), since he was 950 when he died (verse 29), not 951. (See: figs-explicit)
 
 Noah lived 350 years.
 "Noah lived {another} 350 years." or "Noah lived 350 {more} years." 
@@ -4342,11 +4343,10 @@ So all the days of Noah were 950 years,
 and he died.
 "and {then} he died." or "before he died."
 
-
 10
 
 10:1-32 The Descendants Of Noah's Sons
- 1 Chronicles 1:4-23
+1 Chronicles 1:4-23
 
 Gen 10:1 Now these {are} the generations of the sons of Noah: Shem, Ham, and Japheth; and sons were born to them after the flood.
 
@@ -4544,13 +4544,13 @@ Sidon his firstborn,
 "Sidon {who was} his firstborn {son}," 
 
 then Heth,
-"then {he fathered/had} {a son named} Heth," *Canaan's son Heth was the ancestor of the Hittites, so some translations use "Hittites" here instead and say, "{He was} also {the ancestor of} the Hittites," 
+"then {he fathered/had} {a son named} Heth," *Canaan's son Heth was the ancestor of the Hittites, so some translations use "Hittites" here instead and say, "{He was} also {the ancestor of} the Hittites" 
 
 
 Gen 10:16 and the Jebusites and the Amorites and the Girgashites
 
 and the Jebusites and the Amorites and the Girgashites 
-*"{and Canaan/he was the ancestor of} the Jebusites, Amorites, Girgashites," Consider the best way in your language to list these names of people groups.
+*"{and Canaan/he was the ancestor of} the Jebusites, Amorites, Girgashites," Consider what is the best way in your language to list these names of people groups.
 
 
 Gen 10:17 and the Hivites and the Arkites and the Sinites
@@ -4711,7 +4711,7 @@ the sons of Joktan.
 "Joktan's sons." 
 
 
-Gen 10:30 And their dwelling was from Mesha, {then} you go to Sephar, the mountains of the east.
+Gen 10:30 And their dwelling was from Mesha, {then} you go to Sephar, the mountain{s} of the east.
 
 And their dwelling
 "Their dwelling {place}" or "Their territory/region" or "The region/area where they lived"
@@ -4719,7 +4719,7 @@ And their dwelling
 was from Mesha,
 "extended/reached from {the city of} Mesha {in the west}," See how you translated a similar sentence in verse 19. (See: figs-explicit)
 
-then you go to 
+{then} you go to 
 "all the way to" or "as far as"
 
 Sephar,
@@ -4741,7 +4741,7 @@ the sons of Shem
 according to their clans,
 "and each one had his own clan/family." See how you translated "clans" in verses 5 and 20.
 
-according to their languages, in their lands, in their nations.
+according to their languages, in their lands, according to their nations.
 "Each {clan/family} had/spoke its own language and {lived in} its own territory, and {eventually} became its own people group." or "Each clan/family {grew/multiplied and} became/established its own people/ethnic group that had/spoke its own language and {lived in} its own territory." 
 
 ____________________Paragraph Break____________________
@@ -4758,20 +4758,990 @@ And from those the nations spread out on the earth after the flood.
 "From those {people} {came/descended} {all} the people/ethnic groups {who} spread out on/over the earth after the flood." or "In fact, after the flood {all} the people groups on the earth descended from them and spread out everywhere." Consider again how you translated "nations" in verses 5, 20, 31-32. (See: figs-infostructure)
  
 
+11 
+
+11:1-9 The Tower Of Babel
+
+Gen 11:1 Now it was that the whole earth was one language and the same words.
+
+Now it was that 
+"Now {at first,}" or "Now {for a while,}" The events in chapter 11:1-9 happened before the people listed in chapter 10 had their own languages and before they spread out over the earth (Gen 10:5, 19-20, 30-32). You could include some of that information in a footnote. (See: grammar-connect-time-background)
+
+the whole earth 
+"all {the people on} the earth" or "everyone on the earth" (See: figs-metonymy)
+
+was one language 
+"had/spoke one language" or "spoke/shared the same language"
+
+and the same words.
+"and {spoke/shared} the same words/vocabulary." or "and spoke words everyone knew/understood." or "so everyone understood each other." The phrases "one language" and "the same words" are very similar in meaning and emphasize the fact that everyone spoke the same language. Consider the best way to communicate that in your language. (See: figs-doublet)
+
+
+Gen 11:2 And it happened that as they migrated from the east, then they found a plain in the land of Shinar and settled there. 
+
+And it happened that as 
+"After a while, as/when" or "As/When" or "As time passed," The phrase "it happened that" introduces an important event and helps create suspense so that readers will wonder what the outcome will be. Some translations omit this phrase because it is not natural in their language. Do what is best in your language. (See: writing-newevent)
+
+they migrated 
+"they moved/traveled" or "the people migrated/moved". Consider whether it is better in your language to use a pronoun ("they") or a noun phrase ("the people") here. (See: writing-pronouns)
+
+from the east,
+"from the eastern {regions}," or "{around} in the eastern {regions}," At first after the flood, people lived in the regions around the mountains of Ararat (where the ark had landed). As they began to migrate and spread out to different places (as God had told them to do), they must have headed south at some point, since they ended up at the plain of Shinar, which was south of where the Ararat Mountains were. The reference to "the east" probably reflects the viewpoint of the author (Moses), since the Ararat mountains and the plain of Shinar were both far to the east of where he was living.
+
+then they found
+"they discovered" or "they {eventually} came to" or "and {eventually} came to". Make sure the way you translate this phrase fits with the way you translated the first half of this verse.
+
+a plain in the land of Shinar 
+"a wide/spacious, flat valley/area in the land/region called Shinar". This plain was a wide, flat area between mountains. Also be consistent here with how you translated "land of Shinar" in Gen 10:10.
+
+and settled there.
+"and lived/stayed there." or "and began to live there."
+
+
+Gen 11:3 Then they said to each other, "Come, let us make bricks and bake them with fire." And they had bricks for stones, and they had tar for mortar. 
+
+Then they said to each other, 
+"Then {one day} they urged each other," The events that are described below probably did not happen immediately after they arrived at the plain. Consider what is the best way to begin these events in your language. (See: writing-new event)
+
+"Come, 
+"Come on," Consider whether or not your language has an idiom like this that is used to urge or persuade someone to do something together. (See: figs-idiom)
+
+let us make 
+"let us {work together and} make" or "we should {work together and} make". The pronoun "us" is inclusive here and refers to the people who are talking to each other. (See: figs-exclusive)
+
+bricks
+"{some} {clay/mud} bricks/blocks" or "{some} bricks/blocks {from clay/mud}" (See: figs-explicit)
+
+and bake them with fire." 
+"and harden them with fire." or "and use fire to bake/harden them." or "and put/bake them in/over fire {to make them hard/strong}."
+
+And they had 
+"So {they did that, and} they had" or "They had/used" 
+
+bricks for stones,
+"bricks/blocks {to build with} instead of stone,"
+
+and they had tar
+"and they used tar {between the bricks/blocks}"
+
+for mortar.
+"instead of mortar." or "to hold/stick the bricks/blocks together."
+
+
+Gen 11:4 Then they said, "Come, let us build a city for ourselves and a tower with its top in the heavens, and let us make a name for ourselves, so that we are not scattered over the face of the whole earth."
+
+Then they said,
+"Then they said {to each other}," or "Then they urged {each other},"
+
+"Come,
+"Come on," See how you translated this idiom in verse 3.
+
+let us build
+"let us {work together and} build" or "we should {work together and} build". See how you translated a similar phrase in verse 3.
+
+a city for ourselves
+"a city for us {to live in}"
+
+and
+"that includes/has" or "with"
+
+a tower
+"a {high} tower" or "a {very} tall building"
+
+with its top in the heavens, 
+"that reaches high into the heavens/sky," or "that reaches up to heaven,"
+
+and let us make a name for ourselves, so that we are not scattered
+"{We should do that} to make ourselves famous and to keep us from spreading out" or "{That way} we will become well-known/famous, and we will not separate from each other {and live}". The phrase "make a name for ourselves" is a idiom. Consider whether or not your language has a similar idiom that would work well here. Also see how you translated the word "scattered" in Gen 10:18, 32. (See: figs-idiom)
+   
+over the face of the whole earth."
+"all over the earth/world." or "around the world." (See: figs-idiom)
+
+___________Paragraph Break_________________
+
+Gen 11:5 Then Yahweh came down to see the city and the tower that the sons of mankind had built.
+
+Then
+"Then/But {one day}" 
+
+Yahweh came down 
+"Yahweh came down {from heaven}" (See: figs-explicit)
+
+to see the city 
+"and looked at the city"
+
+and the tower 
+"and the {very} tall building". See how you translated this word in verse 4.
+
+that the sons of mankind 
+"that the people"
+
+had built.
+"were building." or "had started building." Make sure the way you translate this verb fits with the fact that the people had not yet finished building the city (verse 8).
+
+
+Gen 11:6 And Yahweh said, "Behold, {they are} one people, and they all have one language. So this {is} what they have begun to do, and now everything that they plan to do will not be impossible for them. 
+
+ And Yahweh said, 
+"And/Then he said (to himself)," or "He said," Consider what is the best way to refer to Yahweh here in your language. (See: writing-pronouns)
+
+"Behold,
+"Look," This term calls attention to what Yahweh says next. Consider what is the best way to do that in your language.
+
+{they are} one people, 
+The Hebrew text is ambiguous here. It can mean (1) "{they are} one people/ethnic {group}," (2) "the/these people {are} one/united {in what they are doing},"
+
+and they all have 
+"and they all speak/share"
+
+one language.
+"the same language." See how you translated this phrase in verse 1.
+
+ So this {is} what they have begun to do, 
+"This {is} {only} the beginning of what they can/will do {together}."
+
+and now 
+"Now/Soon" 
+
+everything that they plan to do will not be impossible for them.
+"nothing that they plan to do will be impossible for them." or "everything/anything they plan/attempt to do will be possible for them." or "they will be able to do anything/whatever they plan/try to do." The words "not" and "impossible" are two negatives that work together to communicate an emphatic positive statement. Consider what is the best way to translate this in your language. (See: figs-doublenegatives)
+
+
+Gen 11:7 Come, let us go down and there confuse their language, so that they will not understand each other's language." 
+
+Come,
+"{So} come on," or "{So}"
+
+let us 
+"we must". Most Bible scholars think this plural pronoun refers here to God and the fact that he is three Persons in one God. So it is best to keep this plural pronoun in your translation. See what you did for similar pronouns in Gen 1:26.
+
+go down and there 
+"go down there {now} and" or "go to them and"
+
+confuse their language
+"scramble their language" or "mix up their language"
+
+so that they will not understand
+"so that they will not {be able to} understand" or "so that they cannot understand"
+
+each other's language."
+"what they say to each other." or "each other."
+
+
+Gen 11:8 Then Yahweh scattered them from there over the face of the whole earth, and they stopped building the city. 
+
+Then Yahweh
+"Then/So Yahweh {did that and}" or "That is how Yahweh" or "In that way, Yahweh"
+
+scattered them from there 
+"caused the people to leave from there and spread out" or "caused the people to leave from there and settle/live in different places" 
+
+over the face of the whole earth,
+"over the surface of the entire earth," or "all over the earth/world," (See: figs-idiom)
+
+and they
+"so that they"
+
+stopped building
+"had to stop building/constructing"
+
+the city.
+"the city {and the tower}." For some languages it is better to change the order of clauses in this verse (so that events are in the order that they happened) and say, "In that way, Yahweh caused the people to stop building the city {and the tower} and to move away from each other, {so that eventually they lived} all over the world." Do what is best in your language. (See: figs-infostructure)
+
+
+Gen 11:9 For that {reason} they called its name Babel, because there Yahweh confused the language of the whole earth, and from there Yahweh scattered them over the face of the whole earth. 
+
+For that {reason} 
+"That is why"
+
+they called its name 
+"people named the/that city" or "the name of the/that city is" or "the/that city was named/called". Frequently in the Hebrew text, this phrase has a general meaning and does not refer to someone specific.
+
+Babel, 
+"Babel, {which means "confused/mixed-up/scrambled,"}" If you include the meaning of "Babel" here in your translation or in a footnote, be consistent with the way you translate "confused" later in this verse and in verse 7.
+
+because there Yahweh
+"because that is where Yahweh" or "because {it was} in that city {that} Yahweh"
+
+confused
+"mixed up" or "scrambled"
+ 
+the language of the whole earth, 
+"the language that everyone on the earth spoke/shared,"
+
+and from there Yahweh scattered them 
+"and {in that way} Yahweh/he made them spread out from there"
+
+over the face of the whole earth.
+"over the surface of the entire earth." or "all over the earth/world." See how you translated this phrase in verses 4 and 8.
+
+
+11:10-26 Shem's Descendants Down To Abram 
+
+Gen 11:10 These {are} the generations of Shem: Shem {was} the son of 100 years, then he fathered Arpachshad, two years after the flood.
+
+These {are} the generations of Shem:
+"This/Here is the record/list of Shem's descendants:" or "This is Shem's genealogy/family-line:"
+
+Shem {was} the son of 100 years, then he fathered Arpachshad two years after the flood.
+"Two years after the flood {began}, when Shem was 100 years old, he had {a son named} Arpachshad/Arphaxad." The phrase "after the flood" probably refers to two years after the flood began, not after it ended; see a similar case in Gen 9:28. Also be consistent here with how you spelled "Arpachshad/Arphaxad" in Gen 10:22. (See: figs-infostructure)
+
+
+Gen 11:11 Then after he fathered Arpachshad, Shem lived 500 years, and he fathered {other} sons and daughters.
+
+Then after he fathered Arpachshad, Shem lived
+"After he fathered/had Arpachshad/Arphaxad, Shem/he lived" or "After Arpachshad/Arphaxad was born, Shem lived" or "After Arpachshad/Arphaxad's birth, Shem lived". Throughout this section, make sure that names and pronouns (like "he") are used in a way that is accurate and natural in your language, so that it is always clear who is being referred to. (See: writing-pronouns)
+
+500 years, 
+"{another} 500 years," or "500 {more} years," See how you translated Gen 5:7, which has the same sentence structure as 11:11. For some languages, it may be more natural to change the clause order of this sentence and say, "Shem lived 500 {more} years after Arpachshad/Arphaxad was born,..." Do what is best in your language throughout this chapter. (See: figs-infostructure)
+
+and he fathered 
+"and he {also} fathered/had" or "He/Shem was {also} the father of". Consider whether or not it is better in your language to begin a new sentence here. See how you translated this phrase and the following one in Gen 5:4.
+
+{other} sons and daughters.
+"{other} sons, as well as daughters."
+
+
+Gen 11:12 And Arpachshad lived 35 years, then he fathered Shelah. 
+
+And Arpachshad lived 35 years, then
+"When Arpachshad/Arphaxad had lived 35 years, he" or "When Arpachshad/Arphaxad was 35 years old,"
+
+he fathered Shelah. 
+"he fathered/had {a son named} Shelah." or "he fathered/had {a son he/they named} Shelah." or "he fathered/had {a son whose name was} Shelah." See how you translated Gen 5:6, which has the same sentence structure as 11:12.
+
+
+Gen 11:13 Then after he fathered Shelah, Arpachshad lived 403 years, and he fathered {other} sons and daughters.
+
+Then after he fathered Shelah, Arpachshad lived
+"After he fathered/had Shelah, Arpachshad/Arphaxad lived" or "After Shelah was born, Arpachshad/Arphaxad lived" or "After Shem's birth, Arpachshad/Arphaxad lived". Be consistent with how you spell the name "Arpachshad/Arphaxad" in the book of Genesis. See Gen 10:22, 24; 11:10-13. (See: translate-names)
+
+403 years, 
+"{another} 403 years," or "403 {more} years,"
+
+and he fathered 
+"and he {also} fathered/had" or "He/Arpachshad was {also} the father of"
+
+{other} sons and daughters.
+"{other} sons, as well as daughters."
+
+
+Gen 11:14 And Shelah lived 30 years, then he fathered Eber. 
+
+And Shelah lived 30 years, then
+"When Shelah had lived 30 years," or "When Shelah was 30 years old," 
+
+he fathered Eber. 
+"he fathered/had {a son named} Eber." or "he fathered/had {a son whose name was} Eber." 
+
+
+Gen 11:15 Then after he fathered Eber, Shelah lived 403 years, and he fathered {other} sons and daughters.
+
+Then after he fathered Eber, Shelah lived
+"After he/Shelah fathered/had Eber, Shelah/he lived" or "After Eber was born, Shelah lived" or "After Eber's birth, Shelah lived". Be consistent with how you spell the name "Shelah" in Gen 10:24; 11:12-15. (See: translate-names)
+
+403 years, 
+"{another} 403 years," or "403 {more} years,"
+
+and he fathered 
+"and he {also} fathered/had" or "He/Shelah was {also} the father of"
+
+{other} sons and daughters.
+"{other} sons, as well as daughters."
+
+
+Gen 11:16 And Eber lived 34 years, then he fathered Peleg. 
+
+And Eber lived 34 years, then
+"When Eber had lived 34 years," or "When Eber was 34 years old,"
+
+he fathered Peleg. 
+"he fathered/had {a son named} Peleg." or "he fathered/had {a son whose name was} Peleg." (See: translate-names)
+
+
+ Gen 11:17 Then after he fathered Peleg, Eber lived 430 years, and he fathered {other} sons and daughters.
+
+Then after he fathered Peleg, Eber lived
+"After he/Eber fathered/had Peleg, Eber/he lived" or "After Peleg was born, Eber lived" or "After Peleg's birth, Eber lived". Be consistent with how you spell the name "Eber" in Gen 10:24-25; 11:14-17. (See: translate-names)
+
+430 years, 
+"{another} 430 years," or "430 {more} years,"
+
+and he fathered 
+"and he {also} fathered/had" or "He/Eber was {also} the father of"
+
+{other} sons and daughters.
+"{other} sons, as well as daughters."
+
+
+Gen 11:18 And Peleg lived 30 years, then he fathered Reu. 
+
+And Peleg lived 30 years, then
+"When Peleg had lived 30 years," or "When Peleg was 30 years old,"
+
+he fathered Reu. 
+"he fathered/had {a son named} Reu." or "he fathered/had {a son whose name was} Reu." 
+
+
+Gen 11:19 Then after he fathered Reu, Peleg lived 209 years, and he fathered {other} sons and daughters.
+
+Then after he fathered Reu, Peleg lived
+"After he/Peleg had Reu, Peleg/he lived" or "After Reu was born, Peleg lived" or "After Reu's birth, Peleg lived". Be consistent with how you spell the name "Peleg" in Gen 10:25; 11:16-19. (See: translate-names)
+
+209 years, 
+"{another} 209 years," or "209 {more} years,"
+   
+and he fathered 
+"and he {also} fathered/had" or "He/Peleg was {also} the father of"
+
+{other} sons and daughters.
+"{other} sons, as well as daughters."
+
+
+Gen 11:20 And Reu lived 32 years, then he fathered Serug. 
+
+And Reu lived 32 years, then
+"When Reu had lived 32 years," or "When Reu was 32 years old,"
+
+he fathered Serug. 
+"he fathered/had {a son named} Serug." or "he fathered/had {a son whose name was} Serug." 
+
+
+Gen 11:21 Then after he fathered Serug, Reu lived 207 years, and he fathered {other} sons and daughters.
+   
+Then after he fathered Serug, Reu lived
+"After he/Reu had Serug, Reu/he lived" or "After Serug was born, Reu lived" or "After Serug's birth, Reu lived". Be consistent with how you spell "Reu" in Gen 11:18-21. (See: translate-names)
+
+207 years, 
+"{another} 207 years," or "207 {more} years,"
+   
+and he fathered 
+"and he {also} fathered/had" or "He/Reu was {also} the father of"
+
+{other} sons and daughters.
+"{other} sons, as well as daughters."
+
+
+Gen 11:22 And Serug lived 30 years, then he fathered Nahor. 
+
+And Serug lived 30 years, then
+"When Serug had lived 30 years," or "When Serug was 30 years old,"
+
+he fathered Nahor. 
+"he fathered/had {a son named} Nahor." or "he fathered/had {a son whose name was} Nahor." 
+
+
+Gen 11:23  Then after he fathered Nahor, Serug lived 200 years, and he fathered {other} sons and daughters.
+
+Then after he fathered Nahor, Serug lived
+"After he/Serug had Nahor, Serug/he lived" or "After Nahor was born, Serug lived" or "After Nahor's birth, Serug lived". Be consistent with how you spell the name "Serug" in Gen 11:20-23. (See: translate-names)
+
+200 years, 
+"{another} 200 years," or "200 {more} years," 
+
+and he fathered 
+"and he {also} fathered/had" or "He/Serug was {also} the father of"
+
+{other} sons and daughters.
+"{other} sons, as well as daughters."
+
+
+Gen 11:24  And Nahor lived 29 years, then he fathered Terah. 
+
+And Nahor lived 29 years, then
+"When Nahor had lived 29 years," or "When Nahor was 29 years old,"
+
+he fathered Terah. 
+"he fathered/had {a son named} Terah." or "he fathered/had {a son whose name was} Terah." Consider again how you translated verses 12, 14, 16, 18, 20, 22, and 24, which all have the same sentence structure.
+
+
+Gen 11:25  Then after he fathered Terah, Nahor lived 119 years, and he fathered {other} sons and daughters.
+
+Then after he fathered Terah, Nahor lived
+"After he/Nahor had Terah, Nahor/he lived" or "After Terah was born, Nahor lived" or "After Terah's birth, Nahor lived" (See: writing-pronouns)
+
+119 years, 
+"{another} 119 years," or "119 {more} years,"
+
+and he fathered 
+"and he {also} fathered/had" or "He/Nahor was {also} the father of". Consider whether or not it is better in your language to begin a new sentence here.
+
+{other} sons and daughters.
+"{other} sons, as well as daughters." Consider again how you translated verses 11, 13, 15, 17, 19, 21, 23 and 25, which all have the same sentence structure.
+
+
+Gen 11:26  And Terah lived 70 years, then he fathered Abram, Nahor, and Haran. 
+
+And Terah lived 70 years, then 
+"After Terah had lived 70 years," or "After Terah was/turned 70 years old," Your translation needs to allow for the fact that Terah's sons were not triplets (just as Noah's sons were not triplets; see Gen 5:32), rather he started having children after he turned 70 and his sons were born in different years after that. In fact, Abram was not born until Terah was at least 130 years old (11:32, 12:4-5; Acts 7:4), and he was probably Terah's youngest son. Abram is listed first (instead of Haran or Nahor) probably because of his importance as the one whom Yahweh made His covenant with. Some of this information could be put in a footnote.
+
+he fathered Abram, Nahor, and Haran.
+"he fathered/had {sons named} Abram, Nahor, and Haran." or "he fathered/had {sons whose names were} Abram, Nahor, and Haran."
+
+
+11:27-32 Terah's Children, Including Abram
+
+Gen 11:27  Now these {are} the generations of Terah: Terah fathered Abram, Nahor, and Haran; and Haran fathered Lot. 
+
+Now these {are} the generations of Terah: 
+"Here/This {is} the history/account/record about/of Terah and his descendants:" This section is different from the previous section. What follows is a history about Terah's descendants (especially Abram); it is not a genealogy or list of names. See how you translated a similar phrase in Gen 6:9.
+
+Terah fathered Abram, Nahor, and Haran; 
+"Terah fathered/had {sons named} Abram, Nahor, and Haran;" or "Terah's sons were Abram, Nahor, and Haran."
+
+and Haran fathered Lot.
+"and Haran fathered/had {a son named} Lot." or "Haran's son {was named} Lot." or "and Haran had a son {whose name was} Lot."
+
+
+Gen 11:28  Later Haran died in the presence of Terah his father, in the land of his birth, in Ur of the Kasdim. 
+
+Later Haran died in the presence of Terah his father, 
+"Later Haran died while he was with his father Terah," or "While his father Terah was still alive, Haran died"
+
+in the land of his birth, 
+"in the land where he was born," or "in his native land,"
+
+in Ur of the Kasdim.
+"in {the city of} Ur which was ruled/inhabited by the Kasdim/Chaldeans." or "in {the city of} Ur where the Kasdim/Chaldea people lived." The word "Kasdim" probably comes from the name of one of Nahor's sons, Kesed (Gen 22:22), and often refers to the Chaldeans who were a people group that lived in the country of Babylonia (where Ur was located). 
+ 
+
+Gen 11:29  And Abram and Nahor took wives for themselves. The name of Abram's wife {was} Sarai, and the name of Nahor's wife {was} Milcah, the daughter of Haran, the father of Milcah and the father of Iscah. 
+
+And Abram and Nahor
+"Meanwhile Abram and Nahor" or "Abram and Nahor"
+
+took wives for themselves.
+"each married a wife." or "each got married."
+
+ The name of Abram's wife {was} Sarai, 
+"Abram's wife was named Sarai,"
+
+and the name of Nahor's wife {was} Milcah,
+"and Nahor's wife was Milcah."
+
+ the daughter of Haran, the father of Milcah and the father of Iscah.  
+"She/Milcah was the daughter of {his/Nahor's brother} Haran, who was the father of {both} Milcah and {her sister} Iscah." or "Milcah and {her sister} Iscah were Haran's daughters."
+
+
+Gen 11:30  But Sarai was barren; she did not have a child.
+
+But Sarai was barren; 
+"But/Now Sarai was unable to conceive," or "Sarai was not able to become/get pregnant," Consider what is the best way in your language to introduce this background information about Sarai. (See: writing-background)
+
+she did not have a child.
+"{so} she did not have any children." or "{so} she had no children." For some languages it may be better to switch the order of the clauses in this verse and say, "But/Now Sarai did not have any children, because she was not able to conceive." Do what is best in your language. (See: figs-infostructure)
+
+________________Paragraph Break_________________
+
+Gen 11:31  Then Terah took Abram his son and Lot, Haran's son, his son's son, and Sarai his daughter-in-law, the wife of his son Abram, and they went out together from Ur of the Kasdim to go to the land of Canaan. But they came to Haran, and they settled there. 
+
+Then 
+"Then {one day,}" or "{One day,}" Consider what is the best way to begin this new paragraph in your language. (See: writing-newevent)
+
+Terah took
+"Terah gathered" or "Terah brought/called together"
+
+Abram his son
+"his son Abram". Make sure it is clear in your translation of this phrase that "his son" refers to Abram, not another person.
+   
+and Lot, Haran's son, his son's son,
+"and Lot, {who was} his son Haran's son," or "and his grandson Lot, {who was} Haran's son," The phrases "Lot," "Haran's son," and "his son's son" all refer to Lot. Make sure that is clear in your translation and that it does not sound like three people.
+
+and Sarai his daughter-in-law,
+"and his daughter-in-law Sarai," The phrases "Sarai," "his daughter-in-law," and "the wife of his son Abram" all refer to Sarai. Make sure that is clear in your translation.
+
+the wife of his son Abram, 
+"who was his son Abram's wife," or "who was Abram's wife,"
+
+and they 
+"and they {all}" or "and {all of} them" or "Then they {all}". Consider whether or not it is better in your language to begin a new sentence here.
+
+went out together
+"set out together" or "left"
+
+from Ur
+"from {the city of} Ur" or "from Ur {City}". See the note at Gen 10:19 about how to translate the names of cities. (See: figs-explicit}
+
+of the Kasdim
+"of the Chaldeans" or "where the Chaldea people lived". See how you translated this phrase in verse 28.
+
+to go to 
+"to travel to"
+
+the land of Canaan.
+"the region of/called Canaan." or "Canaan Land."
+
+But they came to Haran, and
+"But {on the way there,} they came to {the city of} Haran, and" or "But {along the way,} when they arrived/stopped at {the city of} Haran," The city of Haran was not in the land of Canaan, rather it was around 450 kilometers (280 miles) northeast of there.
+
+they settled there.
+"they settled /stayed there {instead}." or "they decided to settle/live there {instead}."
+
+
+Gen 11:32 And the days of Terah were 205 years, then Terah died in Haran.
+
+And the days of Terah were 205 years, 
+"Then {many years later,} when Terah was 205 years old," or "When Terah reached the age of 205 years,"
+
+then Terah died 
+"he died {there}"
+
+in Haran.
+"in {the city of} Haran." or "in Haran {City}."
+
+
+
+12
+
+12:1-9 God Calls Abram
+
+ Gen 12:1 Then Yahweh said to Abram, "You yourself must go from your land and from your relatives and from the house of your father, to the land that I will show you. 
+
+Then
+"Then {one day}" or "{One day}". Consider the best way to begin this new section in your language. (See: writing-newevent)
+
+Yahweh said to Abram,
+"Yahweh told/commanded Abram," (See: writing-quotations)
+
+"You yourself must go from 
+"Get yourself away from" or "You must move away from" or "You must leave {behind}" 
+
+your land 
+"your homeland/country" or "the land/country where you are living"
+
+and from your relatives 
+"and your relatives/people, 
+
+and from the house of your father,
+"including your father's household/family," (See: figs-metonymy)
+
+ to the land 
+"{and go/move} to the land"
+
+that I will show you. 
+"that I will guide you to."
+
+
+Gen 12:2 And I will make you into a great nation, and I will bless you, and I will make your name great, and you will be a blessing."
+
+And I will make you into 
+"I will make you {and your descendants} become" or "I will make you {the father/ancestor of}"
+
+a great nation, 
+"an important/large people group," or "a large, important people/ethnic group,"
+
+and I will bless you,
+"and I will bless/prosper you {and them}." or "and I will cause you {all} to prosper/flourish." See how you translated "blessed" in Gen 1:22, 28. It may be necessary to translate this term in different ways, depending on the context.
+
+and I will make your name great, 
+"I will make you {important and} well-known/famous," Consider what is the best way to translate this idiom in your language. Also consider whether or not it is better in your language to begin a new sentence here. (See: figs-idiom)
+
+and you must be a blessing."
+"and you will be a blessing {to many people}." or "and you {and your descendants} will bless {many people}." or "and {I will use} you {and your descendants} to bless {many people}." (See: figs-explicit)
+
+
+Gen 12:3 And I will bless those who bless you, but whoever curse you I will curse. And in you all the families of the earth will be blessed."
+
+And I will bless those who bless you, 
+"I will bless everyone who blesses you," 
+
+but whoever curses you I will curse.
+"but I will curse anyone who curses you." See how you translated "curse" in Gen 8:21.
+
+And in you
+"Through you {and your offspring/descendants}" or "Because of you {and your offspring/descendants}" or "By means of you {and your offspring/descendants}". This phrase refers to Abram and his descendants, including ultimately the Messiah. In other words, God's promise in this verse is part of his wonderful news (the Gospel message) for all people (Galatians 3:8-9) and is a prophecy about the Messiah/Christ, who was one of Abraham's descendants (Matthew 1:1, Genesis 22:18, Galatians 3:16). God blessed all people on earth by sending his Son Jesus (the Messiah/Christ) to die in their place and pay for all their sins (John 3:16-18, 1 Timothy 2:3-6), so that they could have a close relationship with him/God and be part of his family forever. God repeats this great promise in Genesis 18:18; 22:18; 26:4; 28:14. You could put some of that information in a footnote. (See: figs-metonymy)
+
+all the families of the earth will be blessed.
+"all the families/people on the earth will be blessed {by me}." or "{I} will bless all the families/people on the earth." Consider what is the best way in your language to translate this passive sentence. For some languages it is clearer to change the order of the sentence and say, "I will use you {and your offspring/descendants} to bless all the families/people on the earth." Do what is best in your language. (See: figs-activepassive)
+
+
+____________________Paragraph Break____________________
+
+Gen 12:4 Then Abram went, just as Yahweh had told him, and Lot went with him. And Abram was the son of 75 years when he departed from Haran.
+
+Then 
+"So". Consider what is the best way in your language to begin this sentence to show that Abram is now doing what God just commanded him to do (verse 1). (See: grammar-connect-words-phrases)
+
+Abram went, just as Yahweh had told him, 
+"Abram left {the city of Haran}, just/exactly as Yahweh had told/commanded him {to do}," or "Abram did/obeyed what Yahweh had told/commanded him {to do} and left {the city of Haran},"
+
+and Lot went with him.
+"and {his nephew} Lot went/left with him."
+
+And Abram 
+"Now Abram" or "Abram". Many translations omit the conjunction "And" or "Now" here. Do what is best in your language. (See: grammar-connect-time-background)
+
+was the son of 75 years 
+"was 75 years old". See how you translated a similar phrase in Gen 5:32 and 11:10.
+
+when he departed from 
+"when he left from" or "when he left" or "when he set out from"
+
+Haran.
+"{the city of} Haran." or "there."
+
+
+Gen 12:5 And Abram took Sarai his wife and Lot the son of his brother and all their possessions that they had accumulated and the people whom they had acquired in Haran, and they set out to go to the land of Canaan. Then they came to the land of Canaan.
+
+And Abram 
+"Abram/He" (See: writing-pronouns)
+
+took Sarai his wife 
+"took/brought {with him} his wife Sarai". Be consistent here with how you spelled "Sarai" in Gen 11:29-31. (See: figs-go)
+
+and Lot the son of his brother
+"and his {deceased} brother's son Lot" or "and his nephew Lot". For some languages it is more natural to make "son of his brother" or "his nephew" explicit in verse 4 (where Lot is first mentioned in this section) and leave it implied here in verse 5. Do what is best in your language. (See: figs-explicit)
+
+and all their possessions that they had accumulated and the people whom they had acquired
+"everything that they owned, including slaves/servants {and everything else} they had acquired/gotten". The word "possessions" is general here and includes slaves, animals, furniture, clothes, and money. See how you translated "slave" or "servant" in Gen 9:25-27.
+
+in Haran,
+"in {the city of} Haran," or "in Haran {City}
+
+and they set out to go
+"and they {all} started traveling"
+
+to the land of Canaan.
+"to the land/region of/called Canaan." or "to Canaan Land."
+
+Then they came to the land of Canaan.
+"Then/Eventually they arrived in Canaan." or "When they reached Canaan," or "When they arrived/got there,"
+
+
+Gen 12:6 Then Abram passed through the land as far as the place of Shechem to the terebinth tree of Moreh. And the Canaanites {were} in the land at that time. 
+
+Then Abram 
+"Abram" or "Abram {and his family}" or "they". Abram is the only one named here because he is in focus. However, your translation should not sound like he traveled alone in verse 6. Also make sure that the way you begin this verse in your translation fits with the way you ended verse 5. (See: figs-metonymy)
+
+passed through 
+"traveled/went through"
+
+the land
+"that land/region". See how you translated "land" in verse 5.
+
+as far as 
+"until they arrived at" or "to"
+
+the place of Shechem 
+The Hebrew text is ambiguous here. It can mean (1) "the city of Shechem" (2) "the/a {sacred} place at/near {the city of} Shechem" 
+
+to the terebinth tree of Moreh. 
+"to Moreh's terebinth/oak tree." or "to the terebinth/oak tree on Moreh's land." Moreh is probably the name of the person who owned the land where the terebinth tree was. A terebinth tree is a large, broadleaf, flowering tree in the cashew family that can grow to a height of 5 to 12 meters (16 to 40 feet). The Hebrew words for "oak" and "terebinth" are similar, so many translations (including LXX) translate this as "oak tree" here. Notice, however, that oak trees and terebinth trees are from two different tree families. (See: translate-unknown)
+
+And the Canaanites {were} in the land at that time. 
+"At/During that time the Canaanites {were still living} in that land/region," For some languages it is clearer and more natural to put the time phrase ("at that time") first in this sentence. (See: figs-infostructure)
+ 
+
+Gen 12:7 Then Yahweh appeared to Abram and said, "To your offspring I will give this land." So he built an altar there to Yahweh, who had appeared to him.
+
+Then
+"but". Yahweh's promise in verse 7 to give Canaan to Abram's descendants contrasts with the fact that the Canaanites were still occupying that region (verse 6). (See: grammar-connect-logic-contrast)
+
+Yahweh appeared to Abram
+"Yahweh came to Abram" or "Yahweh visited Abram". The text does not specify in what form or in what way God appeared to Abram, so your translation should not do that either.
+
+and said, 
+"and said/promised {to him}," (See: writing-quotations)
+
+"To your offspring I will give this land."
+"I will give this land to your offspring/descendants." In the Hebrew text, the phrase "to your offspring" is emphasized by its position at the beginning of this quote. However, for some languages it may be clearer and more natural to change the order of the clauses and say, "I will give this land to your offspring/descendants." Do what is best in your language. (See: figs-infostructure)
+
+So he
+"So/Then he/Abram". Make sure that your translation of this phrase refers to Abram. (See: writing-pronouns)
+
+built an altar 
+"built/made an altar {out of large stones}" or "built/made a sacrifice table/mound {with stones}". See how you translated "altar" in Gen 8:20.
+
+there
+"near the tree" or "in that place"
+
+to Yahweh
+"to worship Yahweh" or "{and burned sacrifices on it} to {thank and} worship Yahweh"
+
+who had appeared to him.
+"who had appeared/come to him {there}." or "because he/Yahweh had appeared/come to him {there}." See how you translated "appeared" earlier in verse 7.
+
+____________________Paragraph Break____________________
+
+ Gen 12:8 Then from there he went on to the mountains to the east of Bethel and pitched his tents, {with} Bethel on the west and Ai on the east. And there he built an altar to Yahweh, and he called on the name of Yahweh.
+
+Then from there 
+"From there" or "From {the place/city of} Shechem"
+
+he went on to 
+"he/Abram {and his family} moved/traveled {south} to" (See: writing-pronouns)
+
+the mountains to the east of
+"the hill country that was east of" or "the mountainous region east of"
+
+Bethel 
+"{the town of} Bethel"
+
+and pitched his tents, 
+"and set/put up his/their tents {there}" or "They set up their tents/camp". Consider whether or not it is better in your language to begin a new sentence here. See how you translated "tent" in Gen 9:21, 27.
+
+{with} Bethel on the west and Ai on the east. 
+"between Bethel to the west and {the town of} Ai to the east." or "Bethel was to the west {of them} and {the town of} Ai was to the east." Consider whether or not it is better in your language to begin a new sentence here. 
+
+And there he built 
+"There he/Abram built/made"
+
+an altar
+"another altar" or "another sacrifice mound". See how you translated "altar" in verse 7.
+
+to Yahweh,
+"{and burned sacrifices on it} to worship Yahweh," See how you translated "to Yahweh" in verse 7.
+
+and he called on the name of Yahweh.
+"and he worshiped/praised Yahweh/him by name." or "he addressed Yahweh/him by {his} name as he worshiped/praised him." or "he used Yahweh's/his name in his prayers and worship." or "he worshiped/praised Yahweh/him." See how you translated a similar clause in Gen 4:26. (See: figs-idiom)
+
+
+Gen 12:9 Then Abram set out and continued to travel toward the Negev. 
+
+Abram
+"Abram/he {and his family}"
+
+set out and continued to travel 
+"traveled in stages" or "moved from place to place"
+
+toward 
+"{south} toward" or "{southward} until they reached"
+
+the Negev.
+"the Negev/Southern {Wilderness/Desert}." The Hebrew word "Negev" can mean "south" or "dry country," so some translations translate the meaning. But most translations transliterate the Hebrew name (as "Negev" or "Negeb") as they do with other names in the Bible. (See: translate-names)
+
+
+12:10-20 Abram And Sarai Go To Egypt
+
+Gen 12:10 Then there was a famine in the land, so Abram went down to Egypt to sojourn there, because the famine {was} heavy in the land. 
+
+Then there was 
+"Now there was". This clause gives the setting for the rest of the sentence. Translate this in a way that is natural in your language.
+
+a famine 
+"a serious/extreme shortage/lack of food" or "a hungry/starving time when food was very/extremely scarce". A "famine" is a prolonged period of time when people are starving because crops are failing, often due to a lack of rain or other severe weather conditions.
+
+in the land,
+"in that land/region/area," or "in the Negev Wilderness/Desert,"
+
+so Abram 
+"so Abram {and his family}"
+
+went down
+"headed/traveled southwest" or "went/traveled/moved {further} south". This phrase refers to the fact that Egypt is lower in elevation than Canaan (verse 5). It is also located southwest of Canaan.
+
+to Egypt 
+"to/toward {the land/country} of Egypt"
+
+to sojourn there, 
+"to live/stay there for a while,"
+
+because the famine {was} heavy 
+"because the food shortage was {very} severe/oppressive"
+
+in the land.
+"in that land/region." or "in the Negev {Wilderness/Desert} {so they could not survive/live there}." It may be more natural to put this clause near the beginning of this verse and say, "Then/Now there was a famine in that land/region that was so heavy/severe/bad that Abram {and his family} {left there and} went down to {the land/country of} Egypt to live for a while." Do what is best in your language. (See: figs-infostructure)
+
+
+Gen 12:11 And it happened that as he was about to enter Egypt, then he said to Sarai his wife, "Behold now, I know that you {are} a woman beautiful in appearance. 
+
+And it happened that as he was about to enter Egypt, 
+"Just before they arrived in Egypt," or "As they approached Egypt," 
+
+then he said to 
+"he/Abram told/urged"
+
+Sarai his wife,
+"his wife Sarai,"
+
+"Behold please, 
+"Listen please," or "Please listen {to me/this}:"
+
+I know that you {are} a woman beautiful in appearance. 
+"I know/realize that you {are} a very beautiful woman." or "You {are} a very beautiful woman."
+
+
+Gen 12:12 So it will happen when the Egyptians see you, then they will say, `This {is} his wife,' and they will kill me but let you live. 
+
+So it will happen when 
+"So when" or "When". Consider whether it is better in your language to begin this sentence with or without a conjunction ("So"). (See: grammar-connect-logic-result)
+
+the Egyptians 
+"the people of/in Egypt"
+
+see you,
+"see/notice you {with me},"
+
+then they will say, `This {is} his wife,' 
+"they will say/know that you are my wife," Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. (See: figs-quotations)
+
+and they will kill me but let you live.
+"Then they will kill me but/and let you live {so that they can have/take you}." Consider whether or not it is better in your language to begin a new sentence here.
+
+
+ Gen 12:13 Please say {that} you {are} my sister, so that it will go well for me for your sake and my life will live because of you."
+
+Please say
+"{So} please tell {people/them}"
+
+{that} you {are} my sister, 
+" `I am his/Abram's sister,' " Consider whether an indirect quote or direct quote is best here in your language. (See: figs-quotations)
+
+so that it will go well for me 
+"so that I will be treated well" or "so that they/people will treat me well"
+
+for your sake
+"because of you"
+
+ and my life will live because of you."
+"and my life will be spared {by them}." or "and they will spare my life." or "and {they will} let me live." For some languages it is not natural to include the phrase "because of you" here, because it repeats the same idea as "for your sake" that was earlier in the sentence. Do what is best in your language.
+
+
+Gen 12:14 Then it happened, when Abram came into Egypt, then the Egyptians saw the woman that she {was} very beautiful.
+
+Then it happened,
+"That is {exactly} what happened:" 
+
+when Abram 
+"When Abram {and his family}". Although Abram is in focus here, your translation should not sound like he was traveling alone. (See: figs-explicit)
+
+came into 
+"entered" or "arrived in"
+
+Egypt, 
+"{the land/country of} Egypt,"
+
+then the Egyptians
+"the Egyptian {people}" or "the people {living} there"
+
+saw the woman that she 
+"saw/noticed that the woman {with him}" or "saw/noticed that Sarai"
+
+{was} very beautiful.
+"{was} {indeed/truly} very beautiful."
+
+
+Gen 12:15 And the officials of Pharaoh saw her, so they praised her to Pharaoh, and the woman was taken into Pharaoh's house.
+
+And the officials of Pharaoh saw her, so 
+"{Some of} the officials/officers who served/ruled under the {Egyptian} king/ruler noticed/spotted her, so" or "When some officials/officers of/under Pharaoh {the king of/over Egypt} saw/noticed her," The term "officials" is general and refers to leaders or rulers who were under Pharaoh and served him. Also, the term "Pharaoh" is a title that refers to the king or ruler over Egypt. However, in the Old Testament, it is treated as a name (that frequently occurs with the title "king of Egypt"), so translators often transliterate "Pharaoh" (which is how other names in the Bible are normally treated). Decide how you will handle this in your translation. (See: translate-names)
+
+they praised her to Pharaoh,
+"they told Pharaoh/him how beautiful she was," or  "they highly recommended her to him," (See: writing-pronouns)
+   
+and the woman was taken 
+"and she/Sarai was taken/brought" or "So he had them bring her/Sarai". Consider what is the best way to translate this passive clause in your language. Also consider whether or not it is better in your language to begin a new sentence here. (See: figs-activepassive)
+
+into Pharaoh's house.
+"into/to his palace {to be one of his wives}."
+
+
+Gen 12:16 Then he treated Abram well for her sake, so that he had flock{s} and herd{s} and male donkeys and male slaves and female slaves and female donkeys and camels.
+
+Then he treated Abram well for her sake, 
+"Then Pharaoh treated Abram well because of her/Sarai," or "The king thought that Abram was her/Sarai's brother, so he treated him well."
+
+so that he had 
+"and Abram acquired {from him}" or "and he gave him/Abram" or "He gave him/Abram". Make sure it is clear in your translation who is being referred to here. Also consider whether or not it is better in your language to begin a new sentence here. (See: writing-pronouns)
+
+flock{s} and herd{s}
+"flocks {of sheep} and herds {of cattle}," or "many sheep and cattle,"
+
+and male donkeys and male slaves and female slaves and female donkeys 
+"as well as men and women slaves/servants, and male and female donkeys,"
+
+and camels.
+"and {larger load-bearing animals called} camels." If camels are not known in your language area, you could include a picture of a camel in your translation. You could also describe it in the text or in a footnote. (See: translate-unknown)
+
+____________________Paragraph Break____________________
+
+Gen 12:17 But Yahweh struck Pharaoh and his house {with} great plagues on account of Sarai the wife of Abram. 
+
+But Yahweh struck Pharaoh and his house 
+"But/Then Yahweh struck/afflicted the king and {the people in} his household/family" or "Then Yahweh caused {King} Pharaoh and {the people} in his household/family to get/be very sick". See how you translated "Pharaoh" in verse 15. You could translate it differently in different contexts. Do what is clear and natural in your language in each context.
+
+{with} great plagues 
+"{with} severe/terrible diseases/illnesses"
+
+on account of Sarai the wife of Abram.
+"because of Sarai, Abram's wife." or "because he/Pharaoh had taken Abram's wife Sarai." For many languages it is clearer and more natural to put this clause first in this verse and say, "But since {King} Pharaoh had taken Abram's wife Sarai, Yahweh afflicted the king and his family {with} severe illnesses." Do what is best in your language (See: figs-infostructure)
+
+
+Gen 12:18 So Pharaoh called for Abram and said, "What {is} this you have done to me? Why did you not tell me that she {was} your wife? 
+
+So Pharaoh
+"So/Then Pharaoh/he" or "So/Then the king" or "So/Then {King} Pharaoh"
+
+called for Abram
+"sent for Abram {to come to him}" or "summoned Abram {before him}"
+
+and said, 
+"and said {to him}," or "and asked {him}," Make sure that the way you translate this quote margin fits with the way that you translate the following quote. (See: writing-quotations)
+
+"What {is} this you have done to me?
+"Why have you treated me so badly?" or "You have treated me very badly!" Pharaoh uses rhetorical questions in verses 18 and 19 to express his anger at what Abram had done; he does not expect Abram to answer him. Some languages must use statements or exclamations here instead. Do what is best in your language. (See: figs-rquestion)
+
+ Why did you not tell me that she {was} your wife?
+"You should have told/informed me that she/Sarai {is} your wife!" (See: figs-rquestion)
+
+
+Gen 12:19 Why did you say, `She {is} my sister,' so that I took her to me as a wife? Now then, behold your wife. Take her and go!" 
+
+Why did you say, `She {is} my sister,' 
+"Why did you say/pretend that she {is} your sister," or "You should not have said/pretended that she {is} your sister," Pharaoh uses this rhetorical question to scold Abram and express his anger at him. Consider the best way to do that in your language. Also consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. (See: figs-rquestion)
+
+so that I took her to me as a wife?
+"so that I took/chose her to be a/my wife!" or "so that I ended up taking her to be my wife!" or "I believed you and took her to be my wife!" For some languages it is clearer and more natural to begin a new sentence here. Do what is best in your language. (See: grammar-connect-logic-result)
+
+Now then,
+"Now therefore," or "So now,"
+
+behold your wife. 
+"here is your wife {back}." or "look, I'm giving your wife back to you."
+
+Take {her} and go!"
+"Take {her} and leave {my country}!"
+
+
+Gen 12:20 Then Pharaoh commanded his men concerning him, and they sent him away and his wife and everything that {belonged} to him.
+
+Then Pharaoh 
+"Then {King} Pharaoh" or "Then the {Egyptian} king" or "Then the king {of/over Egypt}". Consider again how you translated "Pharaoh" in verses 15-18, 20. It may be helpful to read this section aloud to make sure it is clear and natural in your language.
+
+commanded 
+"ordered" or "gave orders to"
+
+his men
+"{some of} his men/soldiers"
+
+concerning him,
+"concerning/about him/Abram," or "to make sure that Abram left," Throughout this verse, make sure it is clear in your translation who is being referred to. (See: writing-pronouns)
+
+and they sent him away 
+"and/so they forced him to leave {the/their country}," or "and/so they expelled him {from Egypt}," (See: grammar-connect- logic-result)
+
+and his wife 
+"along with his wife"
+
+and everything that {belonged} to him.
+"and all that he/they had/owned." or "all his/their possessions." This included Abram's slaves, animals, and everything else that he owned.
+
+
+
 22 
 
 22:1-19 God Tests Abraham's Faith
 
-Gen 22:1 Then it happened after those things that God tested Abraham. And he said to him, "Abraham!" Then he said, "Behold me."
+Gen 22:1 Then it happened after those things that God tested Abraham. And he said to him, "Abraham!" And he said, "Behold me."
 
 Then it happened after those things that 
-"Sometime after those things happened" or "Some time later" or "Several years later". This is the beginning of a new episode that takes place as many as twelve years after Abraham and King Abimelech made their treaty (chapter 21). See how you translated "after those events" in Gen 15:1; it may be necessary to translate this phrase slightly differently here because of the context. (See: writing-newevent)
+"Sometime after those things happened" or "Sometime later" or "Several years later". This is the beginning of a new episode that takes place as many as twelve years after Abraham and King Abimelech made their treaty (chapter 21). See how you translated "after those events" in Gen 15:1; it may be necessary to translate this phrase slightly differently here because of the context. (See: writing-newevent)
 
 God tested Abraham. 
 "God {wanted/decided to} test Abraham." Make sure your translation of this clause does not sound like the test was over. Rather it introduces what the following episode is about.
 
 And he said to him, "Abraham!"
-"So {one day} he called to him, "Abraham!" " or "He called to him, "Abraham!" " or "{This is what happened:} He/God called to him, "Abraham!" "
+"So {one day} he called to him, "Abraham!" " or "He called to him, "Abraham!" " or "{This is what happened:} He/God called to him, "Abraham!" " 
 
 And he said,
 "Abraham replied/responded {to him}," Make sure the way you translate this quote margin fits the context well. (See: writing-quotations)
@@ -4808,7 +5778,7 @@ that I will tell to you."
 
 ______________Paragraph Break_____________
 
-Gen 22:3 So Abraham got up early in the morning and saddled his donkey. Then he took two of his young men with him and Isaac his son, and cut wood for the burnt offering. Then he got up and left for the place that God had told to him.
+Gen 22:3 So Abraham got up early in the morning and saddled his donkey. Then he took two of his young men with him and Isaac his son, and he cut wood for the burnt offering. Then he got up and left for the place that God had told to him.
 
 So Abraham got up early in the morning 
 "So the next morning, Abraham got up early" or "Early the next morning Abraham got up". See how you translated "got up early in the morning" in Gen 20:8.
@@ -4872,7 +5842,7 @@ Then Abraham took the wood for the burnt offering
 "Then Abraham/he took the {fire}wood for the burnt offering {off the donkey}," or "Then Abraham/he took the {fire}wood that they would use to burn the/their sacrifice/offering," See how you translated "{fire}wood" and "burnt offering" in verse 3.
 
 and put {it} on Isaac his son,
-"and loaded/put {it} on his son Isaac{`s shoulder/back} {to carry}" or "and gave {it} to his son Isaac to carry". The Hebrew text does not specify exactly where Abraham put the wood on Isaac. Only specify that in a translation if it is necessary in your language.
+"and loaded/put {it} on his son Isaac{'s shoulder/back} {to carry}," or "and gave {it} to his son Isaac to carry," The Hebrew text does not specify exactly where Abraham put the wood on Isaac. Only specify that in a translation if it is necessary in your language.
 
 and he carried in his hand{s}
 "and/while he himself carried" or "He himself carried". Consider whether or not it is better to begin a new sentence here in your language.
@@ -4887,13 +5857,13 @@ Then the two of them
 "Then Abraham and Isaac" or "Then they". Some languages have a dual pronoun that could be used here. (See: figs-dual)
 
 went on together,
-"walked on together" or "continued walking/heading {toward the mountain}"
+"walked on together," or "continued walking/heading {toward the mountain},"
 
 
 Gen 22:7 and Isaac spoke to Abraham his father and said, "My father?" And he said, "Behold me, my son." Then he said, "Behold the fire pot and the wood, but where {is} the lamb for the burnt offering?"
 
 and Isaac 
-"and {as they went/walked,} Isaac" or "{As they walked,} Isaac". Consider whether or not it is best in your language to begin a new sentence here.
+"and {as they went/walked,} Isaac" or "{As they walked,} Isaac". Consider whether or not it is better in your language to begin a new sentence here.
 
 spoke to Abraham his father and said,
 "said to his father Abraham," or "said," Consider what is the most natural way to translate this quote margin in your language. (See: writing-quotations)
@@ -4911,7 +5881,7 @@ Then he said,
 "Then Isaac asked {him}," or "Isaac asked {him}," (See: writing-quotations)
 
 "Behold
-"Here is/are" or "I see {that we have}".
+"Here is/are" or "I see {that we have}"
 
 the fire and the wood,
 "the fire {pot/coals} and the {fire}wood," or "what/everything we need to make a fire {to burn the sacrifice}," See how you translated "fire" in verse 6.
@@ -4929,7 +5899,7 @@ And Abraham said,
 "Then Abraham said {to him}," or "Abraham answered {him}," (See: writing-quotations)
 
 "God will see for himself 
-"God himself will see {to it that there is}" or "God himself will provide". This is an idiom that means God will provide. Make sure this meaning is clear in your translation. (See: figs-idiom)
+"God himself will see {to it that there is}" or "God himself will provide". This is an idiom that means God will provide the lamb. Make sure this meaning is clear in your translation. (See: figs-idiom)
 
 the lamb for the burnt offering,
 "a lamb/sheep for the burnt offering," or "a lamb/sheep for us to burn as a/our sacrifice/offering {to him}," See how you translated this phrase in verse 7.
@@ -4945,7 +5915,7 @@ went on together.
 
 ___________________Paragraph Break_____________________
 
-Gen 22:9 Then they came to the place that God had told to him, and Abraham built an altar there and arranged the wood. Then he bound Isaac his son and laid him on the altar, on top of the wood.
+Gen 22:9 Then they came to the place that God had told to him, and there Abraham built an altar and arranged the wood. Then he bound Isaac his son and laid him on the altar, on top of the wood.
 
 Then they 
 "When/After they"
@@ -4956,11 +5926,8 @@ came to
 the place that God had told to him, 
 "the place/mountain that God had told him {to go to}". See how you translated this phrase in verse 3.
 
-and Abraham built 
-"Abraham built/made"
-
-the altar there
-"an altar there". See how you translated "altar" in Gen 13:4, 18.
+and there Abraham built the altar
+"Abraham built/made a {stone} altar there". Consider whether or not it is better in your language to begin a new sentence here. See how you translated "altar" in Gen 13:4, 18.
 
 and arranged the wood.
 "and laid/put the wood {on top of it}." Abraham arranged the wood on top of the altar so that it would burn well. Make sure your translation of this phrase does not sound like he lit the fire yet; he did not do that until verse 13 when he sacrificed the ram. 
@@ -5023,8 +5990,7 @@ that you fear God,
 "that you fear/revere me" or "that you deeply respect me". See how you translated "fear" in Gen 20:11.
 
 since you have not withheld your son, your only son, from me."
-"since/because you {obeyed me and} did not hold back your son from me, {yes,} your 
-only son." or "since/because you {obeyed me and} did not refuse to sacrifice your son to me, {even though he is} your only son." See how you translated "your son, your only son" in verse 2.
+"since/because you {obeyed me and} did not hold back your son from me, {yes,} your only son." or "since/because you {obeyed me and} did not refuse to sacrifice your son to me, {even though he is} your only son." See how you translated "your son, your only son" in verse 2.
 
 ___________________Paragraph Break_____________________
 
@@ -5049,10 +6015,10 @@ and sacrificed it as a burnt offering
 "{Then he killed/slaughtered the ram} and burned it on the altar as a sacrifice/offering {to God}". Animals that were sacrificed to God as burnt offerings were killed first before they were burned on an altar. Make sure your translation does not sound like the ram was burned alive. If that is not clear, you could make some of the above implied information explicit in your translation. (See: figs-explicit)
 
 instead of his son.
-"in place of his son" or "as a substitute for his son"
+"in place of his son." or "as a substitute for his son."
 
 
-Gen 22:14 So Abraham called the name of that place "Yahweh-Yireh," as it is said {to} this day, "On Yahweh's mountain it will be seen."
+Gen 22:14 So Abraham called the name of that place "Yahweh-Yireh," as it is said {to} this day, "On mountain of Yahweh it will be seen."
 
 So Abraham
 "That is why Abraham" or "{Because God provided the ram,} Abraham". Make sure it is clear that what Yahweh did in verse 13 is the reason that Abraham gave that place the name "Yahweh-Yireh" in verse 14.
@@ -5488,7 +6454,7 @@ the currency among the merchants.
 
 _______________Paragraph Break___________________
    
-Gen 23:17 So the field of Ephron that {was} in Machpelah which {was} before Mamre, the field and the cave that {was} in it, and every tree that {was} in the field that {was} within all of its surrounding borders, was deeded 
+Gen 23:17 So the field of Ephron that {was} in Machpelah which {was} before Mamre, the field and the cave that {was} in it, and every tree that {was} in the field, that {was} within all of its surrounding borders, was deeded 
 
 So the field of Ephron 
 "So Ephron's field" or "That is how the field that belonged to Ephron"
@@ -5509,7 +6475,7 @@ in the field, that {was} within all of its surrounding borders,
 "in the field, {whatever was} inside its borders," or "anywhere inside the borders/boundaries of the field,"
 
 was deeded 
-"{all of that} was {officially/legally} sold {by Ephron}" or "Ephron sold {all of that}".  Consider the best way to translate this passive clause in your language. (See: figs-activepassive)
+"{all of that} was {officially/legally} sold {by Ephron}" or "Ephron sold {all of that}".  Consider what is the best way to translate this passive clause in your language. (See: figs-activepassive)
 
 
 Gen 23:18 to Abraham as his possession before the eyes of the sons of Heth, before everyone who had come to the gate of his city.
@@ -5557,7 +6523,7 @@ were deeded to Abraham
 "was/were {officially/legally} sold to Abraham". See how you translated this in verse 17.
 
 as property for a burial place from the sons of Heth.
-"by the Hittites, as a burial place/site." or "by the Hittites, so that he had a place where he could bury {his wife who had died}." Consider again how you translated "a burial place" in verses 4, 9, and 20, and how you translated "the sons of Heth" in verses 3, 5, 7, 10, 16, 18, and 20.
+"by the Hittites as a burial place/site." or "by the Hittites, so that he had a place where he could bury {his wife who had died}." Consider again how you translated "a burial place" in verses 4, 9, and 20, and how you translated "the sons of Heth" in verses 3, 5, 7, 10, 16, 18, and 20.
 
 
 24 
@@ -5742,7 +6708,7 @@ Then the servant
 took ten camels from the camels of his master
 "got ten of his master's camels ready {for the trip}". Make sure that your translation of "took" does not imply that the servant stole the camels or valuable things from Abraham. Rather, the "good things" that he loaded on the camels included things that he would give as gifts to Isaac's relatives (verse 53). Also, see how you translated "camels" in Gen 12:16.
 
-and left, and all kinds of good things from his master were in his hand, and he got up and
+and left, and all {kinds of} good {things} from his master {were} in his hand, and he got up and
 "and left {with some other servants}, taking with him many of his master's valuable things {to give as gifts}. Then he" or "and after he loaded them with all kinds of valuable things from his master {to use as gifts}, he left {with some other servants} and". For some languages, it is best to make it explicit here in verse 10 that other servants went with Abraham's chief servant, rather than have them appear suddenly in verse 32. Do what is best in your language. (See: figs-explicit)
 
 went to
@@ -5865,10 +6831,10 @@ And her water jar {was} on her shoulder.
 Gen 24:16 And the young woman {was} a very beautiful-looking virgin, and a man had not known her. And she went down to the spring, and filled her jar and came up.
 
 And the young woman {was} a very beautiful-looking virgin, 
-"She/Rebekah was a very beautiful unmarried young woman". See how you translated "young woman" in verses 14 and 15.
+"She/Rebekah was a very beautiful unmarried young woman," See how you translated "young woman" in verses 14 and 15.
 
 and a man had not known her. 
-"whom no man had ever slept with." See how you translated the idiom "not known a man" in Gen 19:8. (See: figs-idiom)
+"whom no man had ever slept with." or "who had never slept with a man." or "who had never had {marital/sexual} relations with a man." See how you translated the idiom "not known a man" in Gen 19:8. (See: figs-idiom)
 
 And she went down 
 "She went/walked down". Notice that the spring or well was at a place that was lower than the place where Abraham's servant was standing. 
@@ -6005,7 +6971,7 @@ the son of Milcah, whom she bore for Nahor."
 "{who is} a son of Milcah and Nahor." or "{and he is} one of Nahor and Milcah's sons." or "and his parents are Nahor and Milcah." Make sure the way you translate this does not sound like Bethuel was the only son of Milcah and Nahor; they had eight sons (Gen 22: 21-22). Also, in some cultures the father's name is normally given first; in other cultures the mother's name is normally first.
 
 
-Gen 24:25 Then she said to him, "Plenty of both straw and fodder are with us. There is also a place to lodge." 
+Gen 24:25 Then she said to him, "Plenty of both straw and fodder {are} with us. {There is} also a place to lodge." 
 
 Then she said to him,
 "Then she added/continued," Some languages leave this quote margin implied here, because the same person is still talking to the same person. Other languages can keep the quote margin (like the Hebrew text does), to emphasize what Rebekah says next. The quote margin may also indicate that Rebekah paused before she said what she says in verse 25. (See: writing-quotations)
@@ -6066,16 +7032,16 @@ about those things.
 "about what had happened." or "about what the man/servant had said to her."
 
 
-Gen 24:29 Now Rebekah had a brother and his name was Laban, and Laban ran to the man outside at the spring.
+Gen 24:29 Now Rebekah had a brother and his name {was} Laban, and Laban ran to the man outside at the spring.
 
 Now Rebekah had a brother 
 "Now {it so happened that} Rebekah had a brother" or "Rebekah had a brother". Laban was Rebekah's older brother. Some languages have a specific term for "older brother" that fits well here. Also consider the best way to introduce this background information in your language. (See: grammar-connect-time-background)
 
 and his name {was} Laban,
-"whose name {was} Laban" or "named Laban"
+"whose name {was} Laban," or "named Laban,"
 
 and Laban ran 
-"and he ran/hurried/rushed" or "Laban/He ran/hurried" (See: writing-pronouns)
+"and he ran/hurried/rushed" or "Laban/He ran/hurried" Consider whether or not it is better in your language to begin a new sentence here. Also consider what is the best way to refer to Laban here in your language. (See: writing-pronouns)
 
 to the man outside at the spring.
 "out to the spring/well where the man/servant was." or "to where the man/servant was standing beside the spring/well."
@@ -6165,7 +7131,7 @@ So he said,
 
 _______________________Paragraph Break________________________
 
-Gen 24:34 Then he said, "I am a servant of Abraham. 
+Gen 24:34 Then he said, "I {am} a servant of Abraham. 
 
 Then he said,
 "Then/So the man/servant told {them}," Consider again how you referred to "the man" in verses 21, 22, 26, 29-34, and see the note about that at verse 21. (See: writing-quotations)
@@ -6806,7 +7772,7 @@ And Abraham gave everything that {belonged} to him to Isaac.
 
 Gen 25:6 And to the sons of the concubines who {belonged} to Abraham, Abraham gave gifts, and while he was still alive he sent them eastward to the land of Kedem, away from Isaac his son.
 
-And to the sons of the concubines who belonged to Abraham, Abraham gave gifts, 
+And to the sons of the concubines who {belonged} to Abraham, Abraham gave gifts, 
 "Abraham/He also gave {valuable} gifts to the sons he had with his concubines," or "Abraham/He also gave (valuable gifts) to the sons that his servant wives had {for/with him}," See how you translated "concubine" in Gen 22:24. The word "gifts" in this clause is very general and can include domestic animals, servants, gold, silver, and other things. (See: figs-infostructure)
 
 and while he was still alive 
@@ -6915,14 +7881,14 @@ of the sons of Ishmael,
 by their names according to their births:
 "{listed/given} in the order that they were born:"
 
-the firstborn of Ishmael was Nebaioth, 
-"His oldest {son/child} was Nebaioth" (See: translate-names)
+the firstborn of Ishmael {was} Nebaioth, 
+"His oldest {son/child} {was} Nebaioth," (See: translate-names)
 
-then Kedar, and Adbeel, and Mibsam,
-"followed by Kedar, Adbeel, Mibsam," or "After him came Kedar, Adbeel, Mibsam,"
+then Kedar and Adbeel and Mibsam
+"followed by Kedar, Adbeel, Mibsam," or "After him came Kedar, Adbeel, Mibsam," Consider whether or not it is better in your language to begin a new sentence here.
 
 
-Gen 25:14 and Mishma, and Dumah, and Massa,
+Gen 25:14 and Mishma and Dumah and Massa,
 
 and Mishma and Dumah and Massa,
 "Mishma, Dumah, Massa,"
@@ -6939,7 +7905,7 @@ Gen 25:16 Those {were} the sons of Ishmael, and those {are} their names by their
 Those {were} the sons of Ishmael, 
 "Those/They {were} Ishmael's {twelve} sons"
 
-and those {are} their names by their settlements and by their encampments, twelve rulers according to their tribes. 
+and those {are} their names by their settlements and by their camps, twelve rulers according to their tribes. 
 "who became the rulers/leaders of twelve tribes that were named after them, and each tribe lived in its {own} settlements/towns and camps/villages." or "Each of them became the ruler/leader of a tribe that was named after him, and each tribe had its own towns/villages and {tent} camps/settlements." The Hebrew words for "settlements" and "encampments" overlap in meaning. Both refer to temporary or permanent places where people settled, surrounded by some sort of wall or fence. (See: figs-infostructure)
 
 rulers
@@ -6963,7 +7929,7 @@ his people.
 "his ancestors/relatives {who had already died}." or "his ancestors/relatives {who had gone/died before him}." or "his {deceased} ancestors/relatives." (See: figs-explicit)
 
 
-Gen 25:18 And they settled from Havilah to Shur that is near Egypt as you go toward Asshur. He fell in the face of all his brothers.
+Gen 25:18 And they settled from Havilah to Shur that {is} near Egypt as you go toward Asshur. He fell in the face of all his brothers.
 
 And they settled 
 "His/Ishmael's descendants settled/lived"
@@ -7223,7 +8189,7 @@ and sold his birthright to Jacob.
 
 Gen 25:34 Then Jacob gave to Esau bread and lentil stew, and he ate and drank, and got up and left. So Esau despised his birthright. 
 
-Then Jacob gave bread and lentil stew to Esau
+Then Jacob gave to Esau bread and lentil stew
 "Then Jacob gave Esau {some} bread and {some of the} lentil stew/soup" or "Then Jacob gave Esau {some of the} lentil stew/soup and/with {some} bread". Consider again how you translated "stew/soup" in verses 29 and 34. Lentils are small, round, flat, reddish-brown legume seeds that grow inside a pod (similar to peas or beans). If lentils are not known in your area, you could describe them as "a type of legume/bean called lentils". (See: translate-unknown)
 
 and he ate and drank, and got up and left.
@@ -7237,7 +8203,7 @@ So Esau despised his birthright.
 
 26:1-5 God Establishes His Covenant With Isaac
 
-Gen 26:1 Then there was a famine in the land, besides the earlier famine that was in the days of Abraham. So Isaac went to Abimelech the king of the Philistines, to Gerar.
+Gen 26:1 Then there was a famine in the land, besides the earlier famine that was in the days of Abraham. So Isaac went to Abimelech, the king of the Philistines, to Gerar.
 
 Then there was 
 "Then/Now there was". Consider what is the best way in your language to begin this new episode. (See: writing-newevent)
@@ -7366,7 +8332,7 @@ Then the men
 of the place
 "of/from that place/city" or "from there" 
 
-asked about his wife and
+asked about his wife, and
 "started asking {Isaac/him} about Rebekah,"
 
 he said, 
@@ -7406,7 +8372,7 @@ Isaac was laughing with Rebekah his wife.
 "that Isaac was flirting with his wife Rebekah." or "that Isaac was showing affection to his wife Rebekah." There is a word play here in Hebrew (since "Isaac" and "laughing" come from the same root word). Isaac may have been laughing or flirting with Rebekah or physically touching her in an affectionate or intimate way, as a husband would do with his wife.
 
 
-Gen 26:9 So Abimelech called for Isaac and said, "Behold she {is} really your wife! So how could you say, `She {is} my sister'?" And Isaac said to him, "Because I said, `I might die because of her.' " 
+Gen 26:9 So Abimelech called for Isaac and said, "Behold, she {is} really your wife! So how could you say, `She {is} my sister'?" And Isaac said to him, "Because I said, `I might die because of her.' " 
 
 So Abimelech called for Isaac 
 "So/Then {King} Abimelech summoned Isaac" or "So/Then {King} Abimelech sent someone to bring Isaac to him". King Abimelech probably sent a servant to tell Isaac that he wanted him to come talk to him.
@@ -7423,7 +8389,7 @@ So how could you say, `She {is} my sister'?"
 And Isaac said to him,
 "Isaac answered him," Consider what is the best way in your language to translate this quote margin. (See: writing-quotations)
 
-Because I said, `I do not want to die because of her.' "
+Because I said, `I might die because of her.' "
 "Because I thought that I might die because of her." or "{I said that} because I was afraid that someone might kill me in order to take/have her {as a wife}." Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. (See: figs-quotesinquotes)
 
 
@@ -7471,7 +8437,7 @@ and Yahweh blessed him.
 "because Yahweh blessed him." or "Yahweh continued to bless him," Consider whether or not it is more natural in your language to begin a new sentence here that continues into verse 13.
 
 
-Gen 26:13 Then the man became great, and he continued to become even greater until he was exceedingly great.
+Gen 26:13 And the man became great, and he continued to become even greater until he was exceedingly great.
 
 And the man became great, and he continued to become even greater 
 "In that way he/Isaac kept getting more and more wealthy" or "so that he grew/became richer and richer"
@@ -7781,7 +8747,7 @@ and said to him,
 "We have discovered/struck/reached water!" See how you translated "found" in verse 19.
 
 
-Gen 26:33 So he called it Shebah. For that reason the name of the city is Beersheba to this day.
+Gen 26:33 So he called it Shebah. For that {reason} the name of the city {is} Beersheba to this day.
 
 So he called it Shebah. 
 "So Isaac named the well Shebah, {which means "oath/vow."}"
@@ -7795,11 +8761,11 @@ the name of the city {is} Beersheba to this day.
 
 26:34-35 Esau's Hittite Wives
 
-Gen 26:34 And Esau was a son of 40 years, and he took a wife Judith a daughter of Beeri the Hittite, and Basemath a daughter of Elon the Hittite. 
+Gen 26:34 And Esau was a son of 40 years, and he took {as} a wife Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite. 
 And Esau was a son of 40 years, and
 "Now Esau was 40 years old and" or "When Esau was forty years old," Consider again how you translated "a son of...years" in the book of Genesis. See 5:32; 11:10; 12:4; 16:16; 17:1, 17, 24-25; 25:20-21 and 26:34.
 
-he took a wife Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite.
+he took {as} a wife Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite.
 "he married {a woman named} Judith, {who was} the/a daughter of a Hittite {man} named Beeri, and {he also married} {a woman named} Basemath {who was} the/a daughter of a Hittite {man} named Elon." or "he married {two} Hittite women: Judith, whose father was Beeri, and Basemath, whose father was Elon." Make sure it is clear in your translation that Basemath was Esau's second wife, not Beeri's wife.
 
 Gen 26:35 And they were a grief of mind to Isaac and Rebekah.
@@ -7949,8 +8915,8 @@ two good kids of the goats
 so that I will prepare from them
 "so that I can {use the meat from them to} prepare/cook" or "I will {use their meat to} cook/make". Consider whether or not it is more natural in your language to begin a new sentence here.
 
-tasty food for your father, 
-"{some} savory food for your father," or "a tasty/delicious meal for your father," See how you translated "prepare some tasty food for" in verses 4 and 7.
+tasty food for your father 
+"{some} savory food for your father" or "a tasty/delicious meal for your father". See how you translated "prepare some tasty food for" in verses 4 and 7.
 
 such as he loves.
 "the kind he likes best/most." or "{just} the way that he likes it." See how you translated this phrase in verse 4.
@@ -8017,8 +8983,7 @@ and go get {them} for me."
 "and go get {two goats} for me."
 
 
-Gen 27:14
-So he went and got {them} and brought {them} to his mother. Then his mother prepared tasty food such as his father loved.
+Gen 27:14 So he went and got {them} and brought {them} to his mother. Then his mother prepared tasty food such as his father loved.
 
 So he went
 "So Jacob went {to the/their flock}"
@@ -8282,7 +9247,7 @@ came in from his hunt.
 "came back from hunting." or "returned {home} from hunting."
 
 
-Gen 27:31 Then he too prepared tasty food, and brought {it} to his father and said to his father, "Let my father get up and eat from his son's game, so that your soul can bless me." 
+Gen 27:31 Then he too prepared tasty food, and he brought {it} to his father and said to his father, "Let my father get up and eat from his son's game, so that your soul can bless me." 
 
 Then he too prepared tasty food, 
 "Then he/Esau also prepared/cooked a tasty/delicious meal {with/from the meat he had hunted}," Consider again how you translated "prepared tasty food" in verses 4, 7, 9, 14, 31 and "tasty" in verse 17.
@@ -8332,7 +9297,7 @@ and he said,
 that hunted game and brought {it} to me?
 "that/who hunted game/deer meat and brought a meal to me?" or "that/who brought to me a meal made from wild animal/deer meat?" Consider again how you translated "game" in Gen 27:3, 5, 7, 19, 25, 31 and 33. It may be necessary to translate it slightly differently, depending on the context.
 
-And I ate from {it all just before you came, 
+And I ate from {it} all just before you came, 
 "Just before you came {to me}, I finished eating the meal" or "I finished eating it just before you came {here}"
 
 and I blessed him. Indeed he will be blessed."
@@ -8363,7 +9328,7 @@ And he said,
 "Your brother came {to me} and deceived/tricked {me} and stole the blessing that I was planning to give you." or "Your brother deceived/tricked me so that I blessed him instead of you!"
 
 
-Gen 27:36 Then he said, "Is it because his name is called Jacob that he has defrauded me these two times? He took my birthright, and behold now he has taken my blessing!" 
+Gen 27:36 Then he said, "Is it because his name is called Jacob that he has defrauded me these two times? He took my birthright, and behold now he has taken my blessing!" Then he said, "Have you not reserved a blessing for me?"
 
 Then he said, 
 "Then Esau exclaimed {bitterly/angrily}," or "{When Esau heard that,} he said/exclaimed {bitterly/angrily},"
@@ -8382,6 +9347,8 @@ behold now
 
 he has taken my blessing!"
 "he has {also} stolen my blessing!" or "he has tricked/deceived you into blessing him instead of me!"
+
+____________________Paragraph Break____________________
 
 Then he said, 
 "Then he/Esau begged {his father}," or "Then he/Esau pleaded {with his father},"
@@ -8660,7 +9627,7 @@ take a wife from the daughters of Canaan."
 "take/marry a woman who is a descendant of Canaan," or "take/choose a wife from among the Canaanite women," or "marry a Canaanite woman," See how you translated this sentence in verse 1.
 
 
-Gen 28:7 and that Jacob listened to his father and to his mother and went to Paddan Aram. 
+Gen 28:7 and {that} Jacob listened to his father and to his mother and went to Paddan Aram. 
 
 and {that} Jacob 
 "and {also} {saw/observed that} Jacob" or "{Esau also saw/noticed that} Jacob". Consider whether or not it is better in your language to begin a new sentence here.
@@ -8689,7 +9656,7 @@ So Esau went to Ishmael
 and he took as a wife Mahalath, the daughter of Ishmael Abraham's son, 
 "and married Abraham's granddaughter Mahalath, who was Ishmael's daughter" or "and married Mahalath, who was the daughter of Abraham's son Ishmael". It may be more natural to move "Abraham's son" earlier in this sentence and say, "So/Then Esau went to {the family of} Abraham's son Ishmael and married Ishmael's daughter Mahalath, whose brother was Nebaioth." (See: figs-infostructure)
 
-and the sister of Nebaioth, 
+the sister of Nebaioth, 
 "and {who was} the {younger} sister of Nebaioth," or "and whose {older} brother was Nebaioth," Be consistent here with how you spelled "Nebaioth" in Gen 25:13. Since Nebaioth was Ishmael's oldest child, Mahalath was his younger sister, probably from the same mother. Use a kinship term here in your language for "sister" or "brother" that fits with those facts. (See: translate-kinship)
  
 in addition to his wives {who belonged} to him.
@@ -8790,7 +9757,7 @@ I {am} with you,
 and I will watch over you 
 "I will protect/guard you" or "I will take care of you". Consider whether or not it is better in your language to begin a new sentence here.
 
-in every place that you go,
+in every {place} that you go,
 "everywhere that you go/live," or "wherever you go/live,"
 
 and I will bring you back to this land. 
@@ -8852,7 +9819,7 @@ and he poured oil on its top.
 "Then he poured {some} {olive} oil on top of the stone/pillar {to dedicate the place to God}." In Bible times people poured olive oil on a person's head or on objects (as here) to dedicate that person or object to God. Make sure that the way you translate "oil" does not refer to motor oil. (See: translate-symaction)
 
 
-Gen 28:19 And he called the name of that place Bethel, even though Luz had been the name of the town at first.
+Gen 28:19 And he called the name of that place Bethel, even though Luz {had been} the name of the town at first.
 
 And he called the name of that place Bethel, 
 "He named that place Bethel, {which means "God's house,"}" Be consistent here with how you spelled "Bethel" in Gen 12:8 and 13:3.
@@ -8880,7 +9847,7 @@ and he gives to me bread to eat and clothes to wear,
 "and if you give/provide me food to eat and clothes to wear," or "and if you provide me with food and clothes". In this context "bread" refers to food in general, not just bread. (See: figs-metonymy)
 
 
-Gen 28:21 and I return in peace to the home of my father, then Yahweh will be my God, 
+Gen 28:21 and I return in peace to the home of my father, then Yahweh will be God to me, 
 
 and I return in peace 
 "and {if} I come back safely" or "so that I return safely"
@@ -8889,13 +9856,13 @@ to the home of my father,
 "to my father's/family's home," or "to my family,"
 
 then Yahweh will be God to me,
-"then Yahweh, {you} will be the God whom I serve/worship" or "then I will serve/worship {you} Yahweh as my God" (See: figs-123person)
+"then Yahweh, {you} will be the God whom I serve/worship," or "then I will serve/worship {you} Yahweh as my God," (See: figs-123person)
 
 
 Gen 28:22 and this stone that I have stood up {as} a pillar will be the house of God, and all that you give to me I will tithe a tenth to you."
 
 and this stone that I have stood up {as} a pillar will be the house of God,
-"This stone that I have set up will be your house and will mark the/this place {where you appeared to me}," or "and this memorial stone that I set up will remind people that you live here," See how you translated "as a pillar" in verse 18.
+"This stone that I have set up will be your house and will mark the/this place {where you appeared to me}," or "and this memorial stone that I set up will remind people that you live here," See how you translated "as a pillar" in verse 18. Consider whether or not it is better in your language to begin a new sentence here.
 
 and all that you give to me I will tithe a tenth to you."
 "and everything that you give to me, I will give a tenth of it back to you." or "and I will give back to you ten percent of everything that you give to me." Consider again how you translated the way Jacob refers to Yahweh in verses 20-22; see the note about this at verse 20. Also see how you translated "tithe" in Gen 14:20. (See: figs-123person)
@@ -9134,7 +10101,7 @@ Then he told Laban all these things,
 "Then he/Jacob told Laban {about himself and} everything that had happened," Laban's response in verse 14 implies that Jacob told him about himself here in verse 13. (See: figs-explicit)
 
 
-Gen 29:14 and Laban said to him, "You {are} indeed my bone and my flesh!" 
+Gen 29:14 and Laban said to him, "You {are} indeed my bone and my flesh!" Then he stayed with him a month of days.
 
 and Laban said to him, 
 "and Laban responded/exclaimed," (See: writing-quotations)
@@ -9185,7 +10152,7 @@ but Rachel was lovely of form and beautiful of appearance.
 "but/whereas Rachel's face and figure/shape were lovely/beautiful." or "but/whereas Rachel was extremely beautiful in every way."
  
 
-Gen 29:18 And Jacob loved Rachel, so he said, "I will serve you seven years for your younger daughter Rachel."
+Gen 29:18 And Jacob loved Rachel, so he said, "I will serve you seven years for Rachel your younger daughter."
 
 And Jacob loved Rachel, 
 "Jacob was in love with Rachel," or "Jacob had fallen in love with Rachel,"
@@ -9282,7 +10249,7 @@ So he said to Laban,
 "What {is} this you have done to me?
 "Why have you treated me like this?" or "You have treated me very badly!" In this verse, Jacob uses rhetorical questions to communicate how angry and upset he is. Consider the best way to do that in your language. Also see how you translated this question in Gen 12:18, 20:9, 26:10. (See: figs-rquestion)
 
-Was it not for Rachel that I served with you?
+Was {it} not for Rachel that I served with you?
 "{You know that} Rachel is the one I served you for!" or "You know very well that I worked for you in order to marry Rachel!" (See: figs-rquestion)
 
 So for what {reason} have you deceived me?"
@@ -9508,7 +10475,7 @@ And Jacob's anger burned against Rachel, and he said,
 "I am not in the place of God, who has kept/prevented you from having children!" or "I am not God! He is the one who has kept/prevented you from having children!" Jacob uses a rhetorical question here to show that he is upset with Rachel and to strongly emphasize his point. Do what is best in your language to communicate this. (See: figs-rquestion)
 
 
-Gen 30:3 Then she said, "Behold my servant woman Bilhah. Go to her, so that she will bear children on my knees, and from her I also will be built up." 
+Gen 30:3 Then she said, "Behold my servant woman Bilhah. Go to her, so that she will bear {children} on my knees, and I also will be built up from her." 
 
 Then she said,
 "Then Rachel told {him}," or "Rachel replied {to him}," (See: writing-quotations)
@@ -9693,7 +10660,7 @@ Then Rachel said to Leah,
 "Please give me some of the fertility/love plants that your son found." See how you translated "mandrakes" earlier in this verse. (See: translate-unknown)
 
 
-Gen 30:15 But she said to her, "Is it a small matter you have taken my husband? And would you also take my son's mandrakes?" Then Rachel said, "Therefore he may lie with you {for} the night for your son's mandrakes."
+Gen 30:15 But she said to her, "Is it a small matter you have taken my husband? And would you also take my son's mandrakes?" Then Rachel said, "Therefore he may lie with you tonight for your son's mandrakes."
 
 But she said to her,
 "But Leah replied to her," of "But Leah retorted," or "But Leah scolded her," (See: writing-quotations)
@@ -9987,7 +10954,7 @@ to remove from there
 every speckled and spotted lamb and every dark-colored lamb among the sheep, 
 "all the lambs that are speckled, spotted or dark-colored," or "all the lambs that have speckles or spots, or that are dark-colored," The Hebrew word for "speckled" refers to small spots, whereas "spotted" refers to medium-sized and bigger spots. In that part of the world, most sheep were white and most goats were solid brown or black. So Jacob was asking for the irregular animals for himself, including white sheep with dark marks, dark-colored goats with light marks and dark-colored lambs. You could put some of this information in a footnote.
 
-and the spotted and speckled young among the goats. 
+and the spotted and speckled {young} among the goats. 
 "and {all} the young/kid goats that are spotted or speckled."
 
 And that will be my wages.
@@ -10077,24 +11044,24 @@ in the water troughs where the flock{s} came to drink,
 "where the flock{s} came to drink," or "that the flock{s} would come to drink from," The way you translate this should allow for the fact that the animals came to the watering troughs repeatedly or regularly throughout the day, not just one time.
 
 in front of the flock{s}. 
-"in front of them" or "so that the flock{s} would see the branches {there}."
+"in front of them." or "so that the flock{s} would see the branches {there}."
 
-And they were in heat when they came to drink, and
-"{That way, whenever} the animals that were ready to mate/breed came {to the troughs/tubs} to drink," or "The flocks {often} mated when they came {to the troughs/tubs} to drink, so"
+And they were in heat when they came to drink,
+"The flocks {often} mated when they came {to the troughs/tubs} to drink," or "{That way, whenever} the animals that were ready to mate/breed came {to the troughs/tubs} to drink," The way you translate this clause will determine whether you begin the next verse with a conjunction ("and" or "so") or without a conjunction. Do what is best in your language.
 
 
 Gen 30:39 and the flock{s} would mate by the branches, and the flock{s} would bear streaked, speckled and spotted {young}. 
 
-the flock{s} would mate by the branches, 
-"they would mate in front of the branches." or "they would mate where they could see the branches." or "they would see the branches as they were mating/breeding." Make sure your translation of the verbs in this verse refers to a repeated or habitual pattern, not a one-time event.
+and the flock{s} would mate by the branches, 
+"and/so they would mate in front of the branches," or "they would mate where they could see the branches," or "they would see the branches as they were mating/breeding," Make sure your translation of the verbs in this verse refers to a repeated or habitual activity, not a one-time event.
 
 and the flock{s} would bear streaked, speckled and spotted {young}.
-"As a result, they would bear/have {young/offspring that were} streaked or speckled or spotted." See how you translated "speckled" and "spotted" in verses 32-33 and 35. Also consider what is the most natural way in your language to refer to the flocks in verses 38 and 39. (See: writing-pronouns)
+"As a result, they would bear/have {young/offspring that were} streaked or speckled or spotted." Consider whether or not it is better in your language to begin a new sentence here. See how you translated "speckled" and "spotted" in verses 32-33 and 35. Also consider what is the most natural way in your language to refer to the flocks in verses 38 and 39. (See: writing-pronouns)
 
 
 Gen 30:40 Then Jacob set apart the lambs, and he made the faces of the flock{s} look at the streaked and all the dark-colored {animals} in the flock{s} of Laban. And he put flocks for himself by themselves, and he did not put them with the flock{s} of Laban.
 
-Then Jacob would set apart the lambs, 
+Then Jacob set apart the lambs, 
 "Then Jacob separated those young animals {from Laban's flocks} {to form/make new flocks for himself}," (See: figs-explicit)
 
 and he made the faces of the flock{s} look at 
@@ -10313,7 +11280,7 @@ and gave {them} to me.
 
 _______________________Paragraph Break________________________
 
-Gen 31:10 And it happened in the season the flock{s} were in heat, and I lifted my eyes and saw in a dream that behold, the male goats that were mounting the flock{s} {were} streaked, speckled and spotted. 
+Gen 31:10 And it happened in the season the flock{s} were in heat, and I lifted my eyes and saw in a dream that behold, the he-goats that were mounting the flock{s} {were} streaked, speckled and spotted. 
 
 And it happened
 "One time/night"
@@ -10409,18 +11376,18 @@ Gen 31:15 Are we not regarded by him {as} foreigners? For he sold us, and he has
 Are we not regarded by him 
 "Doesn't he regard/treat us" or "It is obvious that he regards/treats us" or "He obviously is treating us". This rhetorical question expects the answer "yes" and expresses Rachel and Leah's anger at how their father treats them. Consider whether or not it is natural in your language to use a rhetorical question here. (See: figs-rquestion)
 
-as foreigners?
+{as} foreigners?
 "like foreigners/strangers {not family}" or "as if we were foreigners/strangers {instead of family}"
 
 For he sold us,
-"For example, he sold us {to you}," or "After all, he sold us {to you},
+"For example, he sold us {to you}," or "After all, he sold us {to you}," This sentence is an example of how Laban treated his daughters like foreigners. 
 
 and he has indeed completely eaten up 
 "and then he spent all" or "and then he used up all". The phrase "eaten up" is used here as an idiom that means Laban had spent or kept for himself all the wealth he had gained from Jacob's 14 years of working for him. Many languages have a similar idiom that could be used here. Do what is best in your language. (See: figs-idiom)
 
 our silver. 
 "the money/wealth that should have been ours." or "the money/wealth that belonged to us." In that culture at that time, silver was a currency used to buy and sell things. (See: translate-unknown)
- 
+
 
 Gen 31:16 For all the wealth that God took from our father {belongs} to us and to our children. So now, do all that God has said to you."
 
@@ -10493,7 +11460,7 @@ by not informing him that he was fleeing.
 "by not informing/telling him that he was fleeing/leaving." or "by fleeing/leaving {secretly} without informing/telling him that he was leaving." (See: figs-infostructure)
 
 
-Gen 31:21 And he fled and all that {belonged} to him. And he got up and crossed the river and set his face {toward} the mountain{s} of Gilead.
+Gen 31:21 And he fled and all that {belonged} to him. And he got up and crossed the River and set his face {toward} the mountain{s} of Gilead.
 
 And he fled
 "So Jacob {and his family} ran away" or "So {in that way} Jacob ran away {with his family}". This statement summarizes an event that already happened (see verses 18 and 20). Make sure your translation of this verse does not sound like Jacob left a second time. To make this clear you could say, "After Jacob {and his family} ran away with everything that they owned, they {quickly} crossed the {Euphrates} River and headed toward the hill country of Gilead." 
@@ -10559,13 +11526,13 @@ you do not speak with Jacob either good or bad."
 
 _______________________Paragraph Break________________________
 
-Gen 31:25 And Laban overtook Jacob, and Jacob had pitched his tents in the mountain{s}, so Laban with his relatives pitched {theirs} in the mountain{s} of Gilead.
+Gen 31:25 And Laban overtook Jacob, and Jacob had pitched his tent{s} in the mountain{s}, so Laban with his relatives pitched {theirs} in the mountain{s} of Gilead.
 
 And Laban overtook Jacob, and 
 "So {when} Laban overtook Jacob," or "{By the time that} Laban caught up with Jacob," Make sure that the way you translate this clause does not sound like Laban overtook Jacob a second time. This is referring to what already happened in verse 23. See how you translated "overtook" there. (See: writing-background)
 
-Jacob had pitched his tent
-"Jacob had {already} set/put up his tents" or "Jacob {and his family} had {already} set up camp". Make sure it is clear in your translation that Jacob had already pitched his tents before Laban arrived. Also see how you translated "pitched his tent" in Gen 12:8, 26:25. (See: writing-background)
+Jacob had pitched his tent{s}
+"Jacob {and his family} had {already} set/put up his/their tents" or "Jacob {and his family} had {already} set up camp". Make sure it is clear in your translation that Jacob had already pitched his tents before Laban arrived. Also see how you translated "pitched his tent" in Gen 12:8 and 26:25. (See: writing-background)
 
 in the mountain{s}, 
 "in the mountain region {of Gilead}," or "in the hill country {of Gilead}," For some languages it is clearer and more natural to make "Gilead" explicit here (rather than later in this verse). Do what is best in your language. Also see how you translated "mountain{s} of Gilead" in verses 21 and 23. (See: figs-explicit)
@@ -10601,18 +11568,18 @@ like captives of the sword!
 "like prisoners of war!" or "as if you had captured them in battle!" (See: figs-simile)
 
 
-Gen 31:27 For what {reason} did you secretly flee and deceive me, and not tell me, so that I could have sent you with joy and with songs, with tambourines and lyres?
+Gen 31:27 For what {reason} did you secretly flee and deceive me, and not tell me, so that I could have sent you with joy and with songs, with tambourines and with lyres?
 
 For what {reason} did you secretly flee and deceive me, 
 "Why did you deceive/trick me and secretly run away" or "Why did you deceive me by secretly running away" (See: figs-infostructure)
 
 and not tell me
-"without telling me {you were leaving}?" or "Why didn't you tell me {that you were leaving}?" or "You should have told me {you were leaving}". Consider whether it is better in your language to begin a new sentence here. Verse 27 is one long rhetorical question in the Hebrew text. For some languages, it is more natural to break it up into two or more sentences. Do what is best in your language. (See: figs-rquestion)
+"without telling me {you were leaving}?" or "{Why} didn't you tell me {that you were leaving}?" or "You should have told me {you were leaving}". Verse 27 is one long rhetorical question in the Hebrew text that expresses Laban's anger at Jacob. For some languages, it is better to break it up into two or more sentences. Do what is best in your language. (See: figs-rquestion)
 
 so that I could have sent you with joy and with songs, 
-"{If I had known,} I/we could/would have {held a feast and} sent you {on your way}, singing joyful songs {together}," or "{If I had known,} I/we could/would have sent you {on your way} by {having a feast and} singing joyful songs {together}," If you begin a new sentence here, make sure it flows well with the rest of the verse. Also, make sure it is clear in your translation that the events in this clause are contrary-to-fact (hypothetical). (See: figs-hypo)
+"{If I had known,} I/we could/would have {held a feast and} sent you {on your way}, singing joyful songs {together}," or "{If I had known,} I/we could/would have sent you {on your way} by {having a feast and} singing joyful songs {together}," If you begin a new sentence here in your translation, make sure it flows well with the rest of the verse. Also make sure it is clear that the events in this clause are contrary-to-fact (hypothetical). (See: figs-hypo)
 
-with tambourines and with lyres?
+with tambourine{s} and with lyre{s}?
 "with tambourines and lyres/harps playing" or "with/to the music/sound/playing of musical instruments". See how you translated "lyres" or "harps" in Gen 4:21. (See: translate-unknown)
 
 
@@ -10701,7 +11668,7 @@ Then Laban went into the tent of Jacob
 and into the tent of Leah 
 "then {he searched} through/in Leah's tent"
 
-and into the tent of the two maidservants, 
+and into the tent of the two slave women, 
 "and through/in the two servant women's tent," or "and through/in the tent where the two maidservants lived,"
 
 but he did not find {anything}. 
@@ -10711,7 +11678,7 @@ Then he came out of Leah's tent and went into Rachel's tent.
 "Then he came out of Leah's tent {and the servant women's tent} and went into Rachel's tent {to search it}." or "Then/Next after he left/searched those tents, he went into Rachel's tent {to search it}."
 
 
-Gen 31:34 Now Rachel had taken the idols and put them inside the camel's saddle and was sitting on them. And Laban felt throughout the entire tent, but he did not find them.
+Gen 31:34 Now Rachel had taken the idols and put them inside the camel's saddle and was sitting on them. And Laban felt throughout the entire tent, but he did not find {them}.
 
 Now Rachel had taken the idols and put them inside the camel's saddle
 "Now/But Rachel had put the idols inside {her| camel saddlebag {to hide them}" or "But Rachel had hidden the idols inside her camel saddlebag". This kind of saddle was used as a seat and also had compartments or bags for carrying things. Make sure it is clear in your translation that Rachel had hidden the idols before Laban entered her tent. Also see how you translated "idols" in verse 19. (See: writing-background)
@@ -10973,7 +11940,7 @@ because he said,
 "while we are out of each other's sight {and hold both of us responsible for keeping our covenant/treaty with each other}." or "{to make sure we keep our covenant/treaty} while we are apart/away from each other." The pronoun "we" is inclusive here and includes both Laban and Jacob. Some languages have a dual pronoun that fits here well. Do what is natural in your language. (See: figs-dualpronoun)
 
 
-Gen 31:50 If you afflict my daughters, or if you take wives besides my daughters, {even though} there is not someone with us, behold, God is a witness between me and you."
+Gen 31:50 If you afflict my daughters, or if you take wives besides my daughters, {even though} there is not someone with us, behold, God {is} a witness between me and you."
 
 If you afflict my daughters, 
 "If you treat my daughters badly," or "If you mistreat/oppress my daughters," See how you translated "afflict" in Gen 15:13 and 16:6, and how you translated a related word ("affliction") in verse 42.
@@ -11056,7 +12023,7 @@ Then they ate bread and spent the night on the mountain.
 
 _______________________Paragraph Break________________________
 
-Gen 31:55 Then in the morning Laban got up early and kissed his grandchildren and his daughters. Then he blessed them and left, and Laban returned to his place.
+Gen 31:55 Then in the morning Laban got up early and kissed his grandchildren and his daughters, and he blessed them. Then Laban left and returned to his place.
 
 Although verse 55 is the last verse of chapter 31 in most modern Bibles, it is the first verse of chapter 32 in the Hebrew text. We suggest that you follow the verse numbering in the Bibles in your national language or in other well-known languages in your area.
 
@@ -11614,7 +12581,7 @@ But Esau ran to meet him and embraced him,
 "But Esau ran to greet Jacob and hugged him". This sentence shows a contrast between what Jacob was expecting and what actually happened. (See: grammar-connect-logic-contrast)
 
 and he fell on his neck and kissed him, 
-"and he threw/put his arms around his neck/shoulders and kissed him," or "He held him/Jacob tightly and kissed him {on the cheeks}," See how you translated "hugged him...and kissed him {on the cheeks}" in Gen 29:13. Make sure the way you translate "fell on his neck" does not imply that Esau accidentally fell. Rather, this is an idiom that means he embraced Jacob warmly, with much emotion. (See: figs-idiom)
+"and he threw/put his arms around his neck/shoulders and kissed him," or "He held him/Jacob tightly and kissed him {on the cheeks}," See how you translated "hugged him...and kissed him {on the cheeks}" in Gen 29:13. Make sure that the way you translate "fell on his neck" does not imply that Esau accidentally fell. Rather, this is an idiom that means he embraced Jacob warmly, with much emotion. (See: figs-idiom)
 
 and they cried. 
 "and/as they {both} cried {for joy}." or "Both of them cried {because they were so happy to see each other again}." Consider whether or not to begin a new sentence here in your language. Also, some languages have a dual pronoun for "they" that could be used here. Do what is best in your language. (See: figs-youdual)
@@ -11883,7 +12850,7 @@ and he called it El Elohe Israel.
 
 34:1-31 Shechem Rapes Dinah, And Jacob's Sons Take Revenge
 
-34:1 Then Dinah, the daughter of Leah, whom she had born for Jacob, went out to see the daughters of the land. 
+Gen 34:1 Then Dinah, the daughter of Leah, whom she had born for Jacob, went out to see the daughters of the land. 
 
 Then Dinah, 
 "Then/Now {one day} Dinah," or "{One day,} Dinah," These events took place at an unspecified time after Jacob and his family set up their camp beside the city of Shechem (Gen 33:18). Consider what is the best way to introduce a new event in your language. Also be consistent here with how you spelled "Dinah" in Gen 30:21. (See: writing-newevent)
@@ -11898,7 +12865,7 @@ the daughters of the land.
 "{some of} the women who were native to that area/region." or "{some of} the local/native women." See how you translated "daughters of the land" in Gen 27:46, and how you translated a similar phrase ("people of the land") in Gen 23:7, 12.
 
 
-34:2 And Shechem, the son of Hamor the Hivite, the ruler of the land, saw her, and he took her and lay with her and violated her.
+Gen 34:2 And Shechem, the son of Hamor the Hivite, the ruler of the land, saw her, and he took her and lay with her and violated her.
 
 And Shechem, the son of Hamor the Hivite, the ruler of the land, 
 "Then Shechem, who was the/a son of the Hivite named Hamor who ruled that region," or "Now the ruler/chief of that region was a Hivite named Hamor. His son Shechem". Consider which order of phrases is best here in your language. Also see how you translated "Hivites" in Gen 10:17 and "ruler" in Gen 25:16. (See: figs-infostructure)
@@ -11910,7 +12877,7 @@ and lay with her and violated her.
 "and forced her to go to bed with him." or "and raped her." This is a euphemistic way of saying that Shechem forced Dinah to have sex with him. Translate this in a way that will not offend or embarrass people, especially when hearing your translation read aloud. (See: figs-euphemism)
 
 
-34:3 And his soul was attached to Dinah the daughter of Jacob, and he loved the young woman and spoke to the heart of the young woman. 
+Gen 34:3 And his soul was attached to Dinah the daughter of Jacob, and he loved the young woman and spoke to the heart of the young woman. 
 
 And his soul was attached to Dinah the daughter of Jacob, and
 "He/Shechem was strongly/deeply attracted to Jacob's daughter Dinah and" or "He/Shechem admired Jacob's daughter Dinah so much that" or "He/Shechem admired her so much that"
@@ -11922,7 +12889,7 @@ and spoke to the heart of the young woman.
 "and spoke sweetly/tenderly to her {to try to woo/persuade/comfort her}." or "and {tried to win her heart/affection} by speaking tenderly/kindly to her." See how you translated "young woman" in Gen 24:14, and see the note about that there.
 
 
-34:4 Then Shechem said to Hamor his father, saying, "Get this girl for me as a wife."
+Gen 34:4 Then Shechem said to Hamor his father, saying, "Get this girl for me as a wife."
 
 Then Shechem said to Hamor his father, saying, 
 "Then Shechem said to his father Hamor," or "Then Shechem {went to} his father Hamor and requested/demanded,"
@@ -11932,7 +12899,7 @@ Then Shechem said to Hamor his father, saying,
 
 ________________Paragraph Break_________________
 
-34:5 Then Jacob heard that he had defiled Dinah his daughter, and his sons were with his livestock in the fields, so Jacob kept quiet until they came. 
+Gen 34:5 Then Jacob heard that he had defiled Dinah his daughter, and his sons were with his livestock in the fields, so Jacob kept quiet until they came. 
 
 Then Jacob heard that 
 "When Jacob found out that" or "When Jacob was told/informed {by someone} that"
@@ -11950,7 +12917,7 @@ until they came.
 "until they came {back} {home}." or "until they returned {home}."
 
 
-34:6 And Hamor the father of Shechem came out to Jacob to talk with him. 
+Gen 34:6 And Hamor the father of Shechem came out to Jacob to talk with him. 
 
 And Hamor the father of Shechem came out
 "Meanwhile, Shechem's father Hamor went {with his son}" or "Meanwhile, {Shechem and} Shechem's/his father Hamor went". For some languages it is more natural to introduce Shechem here, rather than wait and have him appear too suddenly in verse 11. Do what is best in your language. (See: figs-explicit)
@@ -11959,7 +12926,7 @@ to Jacob to talk with him.
 "to talk to Jacob." or "to Jacob's {camp/tent} to talk with/to him."
 
 
-34:7 Then the sons of Jacob came from the fields. When they heard, then the men were grieved and it burned within them greatly, because he had done something disgraceful to Israel by lying with the daughter of Jacob, and such a thing should not have been done! 
+Gen 34:7 Then the sons of Jacob came from the fields. When they heard, then the men were grieved and it burned within them greatly, because he had done something disgraceful to Israel by lying with the daughter of Jacob, and such a thing should not have been done! 
 
 Then the sons of Jacob came from the fields. 
 "Then/Soon Jacob's sons returned {home} from the fields."
@@ -11983,7 +12950,7 @@ and such a thing should not have been done!
 "Such a {wicked/terrible} thing should never be done {by anyone}!" or "No one should ever do such a {wicked/horrible} thing/crime!"
 
 
-34:8 But Hamor spoke with them, saying, "Shechem my son, his soul is attached to your daughter. Please give her to him as a wife.
+Gen 34:8 But Hamor spoke with them, saying, "Shechem my son, his soul is attached to your daughter. Please give her to him as a wife.
 
 But Hamor spoke with them, saying, 
 "But Hamor pleaded with Jacob and his sons and said," or "But Hamor urged/begged Jacob and his sons,"
@@ -11998,7 +12965,7 @@ Please give her to him as a wife.
 "{So} please allow/permit him to marry her." The way "give" and "take" are used in verses 8, 9, 12, 16 and 21 reflects the culture at that time, when parents or families arranged marriages for their daughters. Also see the note about this at verse 4.
  
 
-34:9 And intermarry with us: give your daughters to us and take our daughters for yourselves 
+Gen 34:9 And intermarry with us: give your daughters to us and take our daughters for yourselves 
 
 And intermarry with us: 
 "{In fact,} let's allow marriage between our two people groups," or "Let's agree to let members of our families marry one another,"
@@ -12007,7 +12974,7 @@ give your daughters to us and take our daughters for yourselves
 "{so that} your daughters can/will marry our {young men} and your {young men} can/will marry our daughters." or "{so that} you allow our {young men} to marry your daughters and we allow your {young men} to marry our daughters."
 
 
-34:10 and settle with us. And the land is before you. Settle and trade in it, and acquire {property} in it."
+Gen 34:10 and settle with us. And the land is before you. Settle and trade in it, and acquire {property} in it."
 
 and settle with us. 
 "You can {also} settle/live among us." or "{We also invite you to} settle/live with/among us."
@@ -12020,7 +12987,7 @@ and acquire {property} in it."
  
 ________________Paragraph Break_________________
 
-34:11 Then Shechem said to her father and to her brothers, "Let me find favor in your eyes, and what you say to me I will give. 
+Gen 34:11 Then Shechem said to her father and to her brothers, "Let me find favor in your eyes, and what you say to me I will give. 
 
 Then Shechem said to her father and to her brothers,
 "Then Shechem said to Dinah's father and brothers," (See: writing-quotations)
@@ -12032,7 +12999,7 @@ and what you say to me I will give.
 "then I will give/pay {you} whatever you request/require/ask from me {for her}."
 
 
-34:12 Increase greatly the dowry and gift for me, and I will give according to what you say to me. Then give the young woman to me as a wife."
+Gen 34:12 Increase greatly the dowry and gift for me, and I will give according to what you say to me. Then give the young woman to me as a wife."
 
 Increase greatly the dowry and gift for me, 
 "Set the dowry/bride-price and {marriage/wedding} gifts {that I must pay} {to marry her} as high as you want," The "dowry" was the payment that a groom (and his family) had to give to the bride's family, which could include things like money, land and livestock. The term "gift" probably refers to additional gifts given to the bride and her family members (as in Gen 24:53). If the custom of paying a dowry is not known in your culture, you could include an explanation in a footnote. (See: translate-unknown)
@@ -12045,7 +13012,7 @@ Then give the young woman to me as a wife."
 
 ________________Paragraph Break_________________
 
-34:13 Then the sons of Jacob answered Shechem and Hamor his father with deceit and they spoke, because he had defiled Dinah their sister. 
+Gen 34:13 Then the sons of Jacob answered Shechem and Hamor his father with deceit and they spoke, because he had defiled Dinah their sister. 
 
 Then the sons of Jacob answered Shechem and Hamor his father with deceit and they spoke, 
 "Then/But Jacob's sons responded/replied to Shechem and his father Hamor in a deceitful/deceptive way," or "Jacob's sons responded/replied to Shechem and his father Hamor, but deceived/tricked them" 
@@ -12054,7 +13021,7 @@ because he had defiled Dinah their sister.
 "because he/Shechem had dishonored/disgraced their sister Dinah." or "because he/Shechem had done a shameful thing to their sister Dinah." For some languages it is more natural to put this clause first in this verse and say, "Then because/since Shechem had defiled/dishonored their sister Dinah, the sons of Jacob deceived/tricked Shechem and his father Hamor 14 by saying to them," Do what is best in your language. (See: figs-infostructure) 
 
 
-34:14 And they said to them, "We are not able to do this thing, to give our sister to a man who has a foreskin, because that {is} a disgrace to us! 
+Gen 34:14 And they said to them, "We are not able to do this thing, to give our sister to a man who has a foreskin, because that {is} a disgrace to us! 
 
 And they said to them, 
 "and said to them," or "They said to them," Consider whether it is best in your language to begin a new sentence here or to continue the sentence that started in verse 13.
@@ -12069,7 +13036,7 @@ because that {is} a disgrace to us!
 "because that would dishonor/humiliate our family!" or "That would cause {great} shame/humiliation to our family!"
  
 
-34:15 Only on this {condition} will we consent with you: if you become like us by every male among you being circumcised.
+Gen 34:15 Only on this {condition} will we consent with you: if you become like us by every male among you being circumcised.
 
 Only on this {condition} will we consent with you:
 "The only way that we will/can agree with your proposal is" or "We will/can do what you want/ask only if you do this one thing:"
@@ -12081,7 +13048,7 @@ by every male among you being circumcised
 "by circumcising all your males." See how you translated "circumcised" in Gen 17:10. (See: translate-key-terms)
 
 
-34:16 Then we will give our daughters to you, and we will take your daughters for us. And we will settle with you, and we will become one people. 
+Gen 34:16 Then we will give our daughters to you, and we will take your daughters for us. And we will settle with you, and we will become one people. 
 
 Then we will give our daughters to you, and we will take your daughters for us. 
 "Then we will let our daughters marry your {young men}, and our {young men} will marry your daughters." or "{If/After you do that,} then we will allow your {young men} to marry our daughters, and {we will allow} your daughters to marry our {young men}." The pronouns "we", "our" and "us" are exclusive in verses 14-17, except at the end of verse 16 below. Also see how you translated "give...daughters...take...daughters..." in verse 9. (See: figs-exclusive)
@@ -12093,7 +13060,7 @@ and we will become one people.
 "so that we become one people group." or "and as a result we will {all} be/become one people/ethnic group." Here the "we" is inclusive because Jacob's sons are including Shechem and Hamor's people. If you have an inclusive form of this pronoun in your language, you could use it here. (See: figs-exclusive)
 
 
-34:17 But if you will not listen to us to be circumcised, then we will take our daughter and go."
+Gen 34:17 But if you will not listen to us to be circumcised, then we will take our daughter and go."
 
 But if you will not listen to us to be circumcised
 "But/However if you refuse to agree with our requirement that you circumcise {your people/males}," or "But if you will/do not circumcise {your males} as we require/say,"
@@ -12103,13 +13070,13 @@ then we will take our daughter and go."
 
 ________________Paragraph Break_________________
 
-34:18 And their words were good in the eyes of Hamor and in the eyes of Shechem, Hamor's son.
+Gen 34:18 And their words were good in the eyes of Hamor and in the eyes of Shechem, Hamor's son.
 
 And their words were good in the eyes of Hamor and in the eyes of Shechem, Hamor's son.
 "What Jacob's sons said/proposed* seemed good to Hamor and his son Shechem." or "Hamor and his son Shechem were pleased {and agreed to do} what Jacob's sons said/proposed." See how you translated the idiom "good in...eyes" in Gen 19:8. It may need to be translated differently, depending on the context. (See: figs-idiom)
 
 
-34:19 So the young man did not delay to do the thing, because he was delighted with the daughter of Jacob and he was honored more than all of the house of his father.
+Gen 34:19 So the young man did not delay to do the thing, because he was delighted with the daughter of Jacob and he was honored more than all of the house of his father.
 
 So the young man did not delay 
 "So Shechem immediately started" or "So right away Shechem took action"
@@ -12124,7 +13091,7 @@ and he was honored more than all of the house of his father.
 "{He was able to get people/everyone to do what he wanted} because he was the most respected person in his father's household/family." For some languages it is more natural to put this clause earlier in this sentence and say, "So right away Shechem, who was the most respected member in his father's household/family, started to do what they required, because he was thrilled with Jacob's daughter." (See: figs-infostructure)
 
 
-34:20 So Hamor and Shechem his son went to the gate of their city, and they spoke to the men of their city, saying,
+Gen 34:20 So Hamor and Shechem his son went to the gate of their city, and they spoke to the men of their city, saying,
 
 So Hamor and Shechem his son 
 "In fact, he/Shechem and his father Hamor"
@@ -12136,7 +13103,7 @@ and they spoke to the men of their city, saying,
 "and they spoke to the city elders/leaders {who had gathered there}. They said," or "and they told the elders/leaders of their city {about Jacob and his sons}," In that culture the leaders of a city held their meetings at the main city gates (as in Gen 23:3). Cities were surrounded by walls (that had gates) for protection. You could put some of that information in a footnote so that people understand what was happening.
  
 
-34:21 "These men {are} peaceful with us, so let them settle in the land and let them trade in it. And behold, the land {is} broad of hands before them. We can take their daughters for ourselves as wives, and we can give our daughters to them. 
+Gen 34:21 "These men {are} peaceful with us, so let them settle in the land and let them trade in it. And behold, the land {is} broad of hands before them. We can take their daughters for ourselves as wives, and we can give our daughters to them. 
 
 "These men {are} peaceful with us, 
 "These people are friendly toward us," or "Jacob and his family are at peace with us," Here "us" includes Hamor, Shechem and the men they are talking to. (See: figs-exclusive)
@@ -12157,7 +13124,7 @@ We can take their daughters for ourselves as wives, and we can give our daughter
 "{That way too,} we can take/choose their daughters to be {our} wives, and we can let their {young} men marry our daughters." or "{Besides that,} {then} our {young men} can marry their daughters, and their {young men} can marry our daughters." See how you translated similar clauses in verses 9 and 16. It may be necessary to translate these in different ways, depending on the context.
    
 
-34:22 Only on this {condition} will the men consent with us to settle with us, to become one people: when every male among us is circumcised just as they are circumcised. 
+Gen 34:22 Only on this {condition} will the men consent with us to settle with us, to become one people: when every male among us is circumcised just as they are circumcised. 
 
 Only on this {condition} will the men consent with us to settle with us, 
 "There is just one thing/condition/requirement: They will only agree to settle/live among us". or "But they will only consent/agree to settle/live among us". See how you began verse 15, which is very similar to verse 22.
@@ -12172,7 +13139,7 @@ just as they are circumcised.
 "as their males are." or "so that we are like them."
 
 
-34:23 Their livestock and their property and all their animals, will they not {belong} to us? Only let us consent with them, and they will settle with us!"
+Gen 34:23 Their livestock and their property and all their animals, will they not {belong} to us? Only let us consent with them, and they will settle with us!"
 
 Their livestock and their property and all their animals, 
 "{Then} all their livestock and animals, and {all} their {other} property/possessions" or "{But if we do that,} {all} their property/possessions, {including} their livestock and all their {other} animals" 
@@ -12188,7 +13155,7 @@ and they will settle with us!"
 
 ________________Paragraph Break_________________
 
-34:24 And all who went out of the gate of his city listened to Hamor and to Shechem his son, and every male was circumcised, all who went out of the gate of his city.
+Gen 34:24 And all who went out of the gate of his city listened to Hamor and to Shechem his son, and every male was circumcised, all who went out of the gate of his city.
 
 And all who went out of the gate of his city 
 "All {the men} who were citizens/leaders/elders of the city" or "All the men/leaders/elders who were {there} at the city gate/entrance". Make sure that your translation of this idiom refers here to the same men who had gathered at the city gates in verse 20. (See: figs-idiom)
@@ -12201,7 +13168,7 @@ and every male was circumcised, all who went out of the gate of his city.
 
 ________________Paragraph Break_________________
  
-34:25 Then it happened on the third day, when they were in pain, then two of Jacob's sons, Simeon and Levi, brothers of Dinah, each took his sword and went upon the city boldly and killed every male.
+Gen 34:25 Then it happened on the third day, when they were in pain, then two of Jacob's sons, Simeon and Levi, brothers of Dinah, each took his sword and went upon the city boldly and killed every male.
 
 Then it happened on the third day, 
 "On the third day {after that}," or "Three days later,"
@@ -12219,7 +13186,7 @@ and killed every male.
 "They killed all the males/men {there}". The children who were males were probably not killed, since later (verse 29) it says that all the children were captured. Also, consider whether or not it is better in your language to begin a new sentence here that continues into verse 26.
 
 
-34:26 And they killed Hamor and Shechem his son with the mouth of the sword, and they took Dinah from the house of Shechem and left. 
+Gen 34:26 And they killed Hamor and Shechem his son with the mouth of the sword, and they took Dinah from the house of Shechem and left. 
 
 And they killed Hamor and Shechem his son with the mouth of the sword, 
 "with their swords, including Hamor and his son Shechem." Some languages have dual pronouns for "they" and "you" that can be used in verses 25-26 and 30-31 to refer to Simeon and Levi. (See: figs-youdual)
@@ -12231,7 +13198,7 @@ and left.
 "and left {the city}." or "and returned {home}."
 
 
-34:27 The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister. 
+Gen 34:27 The sons of Jacob came upon the slain and plundered the city, because they had defiled their sister. 
 
 The sons of Jacob came upon the slain and plundered the city, 
 "{Then/Next} {all} Jacob's sons went {into the city} and took everything valuable from/off the dead bodies and from {the rest of} the city". All of Jacob's sons probably joined Simeon and Levi in plundering the city, after those two had killed all the men there (verse 25).
@@ -12239,19 +13206,19 @@ The sons of Jacob came upon the slain and plundered the city,
 because they had defiled their sister.
 "{They did that} because {that was where} Shechem had defiled/dishonored/disgraced their sister." or "to get revenge for the shameful thing that had been done to their sister {there}." See how you translated "defiled" in verses 5 and 13. Even though Shechem was the one who actually defiled Dinah (verses 2, 5, 7, 13), Jacob's sons held everyone in the city responsible for the crime that their ruler's son had committed (verses 25-29). If that is not clear, you could put that information in a footnote. Make sure that your translation of "they" does not refer to Jacob's sons.
 
-34:28 They took their flock{s} and their herd{s} and their donkeys, and what {was} in the city and what {was} in the fields.
+Gen 34:28 They took their flock{s} and their herd{s} and their donkeys, and what {was} in the city and what {was} in the fields.
 They took their flock{s} and their herd{s} and their donkeys, and what {was} in the city and what {was} in the fields.
 "They took away the people's sheep and goats, their cattle, their donkeys, and everything else {they wanted} from inside the city and from out in the fields/countryside." or "They plundered whatever was inside the city and out in the {surrounding} fields/area, including the people's flocks {of sheep and goats}, their herds {of cattle} and their donkeys." See how you translated "donkeys" in Gen 32:15. (See: figs-infostructure)
 
 
-34:29 And all their wealth and all their little ones and their women they took captive, and they also plundered everything that was in the houses.
+Gen 34:29 And all their wealth and all their little ones and their women they took captive, and they also plundered everything that was in the houses.
 
 And all their wealth and all their little ones and their women they took captive, and they also plundered everything that was in the houses.
 "They carried away all the valuable things the people of Shechem had owned, including everything that was in their houses. They also captured all their women and children." or "They took away everything that was valuable, and also captured all the children and women. They seized and took away everything that was in the houses." See how you translated "plundered" in verse 27.
 
 ________________Paragraph Break_________________
 
-34:30 Then Jacob said to Simeon and to Levi, "You have brought trouble on me by making me stink among {those} who live in the land, among the Canaanites and among the Perizzites! I am few of number, and if they gather together against me and attack me, then I will be destroyed, I and my house!" 
+Gen 34:30 Then Jacob said to Simeon and to Levi, "You have brought trouble on me by making me stink among {those} who live in the land, among the Canaanites and among the Perizzites! I am few of number, and if they gather together against me and attack me, then I will be destroyed, I and my house!" 
 
 Then Jacob 
 "Later/Afterwards {when they came home,} Jacob"
@@ -12275,7 +13242,7 @@ then I will be destroyed, I and my house!"
 "then I/we and my/our family/household will be destroyed/killed!" or "they will destroy/annihilate/kill me/us and {the rest of} my/our family/household!"
 
 
-34:31 But they said, "Should he have treated our sister like a prostitute?"
+Gen 34:31 But they said, "Should he have treated our sister like a prostitute?"
 
 But they said,
 "But Simeon and Levi responded/replied {angrily},"
@@ -12291,7 +13258,7 @@ like a prostitute?"
 
 35:1-15 God Blesses Jacob At {The Town Of} Bethel
 
-Gen 35:1 Then God said to Jacob, "Get up, go up to Bethel and settle there, and make an altar there to God who appeared to you when you were fleeing from the presence of Esau your brother."
+Gen 35:1 Then God said to Jacob, "Get up, go up to Bethel and settle there, and make an altar there to the God who appeared to you when you were fleeing from the presence of Esau your brother."
 
 Then God said to Jacob,
 "Then God told/commanded Jacob," Translate this quote margin in a way that is natural in your language and that fits with what God says. (See: writing-quotations)
@@ -12708,7 +13675,7 @@ ___________________Paragraph Break___________________________
 
 35:27-29 Isaac's Death
 
-Gen 35:27 Then Jacob came to Isaac his father in Mamre, Kiriath Arba, which is Hebron, where Abraham and Isaac had sojourned.
+Gen 35:27 Then Jacob came to Isaac his father in Mamre, Kiriath Arba, which {is} Hebron, where Abraham and Isaac had sojourned.
 
 Then Jacob came to Isaac his father
 "Then Jacob came/went {home} to his father Isaac {who was living}" or "Then Jacob continued traveling and came to where his father Isaac was {living}"
@@ -12824,7 +13791,7 @@ and he went to a land from the presence of Jacob his brother,
 "and he moved to an area/region {that was} away from his brother Jacob." or "and he moved/traveled to a {different} region {and settled there,} away from where his brother Jacob was living." For some languages it is more natural to put this clause at the beginning of this verse and say, "Then/Later Esau moved to a land {that was} away from his brother Jacob. He took {with him} his wives...." Do what is best in your language. (See: figs-infostructure)
 
 
-Gen 36:7 because their possession{s} were {too} great for them to remain together, and the land where they were staying was not able to support them because of their livestock.
+Gen 36:7 because their possession{s} were {too} great for them to remain together, and the land of their sojournings was not able to support them because of their livestock.
 
 because 
 "{He/Esau did that} because" or "The reason {he/Esau moved away} is that"
@@ -13086,7 +14053,7 @@ These {were} the sons of Ezer: Bilhan and Zaavan and Akan
   
 ____________________Paragraph Break_______________________
 
-Gen 36:28 These were the sons of Dishan: Uz and Aran.
+Gen 36:28 These {were} the sons of Dishan: Uz and Aran.
 
 These {were} the sons of Dishan: Uz and Aran.
 "Dishan's sons {were} Uz and Aran." 
@@ -13273,7 +14240,7 @@ the father of the Edomites.
 
 37
 
-37:1 - 11 Joseph's Dreams Anger His Brothers
+Gen 37:1 - 11 Joseph's Dreams Anger His Brothers
 
 Gen 37:1 And Jacob lived in the land of his father's sojournings, in the land of Canaan. 
 
@@ -13317,7 +14284,8 @@ loved Joseph more than all of his sons
 because he {was} a son of his old age. 
 "because he/Joseph was born to him when he was old." For some languages it is more natural to put this clause first in this verse and say, "Now Joseph was born to Israel when he was old, so he/Israel loved him more than all {the rest} of his sons." Do what is best in your language. (See: figs-infostructure)
 
-So he made a multicolored tunic for him. "So he made a {special/beautiful} tunic/robe for him that had many colors." or "So he made a {special} colorful tunic/robe for him." The meaning of the Hebrew text is not certain here. Many translations (including the Greek Septuagint and Latin Vulgate) say that the tunic or robe was "multicolored" or "colorful". This "tunic" was probably full-length to the ankles and had long sleeves that reached to the hands. (See: translate-unknown)
+So he made a multicolored tunic for him.
+"So he made a {special/beautiful} tunic/robe for him that had many colors." or "So he made a {special} colorful tunic/robe for him." The meaning of the Hebrew text is not certain here. Many translations (including the Greek Septuagint and Latin Vulgate) say that the tunic or robe was "multicolored" or "colorful". This "tunic" was probably full-length to the ankles and had long sleeves that reached to the hands. (See: translate-unknown)
 
 
 Gen 37:4 And his brothers saw that their father loved him more than all of his brothers, so they hated him and were not able to speak to him peaceably.
@@ -14040,9 +15008,7 @@ So Tamar went and lived in the house of her father.
 
 ______________________Paragraph Break___________________________
 
-Gen 38:12 Then the days were many, and Shua's daughter, the wife of Judah, died. Then Judah was comforted, and he went up to Timnah to {the men} who were shearing his sheep, he and his friend Hirah the Adullamite. 
-
-he went up to {the men} who were shearing his sheep at Timnah, he and his friend Hirah the Adullamite. 
+Gen 38:12 Then the days were many, and Shua's daughter, the wife of Judah, died. Then Judah was comforted, and he went up to Timnah, to {the men} who were shearing his sheep, he and his friend Hirah the Adullamite. 
 
 Then the days were many, and 
 "Many years later," or "After a long time," or "Years went by and then"
@@ -14175,7 +15141,7 @@ So he gave {them} to her
 "So he gave {those things} to her"
 
 and went to her, 
-"Then he slept/lay with her," or "Then he had relations with her," Consider again how you translated the idiom "went to" in the book of Genesis. See Gen 6:4 (see note); 16:2, 4; 19:31; 30:3-4; 38:2, 8-9, 16, 18. It may be necessary to translate this phrase in different ways, depending on the context; for example, the relationship in Gen 38:16, 18 was outside of marriage. (See: figs-euphemism)
+"Then he slept/lay with her," or "Then he had {sexual} relations with her," Consider again how you translated the idiom "went to" in the book of Genesis. See Gen 6:4 (see note); 16:2, 4; 19:31; 30:3-4; 38:2, 8-9, 16, 18. It may be necessary to translate this phrase in different ways, depending on the context; for example, the relationship in Gen 38:16, 18 was outside of marriage. (See: figs-euphemism)
 
 and she conceived by him.
 "and she became pregnant by/from him." or "and he caused her to become pregnant." Consider again how you translated "conceive" in the book of Genesis. See Gen 4:1, 17; 16:4-5; 19:36; 21:2; 25:21; 29:32-35; 30:5, 7, 17, 19, 23; 38:3-4, 18.
@@ -14332,7 +15298,7 @@ And he
 "{So they released her/Tamar,} and {after that,} he/Judah". For some languages it is necessary to make it explicit that they let Tamar go. Do what is best in your language. (See: figs-explicit)
 
 did not continue to know her more.
-"never again laid/slept with her/Tamar." or "never had relations with her/Tamar again." Consider again how you translated the idiom "knew" in the book of Genesis. See Gen 4:1 (and note), 17, 25; 19:8; 24:16; 38:26. It may be necessary to translate 38:26 differently, since the relationship in this verse was outside of marriage. Compare how you translated a related idiom ("went to") in verse 18. (See: figs-euphemism)
+"never again laid/slept with her/Tamar." or "never had {sexual} relations with her/Tamar again." Consider again how you translated the idiom "knew" in the book of Genesis. See Gen 4:1 (and note), 17, 25; 19:8; 24:16; 38:26. It may be necessary to translate 38:26 differently, since the relationship in this verse was outside of marriage. Compare how you translated a related idiom ("went to") in verse 18. (See: figs-euphemism)
 
 ______________________Paragraph Break___________________________
 
@@ -14985,7 +15951,7 @@ that they should put me in the pit."
   
 ____________________Paragraph Break_____________________
 
-Gen 40:16 And the chief of the bakers saw that he interpreted favorably, so he said to Joseph, "I also {was} in my dream, and behold, {there were} three baskets of bread on my head.
+Gen 40:16 And the chief of the bakers saw that he interpreted favorably, so he said to Joseph, "I also {was} in my dream, and behold, {there were} three baskets of white bread on my head.
 
 And the chief of the bakers saw that he interpreted favorably, so
 "When the head baker heard Joseph interpret/explain that dream in a favorable/positive way," or "When the head baker heard the positive interpretation/meaning that Joseph gave {for the first dream}," See how you translated a related word ("interpreter") in verse 8.
@@ -15150,7 +16116,7 @@ Then the ugly-looking and thin-fleshed cows
 ate
 "ate/swallowed {up/down}" or "devoured"
 
-the seven fine-looking and fat-fleshed cows,
+the seven fine-looking and fat cows,
 "the seven healthy-looking, fat/well-fed cows." or "the seven cows {that were} healthy-looking and fat/well-fed." See how you translated this phrase in verse 2.
 
 and 
@@ -15334,7 +16300,7 @@ Then Pharaoh said to Joseph,
 "I dreamed a dream,
 "I had a dream," 
 
-but no one can interpret it.
+but no one could interpret it.
 "but no one has been able to explain {to me} what it means." or "but there isn't anyone who can interpret/explain it {for/to me}." See how you translated a similar clause in Gen 40:8.
 
 But I heard about you, saying {that}
@@ -15368,15 +16334,15 @@ Then Pharaoh spoke to Joseph,
 "As I was dreaming, I saw myself standing" or "I dreamed that I was standing"
 
 on the bank of the River.
-"on the bank of the {Nile} River." or "beside the {Nile} River." See how you translated "the {Nile} River" in verse 1. Since this is the first time that Pharaoh mentions "the River" to Joseph, consider whether this is a good place to make it explicit again that this is the Nile River. (See: figs-explicit)
+"on the bank of the {Nile} River." or "beside the {Nile} River." See how you translated "the {Nile} River" in verse 1. Since this is the first time that Pharaoh mentions "the River" to Joseph, consider whether this is a good place in your translation to make it explicit again that this is the Nile River. (See: figs-explicit)
 
 
-Gen 41:18 Then behold, seven cows came up from the River, fat-fleshed and of fine form, and they grazed among the reeds. 
+Gen 41:18 Then behold, from the River came up seven cows, fat-fleshed and of fine form, and they grazed among the reeds. 
 
 Then behold,
 "Then suddenly," or "Then I saw that". Compare how you translated verse 2, which is similar, but not identical, to verse 18.
 
-from the River came seven cows, fat-fleshed and of fine form,
+from the River came up seven cows, fat-fleshed and of fine form,
 "seven cows {that were} fat and healthy-looking came/walked up out of the river {onto the bank/land}" or "seven fat/well-fed, healthy-looking cows came/walked up out of the river {onto the bank/land}" (See: figs-infostructure)
  
 and they grazed among
@@ -15538,12 +16504,12 @@ what God is doing he has shown to Pharaoh.
 "God is showing/revealing to you what he will do." or "God has shown/revealed to you what he is going/about to do." See how you translated this clause in verse 25. (See: figs-infostructure)
 
 
-Gen 41:29 Behold, seven years of great abundance are coming in all the land of Egypt.
+Gen 41:29 Behold, seven years are coming {of} great abundance in all the land of Egypt.
 
 Behold, seven years are coming
 "Listen, {first} there will be seven years"
 
-of great abundance 
+{of} great abundance 
 "when crops/harvests are abundant" or "when people will have more than enough food {to eat}" or "when everyone will have plenty of food {to eat}"
 
 in all the land of Egypt.
@@ -15632,7 +16598,7 @@ in the seven years of abundance.
 "during the seven years when harvests/crops are abundant/plentiful." or "during the seven years when there will be more than enough crops/food." See how you translated "abundance" in verses 29-31.
 
 
-Gen 41:35 And they should gather all the food of the good years that are coming, and under Pharaoh's hand they should store {that} grain {for} food in the cities and guard {it}.
+Gen 41:35 And they should gather all the food of the good years that are coming. And under Pharaoh's hand, they should store {that} grain {for} food in the cities and guard {it}.
 
 And they should gather 
 "Have them gather/collect"
@@ -15688,16 +16654,16 @@ And the word was good in the eyes of Pharaoh and in the eyes of all his servants
 "What Joseph said/proposed seemed like a good plan to Pharaoh and all his servants/officials." or "Pharaoh and all his servants/officials agreed that what Joseph had said/proposed was good." See how you translated the idiom "in the eyes of" in Gen 34:18. (See: figs-idiom)
 
 
-Gen 41:38 Then Pharaoh said to his servants, "Can we find a man like this who {has} God's Spirit in him?"
+Gen 41:38 Then Pharaoh said to his servants, "Can we find a man like this who {has} the Spirit of God in him?"
 
 Then Pharaoh said to his servants, 
 "So Pharaoh said to his officials," or "So Pharaoh exclaimed to them,"
 
-"Can we find a man like this,
+"Can we find a man like this
 "{Certainly} we cannot find anyone else more qualified than this man," or "{It is obvious that} we will never find a man as qualified as this/Joseph," Pharaoh uses a rhetorical question here to emphasize that no one is more qualified than Joseph. Consider whether it is better in your language to translate this quote using a question or a statement. (See: figs-rquestion)
 
 who {has} the Spirit of God in him?"
-The Hebrew text is ambiguous here. It could mean: (1) "who has God's Spirit in him" or "whom God's Spirit guides" (2) "who has a divine spirit in him" or "who has a spirit of {the} gods in him". Most translations follow the first interpretation, since Joseph had just talked to Pharaoh about God (verses 16, 28, 32) and Pharaoh acknowledges God in verse 39.
+The Hebrew text is ambiguous here. It could mean (1) "who has God's Spirit in him" or "whom God's Spirit guides" (2) "who has a divine spirit in him" or "who has a spirit of {the} gods in him". Most translations follow the first interpretation, since Joseph had just talked to Pharaoh about God (verses 16, 28, 32) and Pharaoh acknowledges God in verse 39.
  
 
 Gen 41:39 Then Pharaoh said to Joseph, "Since God has shown all this to you, {there is} no one {as} discerning and wise as you.
@@ -16095,7 +17061,7 @@ was in the land of Canaan.
 "was {also} {affecting everyone} in the land/region of Canaan." or "was {also} affecting/devastating the {entire} land/region of Canaan." 
 
 
-Gen 42:6 Now Joseph {was} the governor over the land. {It was} he who was selling {grain} to all the people of the land. So the brothers of Joseph came and bowed down to him {with} {their} faces to the ground. 
+Gen 42:6 Now Joseph {was} the governor over the land. {It was} he who was selling {grain} to all the people of the land. So the brothers of Joseph came and bowed down to him {with} {their} noses to the ground. 
 
 Now Joseph {was} the governor over the land. 
 "{Since} Joseph {was} the administrator over the land/country {of Egypt}," (See: writing-background)
@@ -16116,7 +17082,7 @@ came and bowed down to him {with} {their} noses to the ground.
 "{also} came/went before him {like everyone else} and bowed down {with} {their} faces/foreheads to/toward the ground {to show him respect}." or "{also} came/went {to him} and prostrated themselves before him {to show respect}." See how you translated "bow down" in Gen 37:7, 9-10. (See: translate-symaction)
 
 
-Gen 42:7 And Joseph saw his brothers and recognized them, but he acted like a stranger to them and spoke with them harshly and said to them, "Where did you come from?" And they said, "From the land of Canaan to buy food."
+Gen 42:7 And Joseph saw his brothers and recognized them, but he acted like a stranger to them, and he spoke with them harshly and said to them, "Where did you come from?" And they said, "From the land of Canaan to buy food."
 
 And Joseph saw his brothers and recognized them,
 "When Joseph saw his brothers, he recognized them" or "Joseph immediately recognized his brothers"
@@ -16242,7 +17208,7 @@ is not {alive}."
 
 _______________________Paragraph Break_______________________
  
-Gen 42:14 Then Joseph said to them, "It {is} just as I told you, saying, you {are} spies!
+Gen 42:14 Then Joseph said to them, "It {is} just as I told you, saying, `You {are} spies!'
 
 Then Joseph said to them,
 "Then/But Joseph accused them," or "Then/But Joseph responded," (See: writing-quotations)
@@ -16601,7 +17567,7 @@ that you {are} honest.
 {Then} I will give your brother to you, 
 "{Then} I will return your brother to you {from prison}," or "{Then} I will release to you your brother {who is in prison},"
 
-and you {can} travel around {in} the land.' "
+and you {can} trade {in} the land.' "
 "and I will allow {all of} you to travel {and trade} throughout my country.' " or "and you can travel around my country {and trade} {freely}.' "
 
 
@@ -17261,7 +18227,7 @@ and said,
 "Serve/Bring the food/meal {to us}." or "{It is time to} serve/distribute the food/meal {to us}." The word "bread" refers to all the food they ate at this meal, not just bread. (See: figs-synecdoche)
 
 
-Gen 43:32 So they served to him by himself, and to them by themselves, and to the Egyptians who were eating with him by themselves, because Egyptians cannot eat with Hebrews because that {is} an abomination to Egyptians. 
+Gen 43:32 So they served to him by himself, and to them by themselves, and to the Egyptians who were eating with him by themselves, because Egyptians cannot eat bread with Hebrews because that {is} an abomination to Egyptians. 
 
 So they served to him by himself, 
 "So/Then they served/brought {food} to him/Joseph at his own table,"
@@ -17356,7 +18322,7 @@ the men were sent off, they and their donkeys.
 "the men/brothers were sent {on their way} with their donkeys {by Joseph}." or "{Joseph} sent the men/brothers {on their way}, along with their donkeys." Consider whether it is better in your language to use a passive or active construction here. (See: figs-activepassive)
 
 
-Gen 44:4 They had left the city, they had not gone far, and Joseph said to {the one} who {was} over his house, "Get up, go after the men, and {when} you overtake them, then say to them, `Why have you repaid evil for good? 
+Gen 44:4 They had left the city, they had not gone far, and Joseph said to {the one} who {was} over his house, "Get up, follow after the men, and {when} you overtake them, then say to them, `Why have you repaid evil for good? 
 
 They had left the city, they had not gone far, and
 "{But} after they left the city, before they had gone very far," or "{But} they had not gone very far out of the city when"
@@ -17383,7 +18349,7 @@ Why have you repaid evil for good?
 "Why have you treated {my master} so badly after/when {he was} so good {to you}?" or "My master was very good to you. Why have you treated him so badly?" or "My master treated you so/very well, but in return you have treated him very badly!" Joseph's servant uses this rhetorical question to scold the brothers and express his outrage. Consider what is the best way to communicate those things in your language. (See: figs-rquestion)
 
 
-Gen 44:5 Is this not what my lord drinks from and what he regularly divines with? You have done evil {in} what you have done!' "
+Gen 44:5 Is this not what my lord drinks from and what he indeed divines with? You have done evil {in} what you have done!' "
 
 Is this not what my lord drinks from 
 "Why {do you have} the cup that my master drinks from" or "The cup {you stole} is {the cup} that my master drinks from". The servant uses this rhetorical question to further express his outrage about the missing cup. Consider what is the best way to communicate that in your language. (See: figs-rquestion)
@@ -17420,7 +18386,7 @@ something like that!
 "anything like that!" or "such a thing!"
 
 
-Gen 44:8 Behold, the silver that we found in the mouth of our sacks we brought back to you from the land of Canaan. So how would we steal silver or gold from the house of your lord'?
+Gen 44:8 Behold, the silver that we found in the mouth of our sacks we brought back to you from the land of Canaan. So how would we steal silver or gold from the house of your lord?
 
 Behold, 
 "Remember that" or "After all,"
@@ -17560,7 +18526,7 @@ God has found out the sin of your servants.
 "God has uncovered/exposed our guilt {for our past sin}." or "God is punishing {us} your {humble} servants for our {past} sin/sins." or "God is using this occasion to punish us for our {past} sin." Judah refers to himself and his brothers as "your servants" to show humility and to honor Joseph. Also, Judah is probably referring here to the sin of selling their brother Joseph into slavery years ago. You could include that information in a footnote. (See: figs-123person)
 
 Behold us, slaves for my lord, 
-"Here we {all} are, {ready to be} slaves for you, sir," or "{So now,} sir, we are {all} here to be your slaves," (See: translate-honorifics) 
+"Here we {all} are here, {ready to be} slaves for you, sir," or "{So now,} sir, we are {all} here to be your slaves," (See: translate-honorifics) 
 
 both we and {the one} 
 "including {the one/man}"
@@ -17569,7 +18535,7 @@ in whose hand the cup was found."
 "who was found with your cup {in his grain sack/bag}." or "in whose {grain} sack/bag {your house-servant} found the cup." or "whom {your house-servant} found with your cup {in his sack/bag}." (See: figs-activepassive)
 
 
-Gen 44:17 But he said, "Far be it from me to do that! The man in whose hand the cup was found will be a slave for me. But you, go up in peace to your father."
+Gen 44:17 But he said, "Far be it from me to do that! The man in whose hand the cup was found, he will be a slave for me. But you, go up in peace to your father."
 
 But he said,
 "But Joseph told {them}," or "But Joseph exclaimed," (See: writing-quotations)
@@ -17752,8 +18718,8 @@ and harm were to meet him,
 then you would bring my gray head down in misery 
 "you would cause me, your gray-haired/elderly father, to grieve so deeply/badly that I would {die and} go down" or "you would cause me, your gray-haired/elderly father, so much sorrow/grief that I would {die and} go down". See how you translated "bring my gray head down" in Gen 42:38. (See: figs-synecdoche)
 
-to Sheol!'
-"to the afterworld!" Sheol is the Hebrew name for the world of the dead, that is, the place where the spirits of all people go after they die. You could put that information in a footnote. Your translation of "Sheol" should not refer to hell or a place of punishment. Some translations have "the grave" here, but that leaves out the idea of an afterlife that this sentence implies. (See: translate-unknown)
+to Sheol.'
+"to the afterworld." Sheol is the Hebrew name for the world of the dead, that is, the place where the spirits of all people go after they die. You could put that information in a footnote. Your translation of "Sheol" should not refer to hell or a place of punishment. Some translations have "the grave" here, but that leaves out the idea of an afterlife that this sentence implies. (See: translate-unknown)
 
 ________________Paragraph Break_______________________
 
@@ -18719,7 +19685,7 @@ And he appeared to him,
 "{When he got there,} Joseph went/came up to his father" or "{There} Joseph greeted his father" 
 
 then he fell on his neck
-"and threw/put his arms around his neck/shoulders" or "and hugged him {tightly/strongly}". See how you translated "fell on...neck'' in Gen 45:14. (See: figs-idiom)
+"and threw/put his arms around his neck/shoulders" or "and hugged him {tightly/strongly}". See how you translated "fell on...neck" in Gen 45:14. (See: figs-idiom)
 
 and cried on his neck a long time.
 "and cried {for joy} on his shoulder {for} a long time."
@@ -19309,7 +20275,7 @@ please put your hand under my thigh,
 "put your hand under my thigh/leg {to show you will do what I ask}," See how you translated this clause in Gen 24:2, and see the note about this custom there. (See: translate-symaction)
 
 and deal with me {in} kindness and faithfulness. 
-"and {promise me that} {after I die,} you will be kind and faithful to me." Consider again how you translated "kindness" in Gen 19:19; 20:13; 21:23; 24:12, 14, 27, 49; 32:10; 39:21; 40:14; 47:29, and how you translated "faithfulness'' in Gen 24:27, 48, 49; 32:10; 42:16; 47:29.
+"and {promise me that} {after I die,} you will be kind and faithful to me." Consider again how you translated "kindness" in Gen 19:19; 20:13; 21:23; 24:12, 14, 27, 49; 32:10; 39:21; 40:14; 47:29, and how you translated "faithfulness" in Gen 24:27, 48, 49; 32:10; 42:16; 47:29.
 
 Please do not bury me 
 "Please {promise that you will} not bury my body/bones". Make sure your translation of "bury me" does not sound like Israel would still be alive when he was buried. 

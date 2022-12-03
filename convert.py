@@ -27,11 +27,10 @@ import logging
 import subprocess
 
 
-LOCAL_SOURCE_BASE_FOLDERPATH = Path('/Users/richmahn/repos/git.door43.org/')
-LOCAL_SOURCE_FOLDERPATH = LOCAL_SOURCE_BASE_FOLDERPATH.joinpath('GEN_MSWord_notes/txt/')
+LOCAL_SOURCE_FOLDERPATH = 'txt'
 
 # The output folder below must also already exist!
-LOCAL_OUTPUT_FOLDERPATH = LOCAL_SOURCE_BASE_FOLDERPATH.joinpath('en_tn/')
+LOCAL_OUTPUT_FOLDERPATH = 'tsv'
 
 BBB_NUMBER_DICT = {'GEN':'01','EXO':'02','LEV':'03','NUM':'04','DEU':'05',
                 'JOS':'06','JDG':'07','RUT':'08','1SA':'09','2SA':'10','1KI':'11',
@@ -55,7 +54,7 @@ HELPER_PROGRAM_NAME = 'TN_ULT_Quotes_to_OLQuotes.js'
 DEBUG_LEVEL = 1
 
 
-def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,str,str]:
+def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str,str]:
     """
     Generator to read the exported MS-Word .txt files
         and return the needed fields.
@@ -64,7 +63,7 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
         C,V, (ULT)verseText, (ULT)glQuote, note
     """
     print(f"    Loading {BBB} TN links from MS-Word exported text file…")
-    input_filepath = input_folderpath.joinpath(f'{BBB}.txt')
+    input_filepath = os.path.join(input_folderpath, f'{BBB}.txt')
     Bbb = BBB[0] + BBB[1].lower() + BBB[2].lower()
     C = V = '0'
     verseText = glQuote = note = ''
@@ -79,8 +78,8 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
 
             if line.isdigit():
                 newC = line
-                if int(line) != int(C)+1:
-                    print(f"\nWARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
+                # if int(line) != int(C)+1:
+                #     print(f"\nWARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
                 V = '0'
                 C = newC
                 glQuote = note = verseText = ''
@@ -89,8 +88,8 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
             if line.startswith(f'{Bbb} {C}:'):
                 parts = line.split(' ')
                 newV = parts[1].split(':')[1]
-                if int(newV) != int(V)+1:
-                    print(f"\nWARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
+                # if int(newV) != int(V)+1:
+                #     print(f"\nWARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
                 V = newV
                 verseText = ' '.join(parts[2:])
                 occurrences = {}
@@ -141,14 +140,14 @@ def get_input_fields(input_folderpath:Path, BBB:str) -> Tuple[str,str,str,str,st
 
 
 OrigL_QUOTE_PLACEHOLDER = "NO OrigLQuote AVAILABLE!!!"
-def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str, nn:str) -> int:
+def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, nn:str) -> int:
     """
     Function to read the exported .txt file from MS-Word and write the TN markdown file.
 
     Returns the number of unique GLQuotes that were written in the call.
     """
     testament = 'OT' if int(nn)<40 else 'NT'
-    output_filepath = output_folderpath.joinpath(f'en_tn_{nn}-{BBB}.tsv')
+    output_filepath = os.path.join(output_folderpath, f'en_tn_{nn}-{BBB}.tsv')
     temp_output_filepath = Path(f"{output_filepath}.tmp")
     with open(temp_output_filepath, 'wt', encoding='utf-8') as temp_output_TSV_file:
         previously_generated_ids:List[str] = [''] # We make ours unique per file (spec only used to say unique per verse)
@@ -176,8 +175,8 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
             if (gl_quote.startswith("'")): gl_quote = f'‘{gl_quote[1:]}'
             if (gl_quote.endswith("'")): gl_quote = f'{gl_quote[:-1]}’'
             gl_quote = gl_quote.replace('" ', '” ').replace(' "', ' “').replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
-            if '"' in gl_quote or "'" in gl_quote:
-                print(f"\nWARNING at {BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
+            # if '"' in gl_quote or "'" in gl_quote:
+            #     print(f"\nWARNING at {BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
 
             note = note.strip()
             if (note.startswith('"')): note = f'“{note[1:]}'
@@ -186,21 +185,22 @@ def convert_MSWrd_TN_TSV(input_folderpath:Path, output_folderpath:Path, BBB:str,
                 .replace('".', '”.').replace('",', '”,') \
                 .replace('("', '(“').replace('")', '”)') \
                 .replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
-            if '"' in note or "'" in note:
-                print(f"\nWARNING at {BBB} {C}:{V}: note still has straight quote marks: '{note}'")
+            # if '"' in note or "'" in note:
+            #     print(f"\nWARNING at {BBB} {C}:{V}: note still has straight quote marks: '{note}'")
 
             temp_output_TSV_file.write(f'{BBB}\t{C}\t{V}\t{generated_id}\t{support_reference}\t{orig_quote}\t{occurrence}\t{gl_quote}\t{note}\n')
 
     # Now use Proskomma to find the ULT GLQuote fields for the OrigQuotes in the temporary outputted file
     print(f"      Running Proskomma to find OrigL quotes for {testament} {BBB}… (might take a few minutes)")
+    
     completed_process_result = subprocess.run(['node', HELPER_PROGRAM_NAME, temp_output_filepath, testament], capture_output=True)
-    print(f"Proskomma {BBB} result was: {completed_process_result}")
+    # print(f"Proskomma {BBB} result was: {completed_process_result}")
     if completed_process_result.returncode:
         print(f"      Proskomma {BBB} ERROR result was: {completed_process_result.returncode}")
     if completed_process_result.stderr:
         print(f"      Proskomma {BBB} error output was:\n{completed_process_result.stderr.decode()}")
     proskomma_output_string = completed_process_result.stdout.decode()
-    print(f"Proskomma {BBB} output was: {proskomma_output_string}") # For debugging JS helper program only
+    # print(f"Proskomma {BBB} output was: {proskomma_output_string}") # For debugging JS helper program only
     output_lines = proskomma_output_string.split('\n')
     if output_lines:
         # Log any errors that occurred -- not really needed now coz they go to stderr
