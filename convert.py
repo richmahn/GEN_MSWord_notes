@@ -78,8 +78,8 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
 
             if line.isdigit():
                 newC = line
-                # if int(line) != int(C)+1:
-                #     print(f"\nWARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
+                if int(line) != int(C)+1:
+                    print(f"\nWARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
                 V = '0'
                 C = newC
                 glQuote = note = verseText = ''
@@ -88,8 +88,8 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
             if line.startswith(f'{Bbb} {C}:'):
                 parts = line.split(' ')
                 newV = parts[1].split(':')[1]
-                # if int(newV) != int(V)+1:
-                #     print(f"\nWARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
+                if int(newV) != int(V)+1:
+                    print(f"\nWARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
                 V = newV
                 verseText = ' '.join(parts[2:])
                 occurrences = {}
@@ -175,8 +175,8 @@ def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, n
             if (gl_quote.startswith("'")): gl_quote = f'‘{gl_quote[1:]}'
             if (gl_quote.endswith("'")): gl_quote = f'{gl_quote[:-1]}’'
             gl_quote = gl_quote.replace('" ', '” ').replace(' "', ' “').replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
-            # if '"' in gl_quote or "'" in gl_quote:
-            #     print(f"\nWARNING at {BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
+            if '"' in gl_quote or "'" in gl_quote:
+                print(f"\nWARNING at {BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
 
             note = note.strip()
             if (note.startswith('"')): note = f'“{note[1:]}'
@@ -185,8 +185,8 @@ def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, n
                 .replace('".', '”.').replace('",', '”,') \
                 .replace('("', '(“').replace('")', '”)') \
                 .replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
-            # if '"' in note or "'" in note:
-            #     print(f"\nWARNING at {BBB} {C}:{V}: note still has straight quote marks: '{note}'")
+            if '"' in note or "'" in note:
+                print(f"\nWARNING at {BBB} {C}:{V}: note still has straight quote marks: '{note}'")
 
             temp_output_TSV_file.write(f'{BBB}\t{C}\t{V}\t{generated_id}\t{support_reference}\t{orig_quote}\t{occurrence}\t{gl_quote}\t{note}\n')
 
@@ -200,7 +200,8 @@ def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, n
     if completed_process_result.stderr:
         print(f"      Proskomma {BBB} error output was:\n{completed_process_result.stderr.decode()}")
     proskomma_output_string = completed_process_result.stdout.decode()
-    # print(f"Proskomma {BBB} output was: {proskomma_output_string}") # For debugging JS helper program only
+    print(f"Proskomma {BBB} output was: {proskomma_output_string}") # For debugging JS helper program only
+    exit(1)
     output_lines = proskomma_output_string.split('\n')
     if output_lines:
         # Log any errors that occurred -- not really needed now coz they go to stderr
