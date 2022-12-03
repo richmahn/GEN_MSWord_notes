@@ -1,219 +1,439 @@
 ERROR:root:Unable to find OrigLQuote for GEN 1:12 j69p 'and {every} tree bearing fruit that {has} its seeds inside it, according to its kind.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:20 pxhh '“Let the waters swarm {with} swarm{s} of living creature{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:20 a077 'and let bird{s} fly'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:22 bm26 'and let the bird{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:24 x1im 'and {every} creature of the earth,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:26 yy9x 'and over the bird{s} of the sky'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:27 kkqw 'in his image.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:28 i5qw 'the fish of the sea and over the bird{s} of the sky'
+
 ERROR:root:Unable to find OrigLQuote for GEN 1:30 ds5b 'and to every{thing} moving on the earth that {has} living breath in it,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 2:9 vc6r 'and the tree of life in the middle of the garden,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 2:12 nr0y 'and onyx stone'
+
 ERROR:root:Unable to find OrigLQuote for GEN 2:20 zj4c 'and to the bird{s} of the sky'
+
 ERROR:root:Unable to find OrigLQuote for GEN 2:20 za2g 'and to all the living creature{s} of the field{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 2:23 a345 'She will be called `woman,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 3:1 v0g5 '“Did God really say, `You must not eat'
+
 ERROR:root:Unable to find OrigLQuote for GEN 3:1 d4lc 'from any tree of the garden'?”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 3:3 b720 'God said, `You must not eat from it,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 3:17 n39m 'that I commanded you, saying, `You must not eat from it,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 3:18 thki 'And it will produce thorn{s} and thistle{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 3:18 gm0h 'for you, and you will eat the plant{s} of the field{s}.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 4:2 mmf3 'became a keeper of flock{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 4:4 ww5a 'some of the firstborn of his flock{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:1 ddf5 'On the day God created man{kind}, he made him'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:7 z53j '807 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:10 ibva '815 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:13 g8kq '840 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:16 g1z4 '830 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:19 was7 '800 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:22 bfjv '300 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:26 zujl '782 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 5:30 fnu4 '595 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 6:13 fz17 'So behold,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 6:17 qpf3 'And behold me,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 7:8 i29e '{Pairs} from the clean animal{s} and from the animal{s} that are not clean'
+
 ERROR:root:Unable to find OrigLQuote for GEN 7:8 q2nk 'and from the bird{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 7:23 gwxw 'and livestock and creatures that crawl'
+
 ERROR:root:Unable to find OrigLQuote for GEN 7:23 dsf6 'So they were wiped off the earth,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 8:1 iwos 'and all the living creature{s} and'
+
 ERROR:root:Unable to find OrigLQuote for GEN 8:11 v92j 'Then the dove returned to him at evening time,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 8:13 aeju 'in the first {month}, on the first day of the month,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 9:2 sjv0 'on every creature that moves'
+
 ERROR:root:Unable to find OrigLQuote for GEN 9:15 nv2i 'and never again will waters become a flood to destroy'
+
 ERROR:root:Unable to find OrigLQuote for GEN 9:23 lwod 'and covered the nakedness of their father.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 9:23 cuku 'the nakedness of their father.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 9:27 z5fw 'in the tents of Shem.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 10:7 j6hc 'Seba and Havilah and Sabtah and Raamah and Sabtecah.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 10:19 zvuc 'the border{s} of the Canaanites were'
+
 ERROR:root:Unable to find OrigLQuote for GEN 10:30 kvt4 'the mountain{s} of the east.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:1 g9rz 'Now it was that'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:2 tr5o 'And it happened that as'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:6 m5ze 'everything that they plan to do will not be impossible for them.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:7 uof2 'each other’s language.”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:13 y7om '403 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:15 deqx '403 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:17 awhy '430 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:19 mdqk '209 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:21 psdo '207 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 11:25 faie '119 years,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 12:2 xryb 'and you must be a blessing.”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 12:6 nmbb 'Then Abram'
+
 ERROR:root:Unable to find OrigLQuote for GEN 12:12 nebu 'then they will say, `This {is} his wife,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 12:16 v9oz 'flock{s} and herd{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 12:19 ee1f 'Why did you say, `She {is} my sister,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 22:3 zlx8 'Then he took two of his young men with him and Isaac his son,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 22:6 cjju 'and he carried in his hand{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 22:9 mfkh 'and there Abraham built the altar'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:1 vl87 'in all {things}.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:7 nia4 '`To your offspring I will give this land,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:14 cbcf '`Please let down your jar'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:14 nb3j '`Drink and I will also water your camels,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:18 ksa0 'Then she hurried and lowered her jar to her hand{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:35 l3xx 'And he has given him flock{s} and herd{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:37 oxaj '`You must not take a wife for my son from'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:39 bvd5 '`Suppose'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:40 gous '`Yahweh, whom I walk before,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:42 os4h 'I said, `Yahweh,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:45 fp03 '`Please give me a drink.’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:46 x31h 'and said, `Drink'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:47 ghx1 '`Whose daughter {are} you?’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 24:47 b40y '`The daughter of Bethuel,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 25:11 lwn1 'And Isaac lived near'
+
 ERROR:root:Unable to find OrigLQuote for GEN 25:17 wloc 'And these {are} the years of Ishmael’s life: 137 years.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 26:9 bjpr 'So how could you say, `She {is} my sister'?”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 26:9 f434 'Because I said, `I might die because of her.’ ”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 26:28 fjd9 '`There should be an oath between us’  --  between us and you.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 27:4 ncw9 'and bring it to me so that I can eat it and'
+
 ERROR:root:Unable to find OrigLQuote for GEN 27:7 d44s '`Bring game for me'
+
 ERROR:root:Unable to find OrigLQuote for GEN 27:17 bqtv 'Then she gave the tasty food and the bread that she had made into the hand{s} of Jacob her son,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 27:29 e75f 'and may your mother’s sons'
+
 ERROR:root:Unable to find OrigLQuote for GEN 27:39 yd3j 'away from the fatness of the earth and away from the dew of the heavens from above.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 27:40 v03o 'But it will happen when you become restless,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 29:3 y7nz 'then they would return the stone to its place'
+
 ERROR:root:Unable to find OrigLQuote for GEN 29:8 bc1b '“We can't'
+
 ERROR:root:Unable to find OrigLQuote for GEN 29:33 rlm7 'he has given to me this {son} also.”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:26 r0qd 'my service that I have served you.”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:31 ch2r 'I will continue tending your flock{s} watching over {them}:'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:32 nryr 'I will pass through all your flock{s} today'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:36 zy16 'And Jacob was tending the rest of Laban’s flock{s}.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:40 wf1n 'and he made the faces of the flock{s} look at'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:40 uc8f 'in the flock{s} of Laban.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:40 qh99 'and he did not put them with the flock{s} of Laban.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 30:43 aq1j 'and he owned large flock{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:1 f635 'and he has gained all this wealth'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:4 ij4c 'Then Jacob sent and called for Rachel and Leah to the field'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:4 pmlz 'to his flock{s}.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:7 d8ps 'but your father has deceived me'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:8 ieev '`The speckled animals will be your wages,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:8 u07i 'then all the flocks'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:8 vr5t '`The streaked ones will be your wages,’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:8 nuxk 'then all the flocks'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:10 mpfk 'the flock{s} were in heat, and'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:10 qrbf 'the he-goats that were mounting the flock{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:11 cvyz 'Then an angel of God said to me in the dream, `Jacob!’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:11 qf7z '`Behold me.’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:12 ztal '`Please lift up your eyes'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:12 q4hm 'all the male goats that are mounting the flock{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:14 yquc '“Is there still a portion or inheritance for us'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:18 a35i 'Then he drove'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:21 csko 'And he got up and crossed the River'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:21 b0il 'the mountain{s} of Gilead.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:23 q881 'in the mountain{s} of Gilead.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:24 r4u9 'But God came to Laban the Aramean in a dream that night'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:25 d47c 'Jacob had pitched his tent{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:25 cio4 'in the mountain{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:25 a8li 'in the mountain{s} of Gilead.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:27 h3g2 'with tambourine{s} and with lyre{s}?'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:29 h6qj 'the God of your father'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:29 oh57 'said to me, saying, `Keep yourself from speaking with Jacob either good or bad.’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:34 t46l 'Now Rachel had taken the idols and put them inside the camel’s saddle'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:34 i9ne 'he did not find {them}.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:41 gur9 'and six years for your flock{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 31:43 pr4a 'and the flock{s} {are} my flock{s}.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:4 skmj '`This {is what} your servant Jacob says,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:5 z3eb 'cattle and donkey{s}, flock{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:5 xe9b 'and menservant{s} and maidservant{s}.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:7 kwur 'so he divided the people who {were} with him and the flock{s} and the herd{s} and the camels into two camps.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:9 mnp4 'who said to me, `Return to your land and to your relatives and I will'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:12 bk1c '`I will surely cause things to prosper with you, and I will make your descendants as the sand of the sea,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:15 dfkv 'and thirty nursing camels and their young,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:16 i8y7 'And he gave them into the hand{s} of his servants,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:17 mq6y '`Whom do you {belong} to, and where are you going?'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:18 xtx5 '`{They belong} to your servant, to Jacob. They {are} a gift sent to my lord, to Esau.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:18 wxrr 'And behold, he {is} also behind us.’ ”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:19 ao9r '“Say the same thing to Esau when you find him.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 32:20 r3nn 'And also say, `Behold, your servant Jacob {is} behind us.’ ”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 33:13 gjkg 'and the flock{s} and the herd{s} {that} are nursing {are} with me.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 33:13 td6h 'then all the flock{s} will die.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 33:19 uv15 'where he pitched his tent{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 33:19 aeue 'from the hand{s} of the sons of Hamor, the father of Shechem, for a hundred kesitahs.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 34:28 n5ur 'They took their flock{s} and their herd{s} and their donkeys, and what {was} in the city and what {was} in the fields.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 35:11 kw8v '“I {am} God Almighty.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 35:22 s1wr 'went and lay with'
+
 ERROR:root:Unable to find OrigLQuote for GEN 35:22 rgyr 'Bilhah, the concubine of his father,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 35:25 iypf 'And the sons of Bilhah, the maidservant of Rachel, {were} Dan and Naphtali.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 36:2 gny5 'the daughter of Anah {and} the {grand}daughter of'
+
 ERROR:root:Unable to find OrigLQuote for GEN 36:6 sotx 'and his livestock and all his animal{s} and all his possession{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 36:7 d5i7 'their possession{s} were {too} great for them to'
+
 ERROR:root:Unable to find OrigLQuote for GEN 36:14 m4zk 'the daughter of Anah {and} the {grand}daughter of Zibeon:'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:2 uh5w 'was shepherding the flock{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:12 dquc 'went to shepherd the flock{s} of their father'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:13 lp21 '“Aren't your brothers shepherding'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:14 jn1g 'the well-being of your brothers and the well-being of the flock{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:17 n0kn '`Let us go to Dothan.’ ”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:18 rvsz 'But they saw him from a distance,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:22 in2o 'in order to rescue him from their hand{s},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 37:27 xihd 'so that our hand{s} will not be on him.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 38:22 jspw 'said, `There has not been a temple prostitute in this {place}.’ ”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 40:8 xvd9 '“Don't interpretations {belong} to God?'
+
 ERROR:root:Unable to find OrigLQuote for GEN 41:49 zrxi 'grain like'
+
 ERROR:root:Unable to find OrigLQuote for GEN 42:14 dz6a '“It {is} just as I told you, saying, `You {are} spies!’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 42:15 z4mn 'By this'
+
 ERROR:root:Unable to find OrigLQuote for GEN 42:20 dzam 'Then you will bring your youngest brother to me'
+
 ERROR:root:Unable to find OrigLQuote for GEN 42:22 t9co '`Do not sin against the lad'?'
+
 ERROR:root:Unable to find OrigLQuote for GEN 42:31 f0rb 'But we said to him, `We {are} honest. We are not spies.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 42:33 wf2c '“Then the man, the lord of the land, said to us,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 42:33 qgp9 '`By this'
+
 ERROR:root:Unable to find OrigLQuote for GEN 43:5 fgm6 '`You will not see my face'
+
 ERROR:root:Unable to find OrigLQuote for GEN 43:7 vl1f '`Is your father still alive? Do you have {another} brother?’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 43:7 g66t 'that he would say, `Bring your brother down'?”'
+
 ERROR:root:Unable to find OrigLQuote for GEN 43:17 m7e0 'So the man did just as Joseph {had} said,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 43:34 w79i 'Then he served to them servings {of food} from before him,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:1 fq1a 'and put {each} man’s silver in the mouth of his sack.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:2 mjfo 'in the mouth of the sack of the youngest {one},'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:10 ufoa 'according to your words, so it {will be}:'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:10 sesi 'whoever is found with it'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:18 fh2x 'Then Judah went near to him and said,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:19 m0b1 'saying, `Do you have a father or {another} brother?’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:20 jjpr '`We have an aged father and the youngest son'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:21 aynf '`Bring him down to me, and I will set my eyes on him.’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:22 gc3u 'And we said to my lord, `The young man is not able to leave his father,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:23 dr0c '`If your youngest brother does not come down with you,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:25 jxfx '`Return, buy a little food for us.’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:26 ewii '`We cannot go down. If our youngest brother is with us, then we will go.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:27 p3ad '`You know that'
+
 ERROR:root:Unable to find OrigLQuote for GEN 44:32 wvnb '`If I do not bring him {back} to you,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 45:6 efcp 'For this {is} two years'
+
 ERROR:root:Unable to find OrigLQuote for GEN 45:9 vccn 'and say to him, `This {is what} your son Joseph says,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 45:17 wtuf '“Say to your brothers, `Do this: Load your animals'
+
 ERROR:root:Unable to find OrigLQuote for GEN 45:19 iarc '`Do this: Take carts with you'
+
 ERROR:root:Unable to find OrigLQuote for GEN 46:3 ahwm 'to go down to Egypt,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 46:5 zoe9 'Then Jacob got up from Beersheba,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 46:31 uc5g '`My brothers and the household of my father'
+
 ERROR:root:Unable to find OrigLQuote for GEN 46:33 ca0y 'calls for you and says, `What {is} your work?’'
+
 ERROR:root:Unable to find OrigLQuote for GEN 46:34 qucf '`Your servants have been livestock men from our youth and until now,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:1 sr1p 'and their flock{s} and their herd{s}'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:2 ctix 'Then he took five men from among his brothers and presented them before Pharaoh.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:4 j1wp 'because there is not pasture for the flock{s} that {belong} to your servants,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:12 g7hp 'bread, according to the mouth{s} of the little ones.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:13 xc7k 'in all the earth,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:14 ie3n 'So Joseph collected all the silver that was found in the land of Egypt and in the land of Canaan for the grain which they were buying,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:15 r5at 'And {when} the silver was consumed from the land of Egypt and from the land of Canaan,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:15 zi7s 'then all Egypt'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:17 zhax 'and Joseph gave bread to them {in exchange} for the horses, and for the herd{s} of sheep, and for the herd{s} of cattle and for the donkeys.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:18 n624 'the silver is consumed and the herd{s} of livestock'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:20 x9ai 'bought all the {farm}land of Egypt for Pharaoh,'
+
 ERROR:root:Unable to find OrigLQuote for GEN 47:26 a4rp 'concerning the {farm}land of Egypt, {that} the fifth {belongs} to Pharaoh.'
+
 ERROR:root:Unable to find OrigLQuote for GEN 48:4 xxr7 '`Behold, I will make you fruitful and multiply you and make you into'
+
 ERROR:root:Unable to find OrigLQuote for GEN 48:22 ugz5 'the Amorite{s} with my sword and with my bow.”'
+
+
+
 
