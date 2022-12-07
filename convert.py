@@ -155,7 +155,9 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
                 print(book_data[C][V])
                 text = re.sub('<[^<]+?>', '', book_data[C][V]['html']).strip()
                 text = re.sub('^\d+ *', '', text)
+                text = re.sub(r'\s+', ' ', text)
                 print(f"?{text}?")
+                verseText = re.sub(r'\s+', ' ', verseText)
                 if verseText not in text:
                     add_error(line_number, "verse", f"{BBB} {C}:{V}: Verse should read:\n```\n{text}\n```\nNOT\n```\n{verseText}\n```")
                 occurrences = {}
