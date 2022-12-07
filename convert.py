@@ -20,11 +20,18 @@ NOTE: This requires the addition of the OrigQuote column!
 from typing import List, Tuple
 import sys
 import os
+import csv
 from pathlib import Path
 import random
 import re
 import logging
 import subprocess
+from collections import OrderedDict
+import urllib.request
+from usfm_utils import unalign_usfm
+from tx_usfm_tools.singleFilelessHtmlRenderer import SingleFilelessHtmlRenderer
+from bs4 import BeautifulSoup
+import json
 
 
 LOCAL_SOURCE_FOLDERPATH = 'txt'
@@ -53,7 +60,54 @@ HELPER_PROGRAM_NAME = 'TN_ULT_Quotes_to_OLQuotes.js'
 
 DEBUG_LEVEL = 1
 
+book_data = OrderedDict()
+errors = [['line', 'type', 'message']]
 
+def get_book_data():
+    response = urllib.request.urlopen("https://git.door43.org/unfoldingWord/en_ult/raw/branch/master/01-GEN.usfm")
+    data = response.read()      # a `bytes` object
+    book_usfm = data.decode('utf-8') # a `str`; this step can't be used if data is binary
+    unaligned_usfm = unalign_usfm(book_usfm)
+    book_html, warnings = SingleFilelessHtmlRenderer({"GEN": unaligned_usfm}).render()
+    html_verse_splits = re.split(r'(<span id="[^"]+-ch-0*(\d+)-v-(\d+(?:-\d+)?)" class="v-num">)', book_html)
+    usfm_chapter_splits = re.split(r'\\c ', unaligned_usfm)
+    usfm_verse_splits = None
+    chapter_verse_index = 0
+    for i in range(1, len(html_verse_splits), 4):
+        chapter = html_verse_splits[i+1]
+        verses = html_verse_splits[i+2]
+        if chapter not in book_data:
+            book_data[chapter] = OrderedDict()
+            usfm_chapter = f'\\c {usfm_chapter_splits[int(chapter)]}'
+            usfm_verse_splits = re.split(r'\\v ', usfm_chapter)
+            chapter_verse_index = 0
+        chapter_verse_index += 1
+        verse_usfm = f'\\v {usfm_verse_splits[chapter_verse_index]}'
+        verse_html = html_verse_splits[i] + html_verse_splits[i+3]
+        verse_html = re.split('<h2', verse_html)[0]  # remove next chapter since only split on verses
+        verse_soup = BeautifulSoup(verse_html, 'html.parser')
+        for tag in verse_soup.find_all():
+            if (not tag.contents or len(tag.get_text(strip=True)) <= 0) and tag.name not in ['br', 'img']:
+                tag.decompose()
+        verse_html = str(verse_soup)
+        verses = re.findall(r'\d+', verses)
+        for verse in verses:
+            verse = verse.lstrip('0')
+            book_data[chapter][verse] = {
+                'usfm': verse_usfm,
+                'html': verse_html
+            }
+
+def add_error(line:str, type:str, message:str):
+    errors.append([line, type, message])
+
+
+def write_errors():
+    with open('errors/errors.tsv', 'w', newline='\n') as csvfile:
+        writer = csv.writer(csvfile, delimiter='\t', quotechar='"', lineterminator="\n")
+        writer.writerows(errors)
+
+                        
 def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str,str]:
     """
     Generator to read the exported MS-Word .txt files
@@ -69,17 +123,17 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
     verseText = glQuote = note = ''
     occurrence = 0
     occurrences = {}
-    errors = ''
     with open(input_filepath, 'rt', encoding='utf-8') as input_text_file:
         for line_number, line in enumerate(input_text_file, start=1):
             if line_number == 1 and line.startswith('\ufeff'):
                 line = line[1:]  # Remove optional BOM
-            line = line.rstrip('\n\r').strip()
+            line = line.rstrip('\n\r').strip().replace("\xa0", " ")
 
             if line.isdigit():
+                print("LINE IS DIGIT!!! ", line)
                 newC = line
                 if int(line) != int(C)+1:
-                    print(f"\nWARNING at line {line_number}: Chapter number is not increasing as expected: moving from {C} to {newC}")
+                    add_error(line_number, 'file', f"Chapter number is not increasing as expected: moving from {C} to {newC}")
                 V = '0'
                 C = newC
                 glQuote = note = verseText = ''
@@ -87,11 +141,21 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
             
             if line.startswith(f'{Bbb} {C}:'):
                 parts = line.split(' ')
+                print(parts)
                 newV = parts[1].split(':')[1]
+                print(line)
+                print(newV, V)
                 if int(newV) != int(V)+1:
-                    print(f"\nWARNING at line {line_number}: Verse number is not increasing as expected: moving from {V} to {newV}")
+                    add_error(line_number, "file", f"Verse number is not increasing as expected: moving from {V} to {newV}")
                 V = newV
                 verseText = ' '.join(parts[2:])
+                print(f"|{verseText}|")
+                print(book_data[C][V])
+                text = re.sub('<[^<]+?>', '', book_data[C][V]['html']).strip()
+                text = re.sub('^\d+ *', '', text)
+                print(f"?{text}?")
+                if verseText not in text:
+                    add_error(line_number, "verse", f"{BBB} {C}:{V}: Verse should read: " + text)
                 occurrences = {}
                 glQuote = note = ''
                 continue
@@ -110,9 +174,9 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
                 continue
 
             glQuote = line
-            quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', verseText))
-            if quote_count == 0 and False:
-                print(f"\nERROR: GL Quote NOT FOUND in verse {Bbb} {C}:{V}:\nGL Quote:  {glQuote}\nVerseText: {verseText}\n\n")
+            quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', text))
+            if quote_count == 0:
+                add_error(line_number, "glQuote", f'{Bbb} {C}:{V}: GL Quote not found: "{glQuote}" not in "{text}"')
             else:
                 words = glQuote.split(' ')
                 words_str = ''
@@ -129,10 +193,9 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
                     occurrence = quote_count
             continue
 
-    if errors:
-        print(errors)
-        print("Please fix GL quotes so they match and try again.")
-        sys.exit(1)
+    # if errors['glQuotres']:
+    #     print("Please fix GL quotes so they match and try again.")
+    #     sys.exit(1)
     
     if glQuote and note:
         yield C, V, verseText, glQuote, str(occurrence), note
@@ -165,7 +228,8 @@ def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, n
 
             # Find "See:" TA refs and process them -- should only be one
             for match in re.finditer(r'\(See: ([-A-Za-z0-9]+?)\)', note):
-                assert not support_reference, f"\nWARNING at {BBB} {C}:{V}: Should only be one TA ref: {note}"
+                if support_reference:
+                    add_error("-1", "format", f"{BBB} {C}:{V}: Should only be one TA ref: {note}")
                 support_reference = match.group(1)
                 note = f"{note[:match.start()]}(See: [[rc://en/ta/man/translate/{support_reference}]]){note[match.end():]}"
 
@@ -176,7 +240,7 @@ def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, n
             if (gl_quote.endswith("'")): gl_quote = f'{gl_quote[:-1]}’'
             gl_quote = gl_quote.replace('" ', '” ').replace(' "', ' “').replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
             if '"' in gl_quote or "'" in gl_quote:
-                print(f"\nWARNING at {BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
+                add_error(line_number, "format", f"{BBB} {C}:{V}: glQuote still has straight quote marks: '{gl_quote}'")
 
             note = note.strip()
             if (note.startswith('"')): note = f'“{note[1:]}'
@@ -186,7 +250,7 @@ def convert_MSWrd_TN_TSV(input_folderpath:str, output_folderpath:str, BBB:str, n
                 .replace('("', '(“').replace('")', '”)') \
                 .replace("' ", '’ ').replace(" '", ' ‘').replace("'s", '’s')
             if '"' in note or "'" in note:
-                print(f"\nWARNING at {BBB} {C}:{V}: note still has straight quote marks: '{note}'")
+                add_error("-1", "format", f"{BBB} {C}:{V}: note still has straight quote marks: '{note}'")
 
             temp_output_TSV_file.write(f'{BBB}\t{C}\t{V}\t{generated_id}\t{support_reference}\t{orig_quote}\t{occurrence}\t{gl_quote}\t{note}\n')
 
@@ -263,19 +327,14 @@ def main():
     total_lines_read = total_quotes_written = 0
     total_GLQuote_failures = 0
     failed_book_list = []
-    for BBB,nn in BBB_NUMBER_DICT.items():
+    for BBB, nn in BBB_NUMBER_DICT.items():
         if BBB != 'GEN': continue # Just process this one book
         # if BBB not in ('MAT','MRK','LUK','JHN', 'ACT',
         #                 'ROM','1CO','2CO','GAL','EPH','PHP','COL',
         #                 '1TH','2TH','1TI','2TI','TIT','PHM',
         #                 'HEB','JAS','1PE','2PE','1JN','2JN','3JN','JUD','REV'):
         #     continue # Just process NT books
-        try:
-            lines_read, this_note_count, fail_count = convert_MSWrd_TN_TSV(LOCAL_SOURCE_FOLDERPATH, LOCAL_OUTPUT_FOLDERPATH, BBB, nn)
-        except Exception as e:
-             print(f"   {BBB} got an error: {e}")
-             failed_book_list.append((BBB,str(e)))
-             lines_read = this_note_count = fail_count = 0
+        lines_read, this_note_count, fail_count = convert_MSWrd_TN_TSV(LOCAL_SOURCE_FOLDERPATH, LOCAL_OUTPUT_FOLDERPATH, BBB, nn)
         total_lines_read += lines_read
         total_files_read += 1
         if this_note_count:
@@ -291,5 +350,7 @@ def main():
 # end of main function
 
 if __name__ == '__main__':
+    get_book_data()
     main()
+    write_errors()
 # end of TN_MSWrd_to_TSV9_via_Proskomma.py

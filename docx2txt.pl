@@ -705,7 +705,7 @@ $content =~ s/<.*?>//og;
 # Convert non-ASCII characters/character sequences to ASCII characters.
 #
 
-$content =~ s/(\xC2|\xC3|\xCF|\xE2.|\xEF.)(.)/($splchars{$1}{$2} ? $splchars{$1}{$2} : $1.$2)/oge;
+# $content =~ s/(\xC2|\xC3|\xCF|\xE2.|\xEF.)(.)/($splchars{$1}{$2} ? $splchars{$1}{$2} : $1.$2)/oge;
 
 #
 # Convert docx specific (reserved HTML/XHTML) escape characters.
