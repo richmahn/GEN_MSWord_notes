@@ -61,7 +61,7 @@ HELPER_PROGRAM_NAME = 'TN_ULT_Quotes_to_OLQuotes.js'
 DEBUG_LEVEL = 1
 
 book_data = OrderedDict()
-errors = [['line', 'type', 'message']]
+errors = [['line', 'type', 'note']]
 
 def get_book_data():
     response = urllib.request.urlopen("https://git.door43.org/unfoldingWord/en_ult/raw/branch/master/01-GEN.usfm")
@@ -155,7 +155,7 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
                 text = re.sub('^\d+ *', '', text)
                 print(f"?{text}?")
                 if verseText not in text:
-                    add_error(line_number, "verse", f"{BBB} {C}:{V}: Verse should read: " + text)
+                    add_error(line_number, "verse", f"{BBB} {C}:{V}: Verse should read:\n```\n{text}\n```\nNOT\n```\n{verseText}\n```")
                 occurrences = {}
                 glQuote = note = ''
                 continue
@@ -176,7 +176,7 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
             glQuote = line
             quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', text))
             if quote_count == 0:
-                add_error(line_number, "glQuote", f'{Bbb} {C}:{V}: GL Quote not found: "{glQuote}" not in "{text}"')
+                add_error(line_number, "glQuote", f'{Bbb} {C}:{V}: GL Quote not found:\n```\n{glQuote}```\nnot in\n```\n{text}\n```')
             else:
                 words = glQuote.split(' ')
                 words_str = ''
