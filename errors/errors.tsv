@@ -1,5 +1,9 @@
-line	type	message
-182	verse	GEN 1:11: Verse should read: Then God said, “Let the land sprout vegetation: {every} plant yielding seed, {every} fruit tree bearing fruit according to its kind, that {has} its seed inside it, on the earth.” And it was so:
+line	type	notes
+182	verse	"GEN 1:11: Verse should read: 
+
+```
+Then God said, “Let the land sprout vegetation: {every} plant yielding seed, {every} fruit tree bearing fruit according to its kind, that {has} its seed inside it, on the earth.” And it was so:
+```"
 205	glQuote	"Gen 1:11: GL Quote not found: ""And it was so."" not in ""Then God said, “Let the land sprout vegetation: {every} plant yielding seed, {every} fruit tree bearing fruit according to its kind, that {has} its seed inside it, on the earth.” And it was so:"""
 581	verse	GEN 1:29: Verse should read: Then God said, “Behold, I have given to you every plant {that} yields seed that {is} on the surface of the whole earth and every tree that {has} tree fruit {that} yields seed inside it. They will be yours for food.
 592	glQuote	"Gen 1:29: GL Quote not found: ""every plant {that} yields seed that is"" not in ""Then God said, “Behold, I have given to you every plant {that} yields seed that {is} on the surface of the whole earth and every tree that {has} tree fruit {that} yields seed inside it. They will be yours for food."""
