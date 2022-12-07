@@ -160,19 +160,29 @@ const searchULTWordRecords = (ULTSearchString, ULTTokens) => {
 
     // Break the search string into a list of words, and determine if they're contiguous (why do we even need that?)
     const ret = [];
+    const ss = ULTSearchString;
     for (let searchExpr of xre.split(ULTSearchString, /[-\s’."”־]/).filter(str => str.length > 0)) { // includes hyphen (beautiful-looking and maqaf)
         // console.log(`    searchULTWordRecords processing searchExpr='${searchExpr}'`);
         // The ULT "sourceTokens" have all punctuation (incl. word punctuation) as separate tokens!
         // So remove sentence punctuation (incl. all apostrophes!) from our individual search words
         // Added 'all' scope flag below to handle words with multiple punctuation marks to be removed, e.g. "(word),"
-        searchExpr = xre.replace(searchExpr, /[“‘(),”’?:;.!{}]/, '', 'all'); // Added colon and parentheses
-        if (searchExpr.includes("…")) {
-            const searchExprParts = searchExpr.split("…");
-            ret.push([searchExprParts[0], false]);
-            searchExprParts.slice(1).forEach(p => ret.push([p, true]));
-        } else {
-            ret.push([searchExpr, false]);
-        }
+        searchExpr = xre.replace(searchExpr, /[“‘(),”’?:;.!{}]/, ' ', 'all'); // Added colon and parentheses
+        searchExpr = xre.replace(searchExpr, /  +/, ' ', 'all'); // remove more than one space
+        searchExpr = searchExpr.trim()
+        searchWords = searchExpr.split(' ')
+        searchWords.forEach(word => {
+            let wordParts = [];
+            if (word.includes("…")) {
+                wordParts = word.split("…");
+            } else {
+                wordParts = [word];
+            }
+            wordParts.forEach((p, i) => {
+                if(! p.trim().length)
+                    return;
+                ret.push([p, i > 0]);
+            });
+        })
     }
     const intermediateSearchList = ret.filter(t => t[0] !== "׀"); // why is this needed -- ah for \w fields maybe -- still not really sure ???
     // console.log(`  searchULTWordRecords intermediateSearchList=${intermediateSearchList}`);
