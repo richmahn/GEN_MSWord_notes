@@ -124,6 +124,7 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
     occurrence = 0
     occurrences = {}
     with open(input_filepath, 'rt', encoding='utf-8') as input_text_file:
+        prevLine = ''
         for line_number, line in enumerate(input_text_file, start=1):
             if line_number == 1 and line.startswith('\ufeff'):
                 line = line[1:]  # Remove optional BOM
@@ -137,6 +138,7 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
                 V = '0'
                 C = newC
                 glQuote = note = verseText = ''
+                prevLine = line
                 continue
             
             if line.startswith(f'{Bbb} {C}:'):
@@ -158,19 +160,22 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
                     add_error(line_number, "verse", f"{BBB} {C}:{V}: Verse should read:\n```\n{text}\n```\nNOT\n```\n{verseText}\n```")
                 occurrences = {}
                 glQuote = note = ''
+                prevLine = line
                 continue
 
-            if not line or 'Paragraph Break' in line or line.startswith(f'{C}:'):
+            if not line or 'Paragraph Break' in line or line.startswith(f'{C}:') or prevLine.startswith(f'{C}:'):
                 if glQuote and note:
                     yield C, V, verseText, glQuote, str(occurrence), note
                 glQuote = note = ''
                 occurrence = 0
+                prevLine = line
                 continue
             
             if glQuote:
                 if note:
                     note += " "
                 note += line
+                prevLine = line
                 continue
 
             glQuote = line
@@ -191,6 +196,7 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
                 occurrence = occurrences[glQuote]
                 if quote_count < occurrence:
                     occurrence = quote_count
+            prevLine = line
             continue
 
     # if errors['glQuotres']:
