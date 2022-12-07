@@ -176,7 +176,7 @@ def get_input_fields(input_folderpath:str, BBB:str) -> Tuple[str,str,str,str,str
             glQuote = line
             quote_count = len(re.findall(r'(?<![^\W_])' + re.escape(glQuote) + r'(?![^\W_])', text))
             if quote_count == 0:
-                add_error(line_number, "glQuote", f'{Bbb} {C}:{V}: GL Quote not found:\n```\n{glQuote}```\nnot in\n```\n{text}\n```')
+                add_error(line_number, "glQuote", f'{Bbb} {C}:{V}: GL Quote not found:\n```\n{glQuote}\n```\nnot in\n```\n{text}\n```')
             else:
                 words = glQuote.split(' ')
                 words_str = ''
