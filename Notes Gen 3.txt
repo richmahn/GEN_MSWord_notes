@@ -1,0 +1,494 @@
+3
+
+Gen 3:1 Now the serpent was more crafty than every living thing of the field that Yahweh God had made. And he said to the woman, “Did God really say, ‘You must not eat from any tree of the garden’?”
+
+Now the serpent
+“Now the snake”. The conjunction “Now” introduces background information about the serpent. See how you translated this conjunction in Gen 2:5, 8, 19. (See: grammar-connect–time-background)
+
+was more crafty than every living thing of the field
+“was more {deceptive and} clever/cunning than any of the {other} creatures/animals that live in the fields/wild” or “was the craftiest of all the animals”. Make sure that your translation of “crafty” means that the snake had evil intent and was clever in a way that was not good. See how you translated “living thing of the field” in Gen 2:19-20.
+
+that Yahweh God had made.
+“that Yahweh {who is} God had made/created.” or “that God {whose name is Yahweh) had made/created.” Make sure your translation of this phrase refers to the animals that God had made, not the fields. Also see how you translated “Yahweh God” in chapter 2, beginning in verse 4.
+
+And he 
+“{One day} he” or “{One day} the serpent/snake”. If you use a pronoun (“he”) here in your translation, make sure it refers to the serpent, not God. (See: writing-pronouns)
+
+said to the woman
+“asked the woman,” or “{came/went to the woman and} asked her,” The snake asked a question, so some languages have to be more specific and say “asked” in the quote margin. Do what is best in your language. (See: writing-quotations)
+
+“Did God really say, ‘You must not eat 
+“Did God really/actually command you to not eat” or “Is it true that God commanded you not to eat”. Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. (See: figs-quotesinquotes)
+
+from any tree of the garden’?”
+“{fruit} from any of the trees (that is/are} in the garden?” or “{any fruit} from the trees in the garden?” See how you translated “garden” in Genesis 2, beginning in verse 8.
+
+
+Gen 3:2 Then the woman said to the serpent, “We may eat from the fruit of the trees of the garden,
+
+Then the woman said to the serpent, 
+“The woman answered the serpent/snake,” or “The woman responded to him,” or “The woman replied,” Consider what is the best way to translate this quote margin in your language. (See: writing-quotations)
+
+“We may eat 
+“{No,} {he/God said that} we may/can eat” or “{No,} we have permission {from God/him} to eat” or “{No,} God/he has given us permission to eat”. The woman is not including the snake when she says “we” here. (See: figs-exclusive)
+
+from the fruit of
+“the fruit of/from” or “fruit from”. See how you translated “fruit” in Gen 1:11-12, 29.
+
+the trees of the garden,
+“{any/all of} the trees {that are} in the garden,” or “{any} tree in the garden,”
+
+
+Gen 3:3 except from the fruit of the tree that {is} in the middle of the garden. God said, ‘You must not eat from it, and you must not touch it, or else you will die!’ ”
+
+except from the fruit of the tree that {is} in the middle of the garden. 
+“except fruit from the tree that is in the middle/center of the garden.” or “except there is one tree that we must not eat fruit from, which is in the middle/center of the garden.” 
+
+God said, ‘You must not eat from it,
+“God/he told/commanded {us}, ‘Do not eat fruit from that tree,” or “God/He told/commanded {us} to not eat {any of} that fruit,” Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. (See: figs-quotesinquotes) 
+
+and you must not touch it, 
+“and do not even touch it,” or “or even touch it,”
+
+or else you will die!’ ”
+“because if you do {eat it or touch it}, you will die!” or “because if we do {eat it or touch it}, we will die!” Make sure the way you translate this clause fits with whether you translated the first part of the sentence as a direct (“you”) or indirect (“we”) quote. (See: figs-quotesinquotes)
+
+
+Gen 3:4 But the serpent said to the woman, “You will not surely die.
+
+But the serpent
+“But the snake”. See how you translated “serpent” in verses 1-2.
+
+said to the woman,
+“said/replied to her,” or “replied,” (See: writing-quotations)
+
+“You will not surely die.
+“{That is not true.} You will not die.” or “It’s not true that you will die.”
+
+
+Gen 3:5 For God knows that on the day you eat from it, then your eyes will be opened, and you will be like God in knowing good and evil.” 
+
+For God knows
+“Actually, God/he knows” or “The reason God said that is he knows”. The connecting word “For” introduces an explanation here. Consider the best way to do that in your language. 
+
+that on the day
+“that as soon as”. See how you translated this phrase in Gen 2:17.
+
+you eat from it,
+“you eat {fruit} from that tree,” or “you eat some of that fruit,” The pronouns “you” and “your” are plural in this verse and refer to the man and the woman. Some languages have a special dual pronoun for this. Consider again how you translated “you” and “your” in verses 1-5. (See: figs-dual)
+
+then your eyes will be opened,
+“your mind/understanding will be opened/expanded,” or “you will gain/have new understanding,” or “you will understand/know new things,” Consider whether your language has an idiom like “your eyes will be opened” that would fit well here. (See: figs-idiom)
+
+and 
+“and {as a result}” or “so that”. The following clause is the result of their eyes being opened. Consider the best way to communicate that in your translation. (See: figs-grammar-connect-logic-result)
+
+you will be like God in knowing good and evil.”
+“you will be like God/him because you will know {what is} good/right and {what is} evil/wrong.” or “you will know {what is} good/right and {what is} evil/wrong just like God does.” The Hebrew word “Elohim” in this clause is ambiguous. It can mean (1) “God”, as it does everywhere else in the first 30 chapters of Genesis; (2) “gods” or “divine beings”; (3) “angels”. See how you translated “good and evil” in Gen 2:9, 17.
+
+
+Gen 3:6 And the woman saw that the tree {was} good for food, and that it {was} pleasant to the eyes, and {that} the tree was desirable for gaining wisdom. So she took some of its fruit and ate {it}. Then she also gave {some} to her husband with her, and he ate {it}. 
+
+And the woman saw that 
+“The woman saw/observed that”
+
+the tree
+“the tree {produced fruit that}” or “{the fruit of} that tree” or “the tree{’s fruit}”. The word “tree” refers here to the fruit that is produced by that tree. Make sure that is clear in your translation. (See: figs-synecdoche)
+
+{was} good for food,
+“{was/looked} good/delicious to eat” 
+
+and that it {was} pleasant to the eyes,
+“and that the tree {itself} was/looked {very} beautiful,”
+
+and {that} the tree was desirable for gaining wisdom. 
+“and {she thought/believed} that {the fruit from} the tree would make her wise/wiser.” or “She {also} desired/wanted {to eat} the fruit so that it would make her wise/wiser.” Consider whether or not it is better in your language to begin a new sentence here.
+
+So she took some of its fruit and ate {it}.
+“So/Then she took/picked some of the fruit {from/off the tree} and ate {it}.” 
+
+Then she also gave {some} 
+“She also gave {some of the fruit}”
+
+to her husband with her,
+“to her husband, {who was} {there} with her,”
+
+and he ate {it}.
+“and he ate {it/some} {too}.” or “and he {also} ate {it/some}.”
+
+
+Gen 3:7 Then the eyes of them both were opened, and they knew that they {were} naked. So they sewed fig leaves together and made aprons for themselves.
+
+Then
+“Immediately/Suddenly”. An immediate result of their sin was that they realized they were naked, which they had not been aware of before.
+
+the eyes of them both were opened,
+“it was as if their eyes/minds were opened/enlightened,” or “they both gained/had new understanding,” or “they both understood new things,” See how you translated the idiom “eyes...opened” in verse 5. (See: figs-idiom)
+
+and they knew
+“so that they realized” or “so that they became aware”
+
+that they {were} naked.
+“that their bodies {were} naked/uncovered {and felt ashamed/embarrassed}.”
+
+So they sewed
+“So they fastened/joined {together}”. The word for “sewed” implies here that some type of needle and thread were used. For example, they may have used a thin, sharpened stick for the needle, and plant fibers for the thread. If necessary, you could use a more general term such as “fastened/joined together” or “connected”. Also, some languages have dual pronouns that can be used in verses 7-8 for “they” and “themselves”. Do what is best in your language. (See: figs-youdual)
+
+fig leaves 
+“{some} fig {tree} leaves” or “{some} {large} leaves from a fig tree”. Historical facts should not be changed in a translation, including the historical fact that Adam and Eve used fig tree leaves to make aprons. If fig trees are not known in your language area, you could say “{large} leaves from a tree called fig {tree}”. (See: translate-unknown)
+
+and made aprons for themselves.
+“and used/wore them like/as aprons/skirts/loincloths {to cover their nakedness/bodies}.” or “and wore them around their waists {to cover their nakedness/bodies}.” or “and used them to make clothes for themselves.” These aprons/skirts probably covered them from the waist down to somewhere around the knees.
+
+________________________Paragraph Break______________________
+
+Gen 3:8 Then they heard the sound of Yahweh God walking in the garden in the breeze of the day, but the man and his wife hid from the presence of Yahweh God among the trees of the garden. 
+
+Then they heard
+“Then/Later the man and his wife heard”. For some languages it may be clearer and more natural to put the noun phrase “the man and his wife” here and then use a pronoun (“they”) later in this sentence. Do what is best in your language. (See: writing-pronouns)
+
+the sound of Yahweh God walking 
+“the sound of Yahweh God{’s footsteps} as he walked” or “Yahweh God’s voice as he walked”. This phrase can refer to the sound of God’s footsteps or to the sound of his voice. Either meaning fits the context well and is followed by many translations.
+
+in the garden 
+“{around} in the garden” or “through the garden”
+
+in the breeze of the day,
+“{late in the afternoon} in/during the breezy/cool {time} of the day,” or “{late that afternoon/day} when there was a cool breeze blowing,” This idiom refers to the late afternoon or early evening when there is a breeze blowing and it is cooler. For some languages it is more natural to put this time phrase at the beginning of the sentence. Do what is best in your language. (See: figs-idiom)
+
+but the man and his wife
+“but/so they”. If you use “the man and his wife” earlier in this verse in your translation, consider whether a pronoun should be used here. (See: writing-pronouns)
+
+hid
+“hid {themselves}” or “{tried to} hide {themselves}”
+
+from the presence of Yahweh God
+“from Yahweh God” or “from his presence/sight” or “from him”. Consider what is the best way to refer to Yahweh here in your language. (See: writing-pronouns)
+
+among the trees
+“in the midst of the trees” or “behind some trees”
+
+of the garden.
+“in the garden.” or “there.” Since the garden is already mentioned earlier in verse 8, it may be more natural to be general here and say “there”. Do what is best in your language.
+
+
+Gen 3:9 So Yahweh God called to the man and said to him, “Where {are} you?” 
+
+So Yahweh God 
+“Then/But Yahweh God”. See how you translated this name for God in verses 1 and 8.
+
+called to the man and said to him,
+“called {out} to the man and asked him,” or “called {out} to Adam,” See the note at Gen 2:19 about when to start using Adam’s name. Also consider the best way to translate this quote margin in your language. (See: writing-quotations)
+
+“Where {are} you?”
+“{Adam,} where are you?” Notice that the word “you” is singular here because God is only addressing the man. (See: figs-yousingular) 
+
+
+Gen 3:10 And he said, “I heard your sound in the garden, but I was afraid because I {was} naked, so I hid.” 
+
+And he said,
+“He/Adam answered {him},” or “The man replied,” (See: writing-quotations)
+
+“I heard your sound 
+“I heard the sound of you {walking}” or “I heard your voice” or “I heard the sound of your footsteps/voice {as you walked}”. See how you translated “sound” in verse 8.
+
+in the garden,
+“through the garden,”
+
+but I was afraid because I {was} naked, so I hid.”
+“but I was naked, so I was/felt afraid and I hid {from you}.” or “but I was naked and afraid {that you would see me}, so I hid.”
+
+
+Gen 3:11 Then he said, “Who told you that you {were} naked? Did you eat from the tree that I commanded you not to eat from?” 
+
+Then he said,
+“So Yahweh God asked {him},” Make sure your translation of “he” refers to Yahweh here, not the man. (See: writing-pronouns)
+
+“Who told you that you {were} naked?
+ “What made you realize/know that you were naked?” or “How did you find out that you were naked?” The pronoun “you” is still singular here. (See: figs-yousingular)
+
+Did you eat from the tree
+“Did you {disobey me and} eat {fruit} from the tree”
+
+that I commanded you not to eat from?”
+“that I commanded you, ‘Do not eat from it’?” For some languages it is more natural to use a direct quote here for Yahweh’s words. Do what is best in your language. (See: figs-quotesinquotes)
+
+
+Gen 3:12 Then the man said, “The woman whom you gave {to be} with me, she gave me {fruit} from the tree, and I ate {it}.”
+
+Then the man said,
+“But the man said/replied {to him},” or “The man answered {him},”
+
+“The woman whom you gave {to be} with me, she 
+“The woman whom you put here {to be/live} with me, she {is the one who}” or “It was the woman you gave to me who”. The pronoun “she” is emphatic in the Hebrew text. That, along with the position of “The woman” at the beginning of the sentence, shows that the man is strongly emphasizing his blame on the woman. Translate this clause in your language in a way that will show that emphasis. 
+
+gave me {fruit} from the tree,
+“gave me {some fruit} from that tree,” or “gave me some of the/that fruit,” See how you translated “fruit” in verses 1-6.
+
+and I ate {it}.”
+“so I ate {it}.” or “That is why I ate {it/some}.” Consider whether or not it is better in your language to begin a new sentence here.
+
+
+Gen 3:13 Then Yahweh God said to the woman, “What {is} this you have done?” And the woman said, “The serpent deceived me, so I ate {it}.”
+
+Then Yahweh God said to the woman,
+“So Yahweh God asked the woman,” Consider what is the best way to translate this quote margin in your language. (See: writing-quotations)
+
+“What {is} this you have done?”
+“What have you done?” or “What did you do?” or “Tell me what you have done.” God already knew the answer to this question, but he is giving the woman a chance to confess and explain what she did. God’s question probably also implies that he is displeased with what has happened.
+
+And the woman said,
+“But the woman said/replied {to him},” or “The woman said/replied,” or “She replied,” (See: writing-quotations)
+
+“The serpent
+“The snake” or “It was the serpent/snake that”. This phrase is emphasized in the Hebrew text.
+
+deceived me,
+“tricked me,” or “lied to me,” 
+
+so I ate {it}.”
+“so I ate {some of the/that fruit}.” or “That is why I ate {it/some}.” Consider whether or not it is better in your language to begin a new sentence here.
+
+________________________Paragraph Break______________________
+
+Gen 3:14 Then Yahweh God said to the serpent, “Because you have done this, you are cursed above all the livestock and above every living thing of the field. You will move on your belly, and you will eat dust all the days of your life.
+
+Then Yahweh God said to the serpent,
+“So Yahweh God said to the snake,”
+
+“Because you have done this,
+“Because/Since you did that,” or “Because/Since you deceived/tricked the woman,” 
+
+you are cursed
+“you are cursed {by me}” or “I am cursing you” or “I will cause you to suffer” or “I will punish you”. In this context, “cursed” involves God punishing the serpent and its descendants by causing them to suffer by crawling along the ground on their bellies and having a hostile relationship with human beings. Make sure that the way you translate this term does not imply the use of magic. (See: translate-key-terms)
+
+above 
+“more {severely/harshly} than”. When Adam and Eve sinned and God judged them, the curse and punishment of death and decay also affected everything that was under their authority, including the animals. Here in Gen 3:14, God puts a more severe curse on the serpent (and his descendants) than he put on the rest of the animals.
+
+all the livestock
+“all the domestic/tame animals”. See how you translated “livestock” in Gen 1:24-26; 2:20.
+
+and above every living thing of the field. 
+“and more {severely/harshly} than all the creatures/animals of/in the fields/wild.” or “and more {severely/harshly} than all the wild animals.” See how you translated “every living thing of the field” in verse 1.
+
+You will move on your belly,
+“{As a result,} you will/must move/crawl {on/along the ground} on your belly/stomach,”
+
+and you will eat dust 
+“and you will/must eat dust/dirt {with your food}”. Make sure your translation of this clause does not imply that dust or dirt is all the snake will eat. Rather it could mean that dirt will get into his mouth when he eats his food, or it could be an idiom that refers to the fact that as he slithers along, his mouth will always be close to the dirt on the ground (a position of humility). Also see how you translated “dust” in Gen 2:7.
+
+all the days of your life.
+“your entire life.” or “for as long as you live.”
+
+
+Gen 3:15 I will also put hostility between you and the woman, and between your offspring and her offspring. He will strike you {on} the head, and you will strike him {on} the heel.”
+
+I will also
+“Besides that, I will”
+
+put hostility between you and the woman, and between your offspring and her offspring.
+“cause you and the woman to be enemies {with each other}, and your offspring/descendants and her offspring/descendants to also be enemies.” or “I will cause you and your descendants to be enemies with the woman and her descendants.”
+
+He
+“{In fact,} her offspring/descendant” or “{In fact,} one of her descendants”. The pronoun “He” is ambiguous here. It could refer to (1) the woman’s descendant (Jesus) who would one day come to earth as the Messiah/Christ. (2) the woman’s descendants who will constantly be enemies of the snake’s descendants. If you follow the first interpretation, this would be the first prophecy in the Bible about the Messiah/Christ (“the Anointed One” or “the Promised Savior King”) who would come to earth and destroy Satan’s power (Hebrews 2:14). You could include that information in a footnote.
+
+will strike you {on} the head, and you will strike him {on} the heel.”
+“will strike/crush your head, and you will strike/bite/bruise his heel.” This is figurative language that Satan will harm the Messiah, but the Messiah will destroy him. For some languages it is better to switch the order of these clauses and say, “{In fact,} you will strike/bite/bruise the heel of one of her descendants, but he will strike/crush your head.” Do what is best in your language. (See: figs-infostructure)
+
+________________________Paragraph Break______________________
+
+Gen 3:16 To the woman he said, “I will greatly multiply your pain and your childbearing; in pain you will bear children. Yet your desire {will be} for your husband, and he will rule over you.”
+
+To the woman he said,
+“{Then} he/God said to the woman,” or “{Then} Yahweh God {turned} to the woman and said {to her},” In the Hebrew text, “to the woman” comes first in this sentence, to emphasize her. Do what is natural in your language. Also consider what is the best way to refer to God here in your language. (See: writing-pronouns)
+ 
+“I will greatly multiply your pain
+“I will greatly increase how much you suffer” or “I will cause you to have/experience much/severe pain” or “I will cause it to be very painful”
+
+and your childbearing;
+“when you bear children;” or “when you give birth;”
+
+in pain you will bear children. 
+“{yes/indeed,} you will suffer much pain when you give birth.” or “{yes/indeed,} bearing children will be very painful for you.” This clause is the second part of a parallelism, which emphasizes the pain and suffering that women will experience when they bear children. If possible, it is best to keep both parts of the parallelism in your translation. (See: figs-parallelism)
+
+Yet your desire {will be} for your husband, and
+The Hebrew text is ambiguous here, because the conjunctions and the idiom “your desire will be for your husband” are all ambiguous in this context. The text can mean (1) “Yet/But you will {still} desire/long {to be with} your husband, and....”, which is similar to what “desire” means in Song of Songs 7:10. (2) “Besides that, you will desire/want {to control} your husband, but....”, which is similar to what “desire” means in Gen 4:7. The interpretation that is not followed in your translation could be put in a footnote.
+
+he will rule over you.”
+“he will have authority over you.” or “he will control you.” or “he will lord it over you.” See how you translated “rule over” in Gen 1:18. It may be necessary to translate this term differently here because of the negative context of the curse and the consequences of sin. 
+
+________________________Paragraph Break______________________
+
+Gen 3:17 Then to the man he said, “Since you listened to the voice of your wife and ate from the tree that I commanded you, saying, ‘You must not eat from it,’ the ground is cursed because of you. By painful toil you will eat {from} it all the days of your life.
+
+Then to the man he said,
+“Then/Next he/God said to the man,” or “Then/Next Yahweh God {turned} to Adam and said {to him},” In the Hebrew text, “to the man” is emphasized. See how you translated a similar case (“to the woman”) in verse 16. For a note about when to start using Adam’s name in your translation see Gen 2:19.
+
+“Since you
+“Since/Because you {disobeyed me and}”
+
+listened to the voice of your wife
+“did what your wife said/suggested” or “did/followed what your wife told you to do”. This phrase means that Adam heard what his wife said to him and then did what she said. Consider what is the best way to communicate that in your language. (See: figs-metonymy)
+
+and ate from the tree 
+“and ate {fruit} from the tree”
+
+that I commanded you, saying, ‘You must not eat from it,’ 
+“that I commanded/told you, “Do not eat {any fruit} from it,” or “that I commanded you to not eat {any fruit} from.” Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. Also see how you translated this command in verse 3. (See: figs-quotesinquotes) 
+
+the ground is cursed because of you.
+“the ground is cursed {by me} because of what you did.” or “I have cursed the ground because you sinned.” For some languages it may be clearer or more natural to break up this long sentence and say, “You did what your wife said and ate {fruit} from the tree that I commanded you not to eat {any fruit} from. Because of what you did, I have cursed the ground.” Also see how you translated “cursed” in verse 14. (See: figs-infostructure)
+
+By painful toil you will eat {from} it
+“{As a result,} {only} by painful toil will you eat {any food} from it” or “{As a result,} you will have to work {very} hard and suffer {to grow/get enough food} to eat” (See: grammar-connect-logic-result)
+
+all the days of your life.
+“every day of your life.” or “for your entire life.” or “for as long as you live.” You could put this clause before the previous clause and say, “{As a result,} for as long as you live, you will have to work {very} hard and suffer...” Do what is best in your language. (See: figs-infostructure)
+
+
+Gen 3:18 And it will produce thorn{s} and thistle{s} for you, and you will eat the plant{s} of the field{s}.
+
+And it will produce thorn{s} and thistle{s}
+“In fact, the ground will produce/grow thorn {plants} and thistle {plants} {and other weeds}” or “In fact, thornbushes and thistle plants {and other weeds} will grow from the ground”. The thorn and thistle plants represent all types of weeds, which are useless, and possibly harmful, plants. (See: figs-synecdoche)
+
+for you, and you will eat the plant{s} of the field{s}.
+The Hebrew text here can mean (1) “{and make it difficult} for you to grow {enough} crops in the/your fields for food.” or “so that you will have to work very hard in your fields to grow/produce {enough} crops/food to eat.” (2) “so that {your crops will not grow well and} you will {have to} eat {wild} plants that grow in the {open} fields {to survive}.” That difference of interpretation is caused because the Hebrew word “fields” can refer to land that people cultivate or to uncultivated land where wild plants grow. 
+
+
+Gen 3:19 By the sweat of your nose you will eat bread, until you return to the ground, since from it you were taken. For you {are} dust, and to dust you will return.”
+
+By the sweat of your nose you will
+“By the sweat of your face/brow/forehead” or “You will have to {work hard and} sweat a lot in order to”. The phrase “by the sweat of your nose/brow” is an idiom that refers to hard physical labor. Consider whether or not your language has a similar idiom. (See: figs-idiom)
+
+eat bread,
+“{grow/produce/have} {enough} food to eat,” Bread was one of the main food staples for that time and culture, so the Hebrew word for “bread” is used here as an idiom that refers to all food, not just bread. Consider whether your language does something similar, using one type of food (such as bread, rice or potatoes) to refer to all food in general. Or you could use a general term like “food”, especially if bread is rare or expensive in your language area. (See: figs-idiom)
+
+until you return to the ground,
+“until you {die and} again become dust/dirt,” 
+
+since from it you were taken.
+“which you were taken/made from {by me}.” or “which I took/created you from.” or “which I made/created you out of.”
+
+For
+“Yes/Indeed,” or “That’s right,” This sentence rephrases and emphasizes what God just said. (See: grammar-connect-words-phrases)
+
+you {are} dust
+“your bodies {were created/made} {by me} from dust/dirt” or “{I created/made} you out of dust/dirt”
+
+and to dust you will return.”
+“so dust/dirt is what you will become again {after you die}.”
+
+________________________Paragraph Break______________________
+
+Gen 3:20 Then the man called the name of his wife Eve, because she was the mother of all the living.
+
+Then the man
+“Then Adam”. Some translations use Adam’s name here because he is naming Eve. See what you did in verse 17.
+
+called the name of his wife 
+“called/named his wife” or “gave his wife the name”
+
+Eve,
+“Eve, {which means “living/live,”}” If you include the meaning of Eve’s name in your translation or in a footnote, make sure it is similar to the word in the following clause that has the same meaning (“living”), so that it is clear why Eve was given that name. The meaning of names is important in the Hebrew language, and this translation issue occurs frequently in the book of Genesis. (See: translate-names)
+
+because 
+“{He did that} because”. Consider whether or not it is better in your language to begin a new sentence here.
+
+she was the mother
+“she would be the mother/ancestor” 
+
+of all the living.
+“of all the people who would ever live.” or “of everyone who would ever live.”
+
+
+Gen 3:21 Then Yahweh God made garments of {animal} skins for Adam and his wife, and he clothed them.
+
+Then Yahweh God made garments of {animal} skins
+“Then Yahweh God made {some} garments/clothes out of animal skins/hides” or “Then Yahweh God used {some} animal skins/hides to make {some} garments/clothes”
+
+for Adam and his wife,
+“for Adam and his wife {Eve},” or “for the man and his wife,”
+
+and he clothed them.
+“and he dressed them.” or “and he put the garments/clothes on them.”
+
+________________________Paragraph Break______________________
+
+Gen 3:22 Then Yahweh God said, “Behold, the man has become like one of us in knowing good and evil. And now he must not be allowed to reach out his hand and also take {fruit} from the tree of life and eat it and live forever!” 
+
+Then Yahweh God 
+“Then he”. Consider whether it is best in your language to use Yahweh’s name or a pronoun in this context. (See: writing-pronouns) 
+
+said,
+said/thought,” or “said/thought {to himself}”. See how you translated a similar quote margin in Gen 1:26, where “said” has the same meaning.
+
+“Behold,
+“Look/Listen,” This word expresses emotion and calls attention to what God says next. See how you translated this term in Gen 1:29.
+
+the man
+“the man {and his wife}” or “man{kind}” or “human beings”. Throughout verses 22-24 “the man” represents mankind, which included both the man and the woman at this point. Make sure your translation communicates that clearly in those verses and does not just refer to Adam.
+
+has become like one of us
+“have become like one of us” or “have become like us”. The pronoun “us” is inclusive because God is talking to himself. (See: figs-exclusive)
+
+in knowing good and evil. 
+“so that they know {what is} good and {what is} evil.” See how you translated this phrase in verse 5, and a similar phrase in Gen 2:9.
+
+And now he must not be allowed to
+“So now they must not be permitted {by us} to” or “So we must not allow/permit them to” or “So now we must do something so that they do/can not”. Consider the best way to translate this passive clause in your language. (See: figs-activepassive)
+
+reach out his hand and also take {fruit} from the tree of life and eat it
+“also take/pick and eat fruit from the tree of {eternal} life,” or “also eat fruit from the tree that gives people {eternal} life,” See how you translated “took/picked fruit” in verse 6, and how you translated “the tree of life” in Gen 2:9.
+
+and live forever!”
+“and {then/so} live forever!” or “which will/would make them live forever!” 
+
+
+Gen 3:23 So Yahweh God sent him out of the Garden of Eden to work the ground which he had been taken from.
+
+So Yahweh God
+“Then Yahweh God” or “So {then} Yahweh God”. Consider again how you translated “Yahweh God” in Genesis 2 and 3, and see the note about this at Gen 2:4.
+
+sent him out of 
+“forced them to leave” or “expelled/banished the man {and his wife} from”. Notice that in verses 22-24, “the man”, “him”, and “he” refer to mankind, that is, the man and the woman. Make sure it is clear in your translation here that both of them were sent out of the garden, not just the man. Some languages have dual pronouns that are used for “they” and “them” in verses 22-24. 
+
+the Garden of Eden
+“the garden in {the land/region of/called} Eden” or “Eden Garden”. See how you translated this phrase in Gen 2:15.
+
+to work the ground 
+“to work/farm/cultivate the ground/land/soil”. See how you translated “work the ground” in Gen 2:5 and “work it” in 2:15.
+
+which he had been taken from.
+“which they had been taken/created from {by him/God}.” or “which God/he had taken/made them from.” It does not refer to the exact ground that he was made from. See how you translated “taken from” in verse 19.
+
+
+Gen 3:24 And after he drove the man out, then he placed on the east side of the Garden of Eden cherubim {angels} and a flaming sword that was turning in every direction to guard the way of the tree of life.
+
+And after 
+“Then after” or “After”
+
+he drove the man out,
+“he/Yahweh/God drove/forced the man {and his wife} out {of the garden},” or “he/Yahweh/God expelled/banished them {from the garden},”
+
+then he placed 
+“then he stationed” or “he placed/stationed”
+
+on the east side of the Garden of Eden 
+“on/to the east {side} of the garden {at its entrance}” or “{at the entrance} of/to the garden, {which was} on its east side”. It is implied that the entrance to the garden is where the cherubim were placed to keep everyone from ever entering the garden again. Consider again how you translated “garden” in Gen 2:8-10, 15-16; 3:1-3, 8, 10, 23-24.
+
+cherubim {angels}
+“{some} {powerful} cherubim {angels}” or “{some} {powerful beings called} cherubim {angels}”. Most translations transliterate or borrow this term from Hebrew throughout the Bible. Cherubim are a special category of very powerful angels. Each one has four faces: a human face, a lion’s face, a bull’s face and an eagle’s face (Ezekiel 1:10; 10:14). Each of them also has multiple wings. You could include some of that information in a footnote. (See: translate-unknown)
+
+and a flaming sword
+“and a blazing/fiery/burning sword” or “and a sword made of flames”. A sword is a weapon that has a very long, sharp (often two-sided) blade that is longer than a knife, machete, or dagger and is attached to a hilt or handle. This sword may have had flames coming from it, or this may have been fire in the shape of a sword.
+
+turning in every direction
+“that was turning/swinging around in all directions” or “that was swinging/flashing back and forth”. It seems that the sword was swinging by itself since there is no mention of anyone holding it.
+
+to guard the way of
+“to keep everyone away from the way/path {that leads/goes} to” or “so that no one could get/go near”
+
+the tree of life.
+“the tree of {eternal} life.” or “the tree whose fruit gives people {eternal} life.” or “the tree whose fruit makes people live {forever}.” See how you translated this phrase in Gen 2:9 and 3:22.
+
+

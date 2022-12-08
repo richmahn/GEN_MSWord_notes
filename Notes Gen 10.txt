@@ -1,0 +1,415 @@
+10
+
+10:1-32 The Descendants Of Noah’s Sons
+1 Chronicles 1:4-23
+
+Gen 10:1 Now these {are} the generations of the sons of Noah: Shem, Ham, and Japheth; and sons were born to them after the flood.
+
+Now these {are} the generations of
+“This/Here is the genealogy/list/record of {the names of}”. This sentence begins a new section.
+
+the sons of Noah: Shem, Ham, and Japheth;
+“Noah’s sons Shem, Ham, and Japheth,” Give special attention to the best way in your language to spell all the names in this chapter. (See: translate-names)
+
+and sons were born to them
+“and their sons {and other descendants} who were born” or “and the sons/descendants they had”. The following record includes the names of Noah’s sons and grandsons, and their descendants (including some of the people groups who came from them). 
+
+after the flood.
+“after the flood {was over/gone}.”
+
+
+Japheth’s Descendants
+
+Gen 10:2 The sons of Japheth {were} Gomer and Magog and Madai and Javan and Tubal and Meshech and Tiras.
+
+The sons of Japheth {were}
+“{The names of} Japheth’s sons {were}” or “These {were} {the names of} Japheth’s sons:” Throughout this chapter, many translations have a colon (:) instead of “were”. You could also use both. Do what is best in your language
+
+Gomer and Magog and Madai and Javan and Tubal and Meshech and Tiras.
+“Gomer, Magog, Madai, Javan, Jubal, Meshech, and Tiras.” Translate these lists of names in a way that is natural in your language.
+
+____________________Paragraph Break____________________
+
+Gen 10:3 And the sons of Gomer {were} Ashkenaz and Riphath and Togarmah.
+
+And the sons of Gomer {were}
+“{The names of} Gomer’s sons {were}” or “These {were} {the names of} Gomer’s sons:”
+
+Ashkenaz and Riphath and Togarmah.
+“{named} Ashkenaz, Riphath, and Togarmah.”
+
+____________________Paragraph Break____________________
+
+Gen 10:4 And the sons of Javan {were} Elishah and Tarshish, the Kittim and the Dodanim.
+
+And the sons of Javan {were}
+“{The names of} Javan’s sons/descendants {were}” or “These {were} {the names of} Javan’s sons:” Compare how you translated a similar clause in verses 2 and 3.
+
+Elishah and Tarshish,
+“{named} Elishah and Tarshish, {and he was the ancestor of}”. These are the names of Javan’s sons, but the next two names are the names of people groups that descended from him.
+
+the Kittim and the Dodanim.
+“the Kittites and the Dodanites.” or “the Kitt people {group} and the Dodan people {group}.” There are different ways to translate people group names, including: (1) Transliterate the Hebrew plural suffix “-im”. (2) Use a suffix that your language has for names of people groups, such as “-ites” in English. (3) Translate “-im” as “people” or “people group”. Try to be consistent in how you translate people group names throughout this chapter and rest of the book of Genesis. (See: translate-names)
+
+____________________Paragraph Break____________________
+
+Gen 10:5 From those the coastland peoples spread out into their lands, each with its own language, according to their clans, in their nations.
+
+From those 
+“From those/Japheth’s {descendants}”. This phrase probably refers to Japheth’s descendants (verses 2-4), especially since the descendants of his brothers Ham (verse 20) and Shem (verse 31) are summarized in a similar way.
+
+the coastland peoples spread out into
+“came the people groups who lived {in regions} near/beside the {Mediterranean} Sea. They moved to different places {and settled} in” 
+
+their lands,
+“their {own} territories/regions,” (See: figs-infostructure)
+
+each with its own language,
+“and each {group} spoke its own language,” or “They all developed/spoke their own languages,” Consider whether it is more natural in your language to break up this long sentence and start a new sentence here (or later in this verse).
+
+according to 
+“and each of them lived in” or “They each had”
+
+their clans,
+“their {own} {extended} families,” or “their {own} family groups,” The word “clan” refers to a group of families who are descended from a common ancestor.
+
+in their nations.
+“and they formed/became their own people/ethnic groups.” or “which {grew/multiplied and} became their own {distinct} people/ethnic groups.” The word “nations” refers here to people groups, not countries. Also, for some languages it may be clearer to change the order of the phrases in this verse and say, “Japheth’s descendants spread out and settled near/by the {Mediterranean} Sea. They all formed their own family groups, which {grew/multiplied and} became their own people groups that spoke their own languages and lived in their own territories/regions.” Do what is best in your language. (See: figs-infostructure) 
+
+
+Ham’s Descendants
+
+Gen 10:6 And the sons of Ham {were} Cush and Mizraim and Put and Canaan.
+
+And the sons of Ham {were} 
+“{The names of} Ham’s sons {were}” or “These {were} {the names of} Ham’s sons:”
+
+Cush and Mizraim and Put and Canaan.
+“Cush, Mizraim, Put, and Canaan.”
+
+____________________Paragraph Break____________________
+
+Gen 10:7 And the sons of Cush {were} Seba and Havilah and Sabtah and Raamah and Sabteca. And the sons of Raamah {were} Sheba and Dedan.
+
+And the sons of Cush {were} 
+“{The names of} Cush’s sons {were}” or “These {were} {the names of} Cush’s sons:”
+
+Seba and Havilah and Sabtah and Raamah and Sabteca.
+“Seba, Havilah, Sabtah, Raamah, and Sabtecah.”
+
+And the sons of Raamah {were} Sheba and Dedan.
+“And Raamah’s sons {were} Sheba and Dedan.” or “{The names of} Raamah’s sons {were} Sheba and Dedan.”
+
+
+Gen 10:8 Cush also fathered Nimrod, who began to be mighty on the earth. 
+
+Cush also fathered Nimrod,
+“Cush also fathered/had {a son named} Nimrod,” See how you translated “fathered” in Gen 6:10, and how you translated a phrase in 10:1 (“were born to”) that has a similar meaning.
+
+who began to be 
+The Hebrew text is ambiguous here. It can mean (1) “who was the first {person/man/one} to be” (2) “who became”
+
+mighty 
+“a powerful {warrior/conqueror}” or “a powerful {ruler/king}”. There were other mighty men before Nimrod, but apparently he was the first one to have a kingdom (verse 10).
+
+on the earth.
+“on earth.” or “in the world.” It may be more natural to put this phrase earlier and say, “who was the first {person/man} on earth to be/become a powerful ruler/warrior.” Do what is best in your language. (See: figs-infostructure)
+
+
+Gen 10:9 He was a mighty hunter before Yahweh. For that reason it is said, “Like Nimrod, a mighty hunter before Yahweh.”
+
+He was a mighty hunter 
+“He/Nimrod was {also} a great/excellent hunter”
+
+before Yahweh. 
+“whom Yahweh blessed/helped.” or “because Yahweh helped him.”
+ 
+For that reason 
+“That is why”
+
+it is said,
+“people say {about other great men},” or “people/we have the/this saying/expression {about other great men}:” This phrase indicates that what follows was a well-known saying that was used by people to praise or compliment other great men by comparing them to Nimrod.
+
+“Like Nimrod,
+“{That man is} like Nimrod,” or “{So and so is} like Nimrod,”
+
+a mighty hunter
+“a great/excellent hunter”
+
+before Yahweh.”
+“whom Yahweh blessed/helped.” or “because Yahweh helped him.” Be consistent here with how you translated this phrase earlier in verse 9.
+
+
+Gen 10:10 And the beginning of his kingdom was Babel and Erech and Akkad and Calneh, in the land of Shinar.
+
+And the beginning of his kingdom was
+“His/Nimrod’s kingdom began with him ruling {over}” or “He/Nimrod started ruling as king {over}” or “The first cities that he/Nimrod ruled as king were”
+
+Babel and Erech and Akkad and Calneh, 
+“{the cities of} Babel, Erech, Akkad, and Calneh,” 
+
+in the land of Shinar.
+“{which were all located} in the land/region of/called Shinar.” Shinar is another name for the land/country of Babylonia. You could put that information in a footnote.
+
+
+Gen 10:11 From that land he went to Asshur, and he built Nineveh and Rehoboth-Ir and Calah 
+
+From that land 
+“From that region” or “From the land/region of Shinar” or “From there”
+
+he went to Asshur,
+“he/Nimrod went/moved to {the land/region of/called} Asshur/Assyria,” See how you translated “{the land/region of/called} Asshur/Assyria” in Gen 2:14.
+
+and he built
+“and {there} he built” or “where he built” 
+
+Nineveh and Rehoboth-Ir and Calah
+“{the cities of} Nineveh, Rehoboth-Ir, Calah,”
+
+
+Gen 10:12 and Resen, between Nineveh and Calah, which {is} the great city.
+
+and Resen, between Nineveh and Calah, which {is} the great city.
+The Hebrew text is ambiguous. It can mean (1) “and Resen {which is located} between {the cities of} Nineveh and the great city of Calah.” (2) “and Resen {which is} the great city {located} between {the cities of} Nineveh and Calah.”
+
+____________________Paragraph Break____________________
+
+Gen 10:13 And Mizraim fathered the Ludim and the Anamim and the Lehabim and the Naphtuhim,
+
+And Mizraim fathered 
+“Mizraim was the father/ancestor of” 
+
+the Ludim and the Anamim and the Lehabim and the Naphtuhim
+“the Ludites, Anamites, Lehabites, Naphtuhites,” Throughout verses 13-18, translate the names of people groups in a way that is clear and natural in your language. See what you did in verse 4. (See: translate-names)
+
+
+Gen 10:14 and the Pathrusim and the Casluhim (whom the Philistim came from) and the Caphtorim.
+
+and the Pathrusim and the Casluhim (whom the Philistim came from) and the Caphtorim.
+“Pathrusites, Casluhites (whom the Philistines came/descended from), and Caphtorites.” or “Pathrusites, Casluhites, and Caphtorites. The Philistines came/descended from the Casluhites.” (See: figs-infostructure)
+
+____________________Paragraph Break____________________
+
+Gen 10:15 And Canaan fathered Sidon his firstborn, then Heth, 
+
+And Canaan fathered
+“Canaan fathered/had”. See how you translated “fathered” in verses 8 and 13. 
+
+Sidon his firstborn,
+“Sidon {who was} his firstborn {son},” 
+
+then Heth,
+“then {he fathered/had} {a son named} Heth,” Canaan’s son Heth was the ancestor of the Hittites, so some translations use “Hittites” here instead and say, “{He was} also {the ancestor of} the Hittites,” 
+
+
+Gen 10:16 and the Jebusites and the Amorites and the Girgashites
+
+and the Jebusites and the Amorites and the Girgashites 
+“and {he/Canaan was also the ancestor of} the Jebusites, Amorites, Girgashites,” or “Jebusites, Amorites, Girgashites,” Consider what is the best way in your language to list the names of the people groups in these verses.
+
+
+Gen 10:17 and the Hivites and the Arkites and the Sinites
+
+and the Hivites and the Arkites and the Sinites
+“Hivites, Arkites, Sinites,”
+
+
+Gen 10:18 and the Arvadites and the Zemarites and the Hamathites. And afterward the clans of the Canaanites scattered, 
+
+and the Arvadites and the Zemarites and the Hamathites. 
+“Arvadites, Zemarites, and Hamathites.”
+
+And afterward 
+“Later,” or “As time went by,”
+
+the clans of the Canaanites 
+“those {extended} families {that descended} from {Ham’s son} Canaan”
+
+scattered,
+“spread out,” or “moved to different places,”
+
+
+Gen 10:19 so the border{s} of the Canaanites were from Sidon, {then} you go toward Gerar as far as Gaza, {then} you go to Sodom and Gomorrah and Admah and Zeboiim, as far as Lasha.
+
+so
+“and {eventually}” or “so that {eventually}” (See: grammar-connect-logic-result)
+
+the border{s} of the Canaanites were
+“the borders/boundaries of their {territory/land} reached/extended” or “the territory/land where Canaanites/they lived reached/extended”
+
+from Sidon,
+“from {the city of} Sidon {in the north},” or “from Sidon {City} {in the north},” Some languages have an affix or a word (that means “city”) that must be used every time the name of a city is mentioned, or the first time a particular city is mentioned in a paragraph or section. Do what is natural in your language here and elsewhere throughout the Bible. (See: figs-explicit)
+
+{then} you go toward Gerar as far as Gaza,
+“all the way {down/south} toward {the city of} Gerar to {the city of} Gaza,” or “{down/south} to Gaza {City}, which is on the road to Gerar {City},” The Canaanites’ border reached Gaza, but did not extend down to Gerar, which was farther south. (See: figs-explicit)
+
+{then} you go to 
+“{then} as far {east} as” (See: figs-explicit))
+
+Sodom and Gomorrah and Admah and Zeboiim, 
+“{the cities of} Sodom, Gomorrah, Admah, and Zeboiim,”
+
+as far as Lasha.
+“all the way to {the city of} Lasha.” or until {you reach} Lasha {City}.”
+
+____________________Paragraph Break____________________
+
+Gen 10:20 Those {are} the sons of Ham according to their clans, according to their languages, in their lands, in their nations. 
+
+Those {are} 
+“Those {are/were} {the names of}” or “Those {men/people} {are/were}”. The word “Those” refers back to the people listed in verses 6-19. Also, many translations that use “were” (and other past tense verbs) in verses 2-19 and 21-30 use “are” here (and in verses 31 and 32). Do what is best in your language.
+
+the sons of Ham
+“the descendants of Ham” or “Ham’s sons/descendants”
+
+according to their clans,
+“according to their family groups,” or “and each one had his own clan/family,” or “and their {extended} families,” See how you translated “clans” in verse 5.
+
+according to their languages, in their lands, in their nations.
+“Each {clan/family} had/spoke its own language and {lived in} its own territory/region, and {eventually} became its own people group.” or “Each {clan/family} {grew/multiplied and} became/established its own people/ethnic group that had/spoke its own language and {lived in} its own territory/region.” Consider whether or not it is better in your language to begin a new sentence here. See how you translated verse 5, which has some of the same phrases as verse 20.
+
+
+Shem’s Descendants
+
+Gen 10:21 And sons were also born to Shem; he {was} the father of all the sons of Eber and the brother of Japheth the elder. 
+
+And sons were also born to Shem; 
+“Shem also fathered/had {some} sons”. In the Hebrew text, “to Shem” comes first in this sentence after “And”, to emphasize Shem. Do what is natural in your language.
+
+he {was} the father of all the sons of Eber 
+“He was the ancestor of all the descendants of Eber”
+
+and the brother of Japheth the elder.
+The Hebrew text is ambiguous here. It can mean (1) “and his/Shem’s older brother was Japheth.” (2) “and he/Shem was Japheth’s older/oldest brother.”
+
+
+Gen 10:22 The sons of Shem {were} Elam and Asshur and Arpachshad and Lud and Aram.
+
+The sons of Shem {were} 
+“{The names of} Shem’s sons {were}” or “These {were} {the names of} Shem’s sons:”
+
+Elam and Asshur and Arpachshad and Lud and Aram.
+Elam, Asshur, Arpachshad, Lud and Aram.” The name “Arpachshad” is spelled as “Arphaxad” in many translations. Also, see how you spelled “Lud” in verse 13 (who is a different person with the same name). Be consistent with how you spell each name throughout the Bible.
+
+____________________Paragraph Break____________________
+
+Gen 10:23 And the sons of Aram {were} Uz and Hul and Gether and Mash.
+
+And the sons of Aram {were} 
+“{The names of} Aram’s sons {were}” or “These {were} {the names of} Aram’s sons:”
+
+Uz and Hul and Gether and Mash.
+“Uz, Hul, Gether, and Mash.” The same person who is called “Mash” here, is referred to as “Meshech/Meshek” in 1 Chronicles 1:17. To prevent confusion, some translations use “Meshech/Meshek” here too, or put that name in a footnote.
+
+____________________Paragraph Break____________________
+
+Gen 10:24 And Arpachshad fathered Shelah, then Shelah fathered Eber. 
+
+And Arpachshad fathered Shelah, 
+“Arpachshad/Arphaxad fathered/had {a son named} Shelah,” Be consistent here with how you spelled “Arpachshad/Arphaxad” in verse 22.
+
+then Shelah fathered Eber.
+“then/and Shelah fathered/had {a son named} Eber.”
+
+
+Gen 10:25 Then two sons were born to Eber. The name of the one {was} Peleg, because in his days the earth was divided. And the name of his brother {was} Joktan. 
+
+Then two sons were born to Eber. 
+“Then Eber fathered/had two sons.”
+
+The name of the one {was}
+“The name of the first {one/son} {was}” or “The first one/son was named”
+
+Peleg,
+“Peleg, {which means “division/divide,”}” You can put the meaning of Peleg’s name in the text or in a footnote, so that it is clear why he was given his name. See what you did for a similar case (Noah’s name) in Gen 5:29.
+
+because in his days 
+“because during his lifetime”
+
+the earth was divided.
+“{the people on} the earth divided/separated {into separate groups} {and scattered everywhere}.” This phrase refers to the people on the earth and implies that they scattered and lived all over the earth (as specified in Gen 11:8). (See: figs-metonymy)
+
+And the name of his brother {was} Joktan.
+“His/Peleg’s {younger} brother’s name was Joktan.” or “{Eber’s second/other son} was named Joktan and was younger than Peleg.” Make sure it is clear in your translation who is being referred to in this sentence, especially after reading the previous two sentences. (See: writing-pronouns)
+
+
+Gen 10:26 And Joktan fathered Almodad and Sheleph and Hazarmaveth and Jerah
+
+And Joktan fathered 
+“Joktan fathered/had {sons named}” or “Joktan fathered/had {the following sons:}” Notice that the list of Joktan’s sons continues through verse 29.
+
+Almodad and Sheleph and Hazarmaveth and Jerah
+“Almodad, Sheleph, Hazarmaveth, Jerah,”
+
+
+Gen 10:27 and Hadoram and Uzal and Diklah 
+ 
+and Hadoram and Uzal and Diklah
+“Hadoram, Uzal, Diklah,”
+
+
+Gen 10:28 and Obal and Abimael and Sheba 
+
+and Obal and Abimael and Sheba 
+“Obal, Abimael, Sheba,” 
+
+
+Gen 10:29 and Ophir and Havilah and Jobab. All those {were} the sons of Joktan. 
+
+and Ophir and Havilah and Jobab.
+“Ophir, Havilah, and Jobab.” Consider again how you translated lists of names throughout chapter 10.
+
+ All those {were} 
+“All those {were} {the names of}” or “All those {men/people} {were}” or “Those {were} all”
+
+the sons of Joktan.
+“Joktan’s sons.” 
+
+
+Gen 10:30 And their dwelling was from Mesha, {then} you go to Sephar, the mountain{s} of the east.
+
+And their dwelling
+“Their dwelling {place}” or “Their territory/region” or “The region/area where they lived”
+
+was from Mesha,
+“extended/reached from {the city of} Mesha {in the west},” See how you translated a similar sentence in verse 19. (See: figs-explicit)
+
+{then} you go to 
+“all the way to” or “as far as”
+
+Sephar,
+“{the city/town of} Sephar, {which is in/near}”. Sephar might refer to a city, a mountain, or a region (that was named after the city or mountain).
+
+the mountain{s} of the east.
+“the mountain range {that is} in the east.” or “the hill country in the east.” or “the eastern hill country.” The word “mountain{s}” is ambiguous in the Hebrew text. It can be (1) a collective noun that refers to mountains or hill country near the town of Sephar (2) a singular noun that refers to a specific mountain that was called Sephar.
+
+____________________Paragraph Break____________________
+
+Gen 10:31 Those {are} the sons of Shem according to their clans, according to their languages, in their lands, according to their nations.
+
+Those {are} 
+“Those {are/were} {the names of}” or “Those {men/people} {are/were}”. The word “Those” refers here to the people listed in verses 21-30. See how you translated verse 20, which is almost exactly the same as verse 31.
+
+the sons of Shem
+“the descendants of Shem” or “Shem’s sons/descendants”
+
+according to their clans,
+“and each one had his own clan/family.” See how you translated “clans” in verses 5 and 20.
+
+according to their languages, in their lands, according to their nations.
+“Each {clan/family} had/spoke its own language and {lived in} its own territory, and {eventually} became its own people group.” or “Each clan/family {grew/multiplied and} became/established its own people/ethnic group that had/spoke its own language and {lived in} its own territory.” 
+
+____________________Paragraph Break____________________
+
+Gen 10:32 Those {are} the clans of the sons of Noah, according to their generations, in their nations. And from those the nations spread out on the earth after the flood.
+
+Those {are} the clans of the sons of Noah,
+“{All} those {people} {are/were} the clans/families {who descended} from Noah’s sons,” or “{All} those clans/families descended from Noah’s sons,” The word “Those” refers here to everyone who is listed in verses 2-31. Consider again how you translated “clans” in verses 5, 18, 29, 31-32.
+
+according to their generations, in their nations. 
+“Each clan/family had its own genealogy/descendants and became its own people/ethnic group.” Consider whether or not it is better in your language to begin a new sentence here. Also, compare how you translated similar phrases in verses 5, 20, and 31.
+
+And from those the nations spread out on the earth after the flood.
+“From those {people} {came/descended} {all} the people/ethnic groups {who} spread out on/over the earth after the flood.” or “In fact, after the flood {all} the people groups on the earth descended from them and spread out everywhere.” Consider again how you translated “nations” in verses 5, 20, 31-32. (See: figs-infostructure)
+ 
+

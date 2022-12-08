@@ -1,0 +1,630 @@
+43
+
+43:1-34 Joseph’s Brothers, Including Benjamin, Return To The Country Of Egypt
+
+Gen 43:1 Now the famine {was} heavy in the land. 
+
+Now the famine 
+“The famine” or “The food shortage”. The setting changes here to focus on what is happening in Canaan. Some languages use a special conjunction (like “Now”) to indicate that, while others do not use a conjunction here. Do what is best in your language. (See: grammar-connect-time-background)
+
+{was} heavy 
+“{was} oppressive/severe” or “{continued to be} severe”. The word “heavy” is used here as an idiom that means the famine caused everyone much suffering. See how you translated the same idiom in Gen 12:10 and Gen 41:31. (See: figs-idiom)
+
+in the land.
+“in the land/region {of Canaan}.”
+
+
+Gen 43:2 So it happened when they finished eating the grain that they had brought from Egypt, then their father said to them, “Return, buy a little food for us.”
+
+So it happened
+“So it happened {that}” or “So”. This phrase introduces an important event and helps create suspense so that readers will wonder what the outcome will be. Many translations omit “it happened” because it is not natural in their language. Do what is best in your language.
+
+when they 
+“when Jacob and his family”. Consider whether it is clearer in your language to use a pronoun or a noun phrase here. (See: writing-pronouns)
+
+finished eating 
+“{had} finished eating” or “had used/eaten up”
+
+the grain that they had brought 
+“{all} the grain that his sons had {bought and} brought {home}”. The pronoun “they” refers here to Jacob’s sons, not Jacob’s family (as it did earlier in this sentence). (See: writing-pronouns)
+
+from Egypt,
+“from {the country of} Egypt,”
+
+then their father 
+“their father {Jacob}” or “he/Jacob”
+
+said to them, 
+“told/commanded them,” 
+
+“Return, 
+“Go back {to Egypt}”
+
+buy a little food 
+“{and} buy some {more} food/grain”
+
+for us.”
+“for us {and our families}.” or “for the/our family.” The pronoun “us” includes Jacob and his sons and their families here. (See: figs-exclusive)
+
+
+Gen 43:3 But Judah said to him, saying, “The man strongly warned us, saying, ‘You will not see my face unless your brother {is} with you!’ 
+
+But Judah said to him, saying, 
+“But {his son} Judah replied to his father,” or “{His son} Judah replied,” (See: writing-quotations)
+
+“The man
+“The man {who governs/controls the country there}” or “The governor {there}”. The brothers did not realize yet that Joseph was the governor they had spoken to in Egypt, so Judah referred to him generally here as “the man”. See how you translated a similar phrase in Gen 42:30.
+
+strongly warned us, saying, 
+“sternly warned/told us” or “was serious when he warned us”
+
+You will not see my face 
+“that we cannot see him {again}” or “that we cannot go to him {again} {to buy grain}”. Consider whether it is better in your language to translate this embedded quote as a direct or indirect quote. (See: figs-quotesinquotes)
+
+unless your brother {is} with you!
+“unless our {youngest} brother is with us!” or “if our {youngest} brother {is} not with us!” Make sure that the way you translate this clause fits with how you translated the previous part of this sentence. (See: figs-quotesinquotes)
+
+
+Gen 43:4 If you will send our brother with us, we will go down and buy food for you. 
+
+If you will send our brother with us, 
+“{So} if you will allow/permit our {youngest} brother to go with us,” or “{So} if you will let our {youngest} brother go with us,” In verses 3-5, the pronouns “us” and “we” are exclusive since they do not include Jacob (whom Judah is talking to). (See: figs-exclusive)
+
+we will go down 
+“{then} we will/can go/travel {to Egypt}”
+
+and buy food for you. 
+ “and buy {more} food/grain for you {and the rest of the family}.”
+
+
+Gen 43:5 But if you will not send {him}, we will not go down, because the man said to us, ‘You will not see my face unless your brother {is} with you!’ ”
+
+But if you will not 
+“However if you refuse to” 
+
+send {him},
+“allow/permit him to go {with us},” or “let him go {with us},” See how you translated “send” in verse 4.
+
+we will not go down, 
+“we cannot go down {there},” or “we must not go {there} {to buy grain},” See how you translated “go down” and “went down” in Gen 42:2-3. 
+
+because the man said to us, 
+“because the man/governor told/warned us”
+
+‘You will not see my face 
+“that we cannot see him {again}” or “that we cannot go to him {again} {to buy grain}”. See how you translated this quote in verse 3. (See: figs-quotesinquotes)
+
+unless your brother {is} with you!’ ”
+“unless our {youngest} brother {is} with us!” or “if our {youngest} brother {is} not with us!” (See: figs-quotesinquotes)
+
+
+___________________Paragraph Break_____________________
+
+Gen 43:6 Then Israel said, “Why did you treat me badly by telling the man you have yet {another} brother?” 
+
+Then Israel 
+“Then {their father} Israel”. If it is not clear that “Israel” (verse 6) and “their father” (verse 2) refer to the same person, you could include “their father” here in your translation or in a footnote. See what you did for a similar case in Gen 42:5. (See: figs-explicit)
+
+said,
+“asked {them},” (See: writing-quotations)
+
+“Why did you treat me badly by telling
+“Why did you cause trouble/distress for me by telling” or “You caused me a lot of trouble/distress because you told”. Jacob uses a rhetorical question here to scold his sons and to show how upset he is. Consider what is the best way to communicate that in your language. (See: figs-rquestion)
+
+the man 
+“that man” or “the/that governor”. See how you translated “the man” in verses 3 and 5.
+
+you have yet {another} brother?”
+“that you have another brother!” or “that you have a younger brother?” If you translate this rhetorical question as a statement, make sure that you end it with a period or exclamation mark.
+
+
+Gen 43:7 And they said, “The man asked persistently about us and our relatives, saying, ‘Is your father still alive? Do you have {another} brother?’ And we answered him according to those words. How could we possibly know that he would say, ‘Bring your brother down’?”
+
+And they said,
+“They answered {him},” (See: writing-quotations)
+ 
+“The man asked persistently 
+“The man/governor questioned {us} intensely/thoroughly” or “The man asked {us} many questions” 
+
+about us and our relatives, saying,
+“about ourselves and about {the rest of} our family.” In verses 7-8, the pronouns “us”, “our” and “we” are exclusive since they do not include Jacob (whom the sons are talking to). (See: figs-exclusive)
+
+‘Is your father still alive? Do you have {another} brother?’ 
+“He {specifically} asked {us} if/whether our father was still alive and if/whether we had {another} brother.” Consider whether it is more natural in your language to translate this embedded quote with a direct or indirect quote. (See: figs-quotesinquotes)
+
+And we answered him according to those words. 
+“So we {just/simply} answered his questions {honestly/truthfully}.” or “All we did was answer his questions.”
+
+How could we possibly know 
+ “We could not possibly have known” or “There is no way we could have known”. Jacob’s sons use a rhetorical question here to emphasize their innocence and express strong emotion. Consider what is the best way to communicate that in your language. (See: figs-rquestion)
+
+that he would say, ‘Bring your brother down’?”
+“that he would tell/require us to take our brother down {there} {to him}!” If you translate this rhetorical question as a statement, make sure that you end it with a period or exclamation mark.
+
+___________________Paragraph Break_____________________
+
+ Gen 43:8 Then Judah said to Israel his father, “Send the young man with me, and we will get up and go so that both we and you and our little ones will live and not die. 
+
+Then Judah said to Israel his father, 
+“Then Judah urged his father Israel {about Benjamin},” For some languages it is necessary to make “Benjamin” explicit here in the quote margin so that it is clear that “young man” refers to him in the following quote. Do what is best in your language. (See: figs-explicit)
+
+“Send the young man with me, 
+“Allow/Permit the young man to come with me/us {and I will watch over him}” or “Entrust the young man to me {to take care of}”. See how you translated “young man” in Gen 37:2; 41:12. Use a term here in your language that fits with the fact that Benjamin was probably in his 30’s.
+
+and we will get up and go 
+“and/so we can leave right away {to buy grain in Egypt}” or “so that we can go immediately {to Egypt} {to buy grain}.”
+   
+so that both we and you and our little ones 
+“Then all of us, including our children,” Consider whether or not it is better to begin a new sentence here in your language.
+
+will live 
+“will survive” or “will/can stay alive”. See how you translated “will live and not die” in Gen 42:2.
+
+and not die.
+“and not die {from hunger}.” or “and not starve to death.”
+
+
+Gen 43:9 I myself will guarantee him. From my hand you can require him. If I do not bring him {back} to you and set him before you, then I will have sinned against you all the days. 
+
+I myself will guarantee him.
+“I personally guarantee/promise to keep him safe.” or “I personally guarantee his safety.”
+
+From my hand you can require him. 
+“You can hold/make me responsible/liable for him,” See how you translated a similar idiom in Gen 31:39. (See: figs-idiom)
+
+If I do not bring him {back} to you and set him before you, 
+“{so that} if I do not bring him {back} {home} to you alive/safely,” Consider the best way to translate this hypothetical sentence in your language. (See: figs-hypo)
+
+then I will have sinned against you 
+“I will be guilty of this sin against you” or “you can blame me for this sin”
+
+all the days.
+“all the days {of my life}.” or “for the rest of my life.” or “forever.”
+
+
+Gen 43:10 Surely if we had not delayed, surely we could have returned here twice by now.”
+
+Surely if we had not delayed,
+“As it is, If we had not delayed/waited {such a long time},” or “In any case, if we had not delayed/waited {this long},” This sentence refers to something that could have happened, but did not actually happen. Consider the best way to translate this contrary-to-fact statement in your language. (See: figs-hypo)
+
+surely we could have returned here twice by now.” 
+“certainly we could have made two {round} trips {there and back} by now.” or “we certainly would have had enough time to go down there and back two times already.”
+ 
+
+Gen 43:11 Then Israel their father said to them, “If {it must be} so, then do this: Take {some} of the choice produce of the land in your bags, and take {it} down to the man {as} a gift: a little balm, and a little honey, spices and myrrh, pistachio nuts and almonds. 
+
+Then Israel their father said to them, 
+“Then their father Israel said to them,” See how you translated “Israel their father” in verse 8.
+
+“If {it must be} so, 
+“If/Since that is how it must be,” or “{Okay,} if that is the only way {we can get more grain},” (See: figs-explicit)
+
+then do this:
+“then this is what you must/should do:”
+
+Take {some} of the choice produce of the land in your bags,
+“Put {some} of the best things/goods from {our} land in your sacks,” or “Put in your sacks some of the most valuable things that {our} land produces,”
+
+and take {it} down to the man 
+“and take {them} to the man/governor {in Egypt}”
+
+{as} a gift:
+“{as} gifts,” or “{as} gifts.” Consider what punctuation is best to use here in your language. 
+
+a little balm, and a little honey, 
+“{including} some sweet-smelling tree resin/sap, some honey,” or “{Include} some healing salve, honey,” Consider what is the best way to make a list of things like this in your language. Also see how you translated “balm” in Gen 37:25. (See: translate-unknowns)
+
+spices and myrrh, 
+“{some} {food} spices/seasonings and incense,” See how you translated “spices” and “myrrh” in Gen 37:25. (See: translate-unknowns)
+
+pistachio nuts and almonds.
+“{and} {some} pistachio nuts and almonds.” or “{and} {some} sweet-tasting tree nuts.” (See: translate-unknowns)
+
+
+Gen 43:12 And take double the silver in your hands, because you must return in your hands the silver that was returned in the mouth of your sacks. Perhaps it {was} a mistake.
+
+And take double the silver in your hands,
+“{Also} take with you twice {as much} silver/money {as you took the first time},” 
+
+because you must return in your hands the silver 
+“because you must take/give back the silver/money” or “You must give back the silver/money”. Consider whether or not it is better to begin a new sentence here in your language.
+
+that was returned 
+“that was given back {to you} {by someone}” or “that someone gave back {to you}”. Consider whether it is better in your language to use a passive or active clause here. (See: figs-activepassive)
+
+in the mouth of your sacks. 
+“in the opening/top of your sacks.” or “in your sacks.” See how you translated a similar phrase in Gen 42:27.
+
+Perhaps it {was} a mistake.
+“That might have happened by mistake.” or “Maybe they/someone did that by mistake.”
+
+
+Gen 43:13 So take your brother and get up, return to the man. 
+
+So take your brother
+“So {then/now,} take your {youngest} brother”
+
+and get up, return to the man. 
+“and return right away to the man/governor.” or “and immediately go back to the man/governor.” See how you translated “get up and...” in verse 8.
+
+
+Gen 43:14 And may God Almighty give you mercies before the man, and may he send your other brother and Benjamin with you. And I, if I am bereaved, I am bereaved.”
+
+And may God Almighty
+“May Almighty God” or “I pray that God {who is} all-powerful will”. Consider again how you translated “God Almighty” in the book of Genesis. See Gen 17:1; 28:3; 35:11; 43:14.
+
+give you mercies before the man, 
+“be merciful/kind to you {as you go} before the man,” or “cause the man/governor to be merciful/kind to you,” or “cause him to treat you mercifully/kindly,”
+
+and may he 
+The Hebrew text us ambiguous here. It can mean (1) “so that he will” or “and I pray that the man/governor will” (2) “and may he/God” or “and I pray that God will”
+
+send your other brother and Benjamin 
+“allow/permit your other brother and Benjamin to come/go” or “let your brothers Simeon and Benjamin come/go”. Notice that “other brother” refers to Simeon, who is older or younger (and has the same or different mother) than his brothers that Israel is talking to here. Also see how you translated “send” in verses 4-5. (See: translate-kinship)
+
+with you.
+“{back} {home} with you.”
+
+And I, if I
+“{As for} me, if I” or “But {if not, and} if I”. The pronoun “me” is emphatic here in the Hebrew text. If possible, keep that emphasis in your translation.
+
+am bereaved, I am bereaved.”
+“{must} be bereaved/deprived {of them}, {then} I {will} be bereaved/deprived.” or “{must} lose them and grieve {for them}, {then} I {will} grieve.” or “{must} suffer loss, then I {will} suffer loss.” See how you translated “bereaved” in Gen 42:36.
+
+___________________Paragraph Break_____________________
+
+Gen 43:15 Then the men took that gift, and they took double the silver in their hands, and Benjamin. Then they got up and went down {to} Egypt and stood before Joseph. 
+
+Then the men took that gift
+“Then/So the brothers packed those gifts {in their sacks}” or “So the brothers gathered/got {all} those gifts {and packed them}”. See how you translated “gift” in verse 11 and in Gen 33:10-11.
+
+and they took 
+“along with” or “and they also packed”
+
+double the silver in their hands, 
+“twice as much silver/money {that the grain would cost}.” or “double/twice the amount of silver/money {that they needed to pay for the grain}.” See how you translated this phrase in verse 12. 
+
+and Benjamin. Then they 
+“They also {took/got} Benjamin and {together} they” or “Then they {took} Benjamin {with them} and”
+
+got up and went down {to} Egypt 
+“immediately/quickly traveled down to {the country of} Egypt”. See how you translated “get up and go” in verse 8.
+
+and stood before Joseph.
+“and presented themselves before/to Joseph.” or “and went/came directly to Joseph.”
+
+
+Gen 43:16 And Joseph saw Benjamin with them. Then he said to {the one} who {was} over his house, “Take the men to the house, and slaughter an animal and prepare {a meal}, because the men will eat with me at noon.”
+
+And Joseph saw Benjamin with them. Then he said to
+“Joseph saw Benjamin with {the rest of} his brothers. So he told/ordered” or “When Joseph saw Benjamin with his {other} brothers, he told/commanded”
+
+{the one} who {was} over his house, 
+“{the servant} who managed/supervised his household,” or “his head house-servant,”
+
+“Take the men to the house, 
+“Bring/Lead the/these men to {my} house” or “Escort these men to {my} house.”
+
+and slaughter an animal 
+“then slaughter/kill one of {the/my} livestock” or “Then slaughter/butcher an animal/calf/goat”. The Hebrew word for “animal” here is general and refers to an animal that was raised to be killed and eaten, such as a calf or goat. Consider whether or not it is better to begin a new sentence here in your language.
+
+and prepare {a meal},
+“and {use/roast/cook the meat to} prepare {a meal/feast},” or “and prepare {a feast} {with its meat},”
+
+because the men will eat with me at noon.”
+“because {I want} them to eat with me {today} at noon.” or “because {I have planned/decided that} the men will eat the noon meal with me {at my house}.”
+
+ ___________________Paragraph Break_____________________
+ 
+Gen 43:17 So the man did just as Joseph {had} said, and the man brought the men to Joseph’s house.
+
+So the man did just as Joseph {had} said,
+“The servant did exactly what Joseph {had} told/commanded {him to do}”
+
+and the man brought 
+“and took/led” or “and escorted”
+
+the men to Joseph’s house. 
+“the brothers to Joseph’s house.” Make sure that the way you translate this phrase does not sound like Joseph’s brothers went inside the house yet. They did not actually go inside until later (verse 24). 
+
+
+Gen 43:18 And the men were afraid when they were brought {to} Joseph’s house, and they said, “Because of the matter of the silver that was returned in our sacks the first time, we have been brought. {He wants} to roll himself over us and throw himself on us and take us as slaves, and our donkeys!”
+
+And the men were afraid when they were brought {to} Joseph’s house,
+“The brothers became afraid when/because they saw that the servant had brought/led them {to} Joseph’s house,” or “But when the brothers saw that he had taken them to Joseph’s house, they were afraid,”
+
+and they said, 
+“and they said {to each other},” or “Then they said {to each other},” Consider whether or not it is more natural in your language to begin a new sentence here.
+
+“Because of the matter of the silver that was returned in our sacks the first time, we have been brought.
+“We have been brought {here} because of the silver/money that was returned {to us} in our sacks the first time {we came here}.” or “He has brought/taken us here because of {our} silver/money that someone gave back to us in our sacks {on} {our} first trip {here}.” (See: figs-infostructure)
+
+{He wants} to roll himself over us and throw himself on us 
+“{He is planning} to take/seize us by force” or “{He intends} to {have his soldiers} attack us and overpower us”. Consider the best way to translate these idioms in your language. (See: figs-idiom)
+
+and take us as slaves, 
+“and keep us as slaves/servants” or “and make us {his} slaves/servants”
+
+and our donkeys!”
+“along with our donkeys!” or “{He will} also {take/capture} our donkeys!”
+
+___________________Paragraph Break_____________________
+ 
+Gen 43:19 Then they went near to the man who {was} over Joseph’s house and spoke to him {at} the entrance of the house. 
+
+Then they went near to 
+“Then/So they went up to” or “Then/So they approached”
+
+the man who {was} over Joseph’s house 
+“the servant who managed/supervised Joseph’s household” or “Joseph’s head house-servant”. See how you translated a similar phrase in verse 16.
+
+and spoke to him {at} the entrance of the house. 
+“to speak to him {at/outside} the entrance/door to {his} house.” or “{at/outside} the entrance/door to the house in order to speak to him.”
+
+
+Gen 43:20 And they said, “Please, my lord, we surely came down {here} the first time to buy food. 
+
+And they said,
+“They said {to him},” or “{One of} them said {to him} {on behalf of them all},” (See: writing-quotations)
+
+“Please, my lord, 
+“Excuse me/us, sir,” or “Master/Sir, please {allow me/us to speak to you}.” The brothers are asking the servant for permission to speak. Translate this in a way that is respectful in your language. (See: figs-honorifics)
+
+we surely came down {here} the first time to buy food. 
+“the first/previous time we came/traveled down {here} {to Egypt}, we came to buy {some} food/grain.” or “one time before this, we traveled all the way down {here} {to Egypt} and bought {some} food/grain.”
+
+
+Gen 43:21 But it happened when we came to the lodging place, we opened our sacks and behold, {each} man’s silver {was} in the mouth of his sack; our silver {was there} in its {full} weight! So we have brought it back in our hands. 
+
+But it happened 
+“But it {so} happened {that}” or “But {on our way home}”. This phrase introduces an important event and helps create suspense so that readers will wonder what the outcome will be. Many translations omit “it happened” because it is not natural in their language. Do what is best in your language.
+   
+when we came to the lodging place, we opened our sacks
+“when we arrived at the place where we lodged/stayed for the night, we opened our sacks”. See how you translated “the lodging place” in Gen 42:27.
+
+and behold, {each} man’s silver {was} in the mouth of his sack;
+“and we were surprised to see that our bags/pouches of silver/money were in the opening/top of each of our sacks!” or “There in the opening/top of each of our sacks {was} the silver/money {we had paid/given to you} {for the grain}!” See how you translated “in the mouth of...sacks” in verse 12. (See: figs-idiom)
+
+our silver {was there} in its {full} weight! 
+“The full/exact weight/amount of silver/money was there!” or “The silver/money was all there!” The silver was weighed in shekels (Gen 20:16; 23:15-16; 37:28) to determine how much to pay for something. See how you translated “silver” in Gen 42:25, 27, 35. (See: translate-bmoney)
+
+So we have brought it back 
+“So/But we brought it {all} back” or “So/But we brought {all} that silver/money back”
+
+in our hands.
+“with us {to return/give to you}.”
+
+
+Gen 43:22 And we have brought down other silver in our hands to buy food. We do not know who put our silver in our sacks.” 
+
+And we have brought down other silver 
+“We also brought enough extra/additional silver/money” or “We have {also} brought more/additional silver/money”
+
+in our hands 
+“with us”
+
+to buy food.
+“so that we can buy {some more} food/grain {now/today}.”
+
+We do not know 
+“We have no idea”
+
+who put our silver in our sacks.”
+“who put the money in our sacks.” or “who gave that silver/money back to us in our sacks.” or “how our silver/money got into our sacks {like that}.”
+
+
+Gen 43:23 But he said, “Peace {be} to you, do not be afraid. Your God and the God of your father has given you hidden treasure in your sacks; your silver came to me.” Then he brought Simeon out to them.
+
+But he said, 
+“But Joseph’s servant said/replied {to them},”
+
+“Peace {be} to you, 
+“Be at peace,” or “All is well for you,” or “It/Everything is all right,” The phrase “Peace to you” is a blessing that wishes someone to be well and at peace. Consider whether your language has a similar blessing or possibly an idiom that would work well here.
+
+do not be afraid.
+“do not be anxious.” or “do not worry {about it}.”
+
+Your God and the God of your father 
+“Your God, {who is} also your father’s God” or “The God whom you and your father serve/worship”. Make sure that your translation of these phrases refers to the same God, not two different Gods.
+
+has given you hidden treasure in your sacks;
+“must have hidden/put the silver/money in your sacks,”
+
+your silver came to me.”
+“{because} I {definitely} received your/the silver/money {that you paid for the grain}.” or “{because} {I know that} you gave/paid me silver/money {to pay for the grain}.”
+
+Then he brought Simeon out to them.
+“Then the/Joseph’s head-servant brought Simeon out {of prison} to his brothers.” or “Then the/Joseph’s servant {got} Simeon out {of prison} {and} brought/took {him} to his brothers.”
+
+ ___________________Paragraph Break_____________________
+ 
+Gen 43:24 Then the man took the men into Joseph’s house and gave {them} water, and they washed their feet, and he gave fodder to their donkeys.
+
+Then the man 
+“Then Joseph’s servant” or “Soon the man/servant”
+
+took the men into Joseph’s house 
+“took/brought them {all} into Joseph’s/the house” or “brought/led the brothers inside Joseph’s/the house”
+
+and gave {them} water, 
+“and provided {them} with water”
+
+and they washed their feet, 
+“and they washed {the dust/dirt off} their feet,” or “to wash {the road dust off} their feet,” Consider again how you translated “wash....feet” in the book of Genesis. See Gen 18:4; 19:2; 24:32; 43:24.
+
+and he gave fodder to their donkeys.
+“and he provided fodder/feed for their donkeys.” or “He also fed their donkeys.” Consider whether or not it is better to begin a new sentence here in your language. See how you translated “fodder” in Gen 42:27.
+
+
+Gen 43:25 And they prepared the gift for Joseph’s arrival at noon, because they had heard that they would eat bread there.
+
+And they prepared the gift 
+“Then/Meanwhile Joseph’s brothers got {their} gift/gifts ready” 
+
+for Joseph’s arrival at noon, 
+“to give to Joseph when he came/got home at noon,” 
+
+because they had heard
+“because they had been told/informed” or “because someone had told them”
+
+that they would eat bread there.
+“that they were going to eat a meal {with him} there {at his house}.” For some languages it is more natural to put the last half of this verse at the beginning of the verse and say, “When Joseph’s brothers heard that they were going to eat the noon meal with Joseph {at his house}, they got their gifts ready to give him when he came/got home.” Do what is best in your language. (See: figs-infostructure)
+
+___________________Paragraph Break_____________________
+ 
+Gen 43:26 Then Joseph came to the house, and they brought to him the gift that {was} in their hands into the house, and they bowed down to him to the ground. 
+
+Then Joseph came to the house, and 
+“When Joseph came to his house,” or “When Joseph came/got home,”
+
+they brought to him the gift that {was} in their hands into the house,
+“his brothers {gave/presented} to him the gift/gifts that they had brought with them into the house.”
+
+and they bowed down to him to the ground.
+“Then they bowed {themselves} down before him {with their faces} to the ground {to show him respect/honor}.” or “Then they prostrated themselves on the ground {to respect/honor him}.” See how you translated “bowed down...ground” in Gen 42:6. (See: translate-symaction)
+
+
+Gen 43:27 Then he asked them about {their} wellbeing, and he said, “{Are things} well {for} your aged father whom you spoke about? Is he still alive?”
+
+Then he asked them about {their} wellbeing, 
+“Then Joseph asked them how they were doing,” or “Then he/Joseph greeted them”
+
+and he said, 
+“and he asked {them},” or “He also asked {them},” Consider whether or not it is more natural in your language to begin a new sentence here.
+
+“{Are things} well {for} your aged father 
+“Is your aged/elderly father {doing} well” or “Is your aged/elderly father in good health,”
+
+whom you spoke about? 
+“whom you spoke about {to me} {before}?” or “whom you mentioned {to me}?”
+
+Is he still alive?”
+“Is he still living?”
+
+
+Gen 43:28 And they said, “{Things are} well for your servant our father. He {is} still alive.” Then they bowed and bowed down. 
+
+And they said,
+“They answered {him},”
+
+“{Things are} well for your servant our father. He {is} still alive.”
+“{Yes sir,} our father, who highly respects you, is still alive and well/blessed.” The brothers refer to their father as “your servant” here to show respect to Joseph and to acknowledge his high position. Translate this phrase in a polite way that shows respect toward Joseph. Also, the pronoun “our” is exclusive here because Joseph’s brothers did not yet know that they were talking to Joseph. (See: translate-honorifics)
+
+Then they bowed 
+“Then they bowed {their heads}” or “Then they knelt”. In this verse, the terms “bowed” and “bowed down” translate two different Hebrew words that together describe and emphasize the process of bowing down to the ground.
+
+and bowed down. 
+“and bowed down {to the ground} {again}.” or “and prostrated themselves {in front of him} {again}.” See how you translated “bowed down” in verse 26. (See: translate-symaction)
+
+___________________Paragraph Break_____________________
+
+Gen 43:29 Then he lifted his eyes and saw Benjamin his brother, the son of his mother, and he said, “Is this your youngest brother whom you spoke to me {about}?” Then he said, “May God be gracious to you, my son.” 
+
+Then he lifted his eyes and
+“Then Joseph looked up/around and” or “When Joseph looked around {at them all}, he”. Consider again how you translated the idiom “lifted...eyes” in the book of Genesis. See Gen 13:10, 14; 18:2; 22:4, 13; 24:63-64; 31:10; 33:1, 5; 37:25; 39:7; 43:29. (See: figs-idiom)
+ 
+saw Benjamin his brother, 
+“saw his brother Benjamin,” Benjamin was younger than Joseph. (See: translate-kinship)
+
+the son of his mother, 
+“{who was} the {only other} son of his {own} mother,” or “who had the same mother that he had,”
+
+and he said,
+“and he said {to them},” or “and he asked {them},” (See: writing-quotations)
+
+“Is this your youngest brother 
+“So this {young man} must be your youngest brother” or “I suppose this {young man} is your youngest brother”. This question could be an actual question or a rhetorical question. The fact that Joseph does not wait for an answer suggests that this is a rhetorical question, especially since he already realized that the new brother in the group was Benjamin (verse 16). (See: figs-rquestion)
+
+whom you spoke to me {about}?”
+“whom you told me about.” Make sure that your punctuation here fits with the way you translated this sentence, either as a question or a statement.
+   
+Then he said,
+“Then he said {to Benjamin},”
+
+“May God be gracious to you, 
+“I pray that God will be gracious/kind to you,” See how you translated “God has been gracious to...” in Gen 33:11. Also see how you translated “grace” in 24:12, 14 ,27, 49; 39:21.
+
+my son.” 
+“young man.” The phrase “my son” is a kind way to address a man who is younger or of lower status; it does not mean that Benjamin was Joseph’s actual son. Also, for some languages it is necessary to put this address first in this quote. Do what is natural in your language.
+
+
+Gen 43:30 Then Joseph hurried out, because his emotions boiled over for his brother, and he sought to cry, and he went to the inner room and cried there.
+
+Then Joseph hurried out, 
+“Then Joseph quickly/hurriedly left {the room} or “Then/Suddenly Joseph rushed out {of the room}”
+
+because his emotions boiled over for his brother,
+“because he was feeling deeply emotional about his brother,” or “because he felt overwhelmed with emotions for/about his brother”
+
+and he sought to cry, 
+The Hebrew text is ambiguous here. It could mean (1) “and desired/wanted to cry,” or “and felt like crying,” or “and was about to cry,” (2) “and was looking for {a place} to cry” or “and went to find {a place} to cry,” 
+
+and he went to the inner room 
+“so he went to his private room” or “So he went to his bedroom,”
+
+and cried there.
+“so that he could cry there.” or “where he cried {privately}.”
+
+___________________Paragraph Break_____________________
+
+Gen 43:31 Then he washed his face and came out. Then he controlled himself and said, “Serve the bread.” 
+
+Then he washed his face and came out. Then he controlled himself 
+“After a while, he stopped crying, washed {the tears off} his face and came out {of his room}” or “After he had gotten control of his emotions {and stopped crying}, he washed {the tears off} his face and came back out {of his room}”
+
+and said, 
+“and told/commanded {his servants},” or “Then he told/commanded {his servants},” For some languages it is more natural to begin a new sentence here. Do what is best in your language.
+
+“Serve the bread.” 
+“Serve/Bring the food/meal {to us}.” or “{It is time to} serve/distribute the food/meal {to us}.” The word “bread” refers to all the food they ate at this meal, not just bread. (See: figs-synecdoche)
+
+
+Gen 43:32 So they served to him by himself, and to them by themselves, and to the Egyptians who were eating with him by themselves, because Egyptians cannot eat bread with Hebrews because that {is} an abomination to Egyptians. 
+
+So they served to him by himself, 
+“So/Then they served/brought {food} to him/Joseph at his own table,”
+
+and to them by themselves, 
+“and his brothers at their own table,”
+
+and to the Egyptians who were eating with him by themselves,
+“and the Egyptians who were eating as his guests at their own table.” or “They also served/brought {food} to some Egyptian guests at a separate table.” For some languages it is more natural to begin a new sentence here. Do what is best in your language.
+
+because Egyptians cannot eat bread with Hebrews because that {is} an abomination to Egyptians. 
+“Egyptians do not eat at the same table as Hebrew people because Egyptians/they consider it detestable/unacceptable {to do that}.” or “{The servants did that,} because Egyptians consider it detestable/unacceptable to eat with Hebrew people at the same table.” Consider again how you translated “Hebrews” in the book of Genesis. See Gen 14:13, 39:14, 17; 40:15, 41:12; 43:32.
+
+
+Gen 43:33 And they were sitting before him, the firstborn according to his birthright and the youngest according to his youth, and the men were astonished each to his neighbor. 
+
+And they 
+“And/Now Joseph’s brothers” or “Joseph’s brothers”
+
+were sitting 
+“were sitting {at a table}” or “had been seated {at a table}” 
+
+before him, 
+“in front of him/Joseph” or “facing his/Joseph’s table” 
+
+the firstborn according to his birthright and the youngest according to his youth,
+“according to their age order, from oldest to youngest,” or “in the order of their ages, from the firstborn/oldest to the youngest,”
+
+and the men were astonished each to his neighbor. 
+“so they looked/stared at each other in astonishment/amazement.” or “{When they saw/noticed that,} they were astonished/amazed {and stared} at one another.”
+
+
+Gen 43:34 Then he served to them servings {of food} from before him, but Benjamin’s serving was five times larger than any of their servings. And they drank and became drunk with him.
+
+Then he served to them servings {of food} from before him,
+“Then Joseph served his brothers food from his table,” or “Then Joseph {had his servants} serve food to his brothers from his table,” As a person of high position and status, Joseph probably had his servants serve the food rather doing it himself. Decide whether you want to make that information explicit in your translation or include it in a footnote. (See: figs-explicit)
+
+but Benjamin’s serving was five times larger 
+“but the amount of food that was served to Benjamin was five times more” or “but he {had them} serve Benjamin five times more {food}”
+
+than any of their servings. 
+“than {the amount of food that} was served to any of {the rest of} them.” or “than {they} served to any of {the rest of} his brothers.” 
+
+And they drank and became drunk with him.
+“Then they {ate food,} drank {wine} and celebrated/feasted with him.” or “Then his brothers feasted and drank {wine} freely with him.” or “Then they feasted and drank {wine} freely with him {until they were very merry}.” The Hebrew verb for “became drunk” is the same word that is used in Gen 9:21 to describe Noah when he had drunk so much wine that he had fallen asleep. Here, it probably means that they had drunk enough wine that they were feeling happy and sociable.
+
+
+

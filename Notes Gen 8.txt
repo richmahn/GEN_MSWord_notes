@@ -1,0 +1,459 @@
+8
+
+8:1-22 Genesis 8
+
+Gen 8:1 But God remembered Noah and all the living creature{s} and all the livestock that {were} with him in the ark, and God caused a wind to pass over the earth, and the waters subsided. 
+
+But God remembered
+“God kept in mind” or “But God did not forget” or “God never forgot”. The phrase “God remembered” is an idiom in the Bible that often means God was paying special attention to certain people and was about to do something. Make sure that the way you translate this phrase does not imply that God had forgotten about Noah. (See: figs-idiom)
+
+Noah 
+“Noah {and his family}”. Noah is the one that the author is focusing on here, but Noah’s family is also included. Consider whether or not you need to make that explicit in your translation. (See: figs-explicit)
+
+and all the living creature{s} and
+In the Hebrew text this phrase is ambiguous. It can mean (1) “and all the wild animals and” (2) “and all the creatures/animals, including”. See how you translated “living creature” in Gen 1:24-25 and 7:14.
+
+all the livestock that {were} with him in the ark,
+“all the domestic/tame animals that {were} with him/them in the ark/boat,” Some translations combine this phrase with the previous phrase and say, “and all the animals, both wild and tame/domestic, that {were} with him/them in the ark/boat.” Do what is best in your language. (See: figs-infostructure)
+
+and God 
+“and he” or “So God/he”. Consider whether or not it is better in your language to begin a new sentence here. (See: writing-pronouns)
+
+caused a wind to pass over
+“caused/sent a wind to blow over” or “sent a wind over”
+
+the earth,
+“{the water that was covering/over} the earth,” (See: figs-metonymy)
+
+and the waters
+“so that the floodwaters/water” or “so that the water {level}” (See: grammar-connect-logic-result)
+
+subsided.
+“{started to} recede/decrease.” or “{started to} go down.” Notice that the floodwaters did not go all the way down until verse 14, so the way you translate this word here should allow for that. (See: figs-explicit)
+
+
+Gen 8:2 And the fountains of the deep and the windows of the heavens were closed, and the rain from the heavens was stopped. 
+
+And the fountains of the deep and the windows of the heavens were closed,
+“{He also caused} the fountains/springs in the deep {ocean} to stop {gushing out water}, and {he caused} the rain/water to stop pouring from the sky,” or “{God/He also} stopped the water from {gushing out of} springs/places at the bottom of the ocean, and the rain from pouring/coming from the heavens/sky,” See how you translated some of the same words and phrases in Gen 7:11. (See: figs-activepassive)
+
+and the rain from the heavens was stopped.
+“so that rain stopped falling/coming from the sky.” or “so that it stopped raining.” Consider whether it is better in your language to use an active or a passive verb here, and in the previous clause. (See: figs-activepassive)
+ 
+
+Gen 8:3 Then the waters receded steadily from the earth, and {at} the end of the 150 days the waters had decreased,
+
+Then the waters receded steadily
+“Then the floodwaters/water steadily/gradually went down” 
+
+from the earth,
+“from {the surface of} the land/ground,”
+
+and {at} the end of the 150 days
+“so that after the 150 days {had passed},” or “After the 150 days {had passed},” Consider whether or not it is better in your language to begin a new sentence here. Also make sure it is clear in your translation that the 150 days mentioned here in Gen 8:3 are the same 150 days mentioned in Gen 7:24, not two different periods of time. 
+
+the waters 
+“the water {level}” or “it”. Make sure the way you translate this phrase fits with the way you translated the beginning of the verse.
+
+had decreased,
+“had gone down,” or “had subsided,”
+
+
+Gen 8:4 so that in the seventh month, on the seventeenth day of the month, the ark rested on the mountains of Ararat. 
+
+so that 
+“so {much/far/low} that” (See: grammar-connect-logic-result)
+
+in the seventh month, on the seventeenth day of the month, 
+“on the seventeenth day of the seventh month {of the year},” See how you translated a similar time phrase in Gen 7:11. (See: figs-infostructure)
+
+the ark rested
+“the ark/boat came to rest” or “the ark/boat settled/landed”
+
+on the mountains
+“on a mountain” or “on {one of} the mountains”. The ark landed on one mountain in a mountain range. (See: figs-synecdoche)
+
+of Ararat.
+“in {the land/region of} Ararat.” or “in the Ararat mountain range.”
+
+
+Gen 8:5 And the waters continued to decrease until the tenth month. In the tenth month, on the first of the month, the tops of the mountains could be seen.
+
+And the waters
+“Then the water/floodwaters” or “The water/floodwaters”
+
+continued to decrease 
+“continued to go down/away” or “kept decreasing/subsiding”. See how you translated “decreased” in verse 3.
+
+until the tenth month. In the tenth month, on the first of the month, 
+“until the tenth month {of the year}. On the first day of that month,” or “until on the first {day} of the tenth month {of the year},” See how you translated a similar time phrase in verse 4. (See: figs-infostructure)
+
+the tops of the mountains 
+“the peaks of the {surrounding} mountains” or “the mountaintops”
+
+could be seen.
+“could be seen {above the water} {by Noah}.” or “became visible {above the water}.” or “appeared {above the surface of the water}.” (See: figs-explicit)
+
+
+____________________Paragraph Break____________________
+
+Gen 8:6 Then it happened {at} the end of forty days that Noah opened the window of the ark that he had made, 
+
+Then it happened {at} the end of forty days that 
+“After forty {more} days {had passed},” The phrase “Then it happened” focuses attention on what happens next, and it builds suspense so that readers and listeners wonder what the outcome will be. Some translations leave this phrase out, but that loses some of the suspense. Do what is best in your language. (See: writing-newevent)
+
+Noah opened the window
+“Noah opened a window”. It is not clear when Noah made this window. It may refer to the opening around the top of the walls of the ark (Gen 6:16) or a different window that he made sometime later.
+
+of the ark that he had made,
+“that he had made in the ark/boat,”
+
+
+Gen 8:7 and he sent out the raven, and it kept flying out and returning until the waters dried up from the earth. 
+
+and he sent out 
+“and he released” or “and he set free”
+
+the raven
+“{a large black bird called} a raven”. A raven is a large, black scavenger bird that eats whatever it finds, including dead animals. If the people in your language area are not familiar with ravens, you could make a comparison to a similar bird that they are familiar with and say, “a large black bird {like a...}” Or you could include a footnote that explains what a raven is. (See: translate-unknowns)
+
+and it
+“but it” or “which”
+
+kept flying out and returning
+“kept/continued flying back and forth {outside the ark/boat}” or “kept flying around {outside the ark/boat}”
+
+until the waters
+“until the water/floodwaters”
+
+dried up from the earth.
+“had dried up {more} from the ground/land.” This phrase refers to the ground/land (as verse 8 confirms), not the entire planet.
+
+
+Gen 8:8 Then he sent out the dove from him to see if the waters had subsided from the surface of the ground. 
+
+Then he
+“Then/Meanwhile he/Noah”. The events in verse 8 happened while the raven was still flying back and forth (verse 7). Consider what conjunction best communicates that in your language. (See: grammar-connect-time-simultaneous)
+
+sent out 
+“{also} sent out” or “{also} released” 
+
+the dove from him 
+“a dove that was with him” or “a dove from the ark” or “a {small bird called a} dove”. A dove is a small, white or gray bird that makes a cooing sound. If doves are unknown in your language area, you could make a comparison to a similar bird they are familiar with and say, “a small white/gray bird {like a...}” Or you could include a footnote that explains what a dove is. (See: translate-unknown)
+
+to see if
+“to find out if/whether”
+
+the waters
+“the floodwaters/water”
+
+had subsided
+“had gone down” or “had receded”
+ 
+from the surface of the ground.
+“from the surface of the land.” or “from the ground/land.”
+
+
+Gen 8:9 But the dove did not find a resting place for the sole of its feet, so it returned to him in the ark, because the waters {were} over the surface of the entire earth. And he reached out his hand and took it and brought it to him into the ark.
+
+But the dove 
+“But it” (See: writing-pronouns)
+
+did not find
+“could not find” or “was not able to find”
+
+a resting place for the sole of its feet,
+“anywhere to land/perch and rest,” In Hebrew the word “dove” is grammatically a feminine noun (for both male and female doves), so some translations say “her feet...she returned...” here. For languages such as English that do not assign grammatical gender to nouns, it is more accurate to use “its” and “it” here, because it is not known whether this dove was male or female. Do what is best in your language.
+
+so it
+“So/Then it” or “So/Then the dove”
+
+returned to him in the ark,
+“flew back to him/Noah in/at the ark/boat,” 
+
+because the waters {were} over the surface of the entire earth.
+“because water was {still} covering the entire earth/world.” Some languages may have to switch the clause order in this verse and say, “But water was {still} covering the entire earth/world, so the dove did/could not find a resting place for its feet. Then it returned to Noah at the boat, and he/Noah reached...” Do what is best in your language. (See: figs-infostructure)
+
+And he
+“Then/So he/Noah” or “and he/Noah”
+
+reached out his hand and took it and brought it 
+“reached out, caught it, and brought it”
+
+to him into the ark.
+“{back} to himself in the ark/boat.” or “{back} into the ark/boat.”
+
+
+Gen 8:10 Then he waited another seven days and again sent out the dove from the ark. 
+
+Then he waited
+“He/Noah waited”. Consider whether it is better in your language to begin this sentence with or without a conjunction. (See: grammar-connect-words-phrases)
+
+another seven days 
+“seven more days,”
+
+and again sent out the dove from the ark.
+“then he sent the dove out from the ark/boat another time.” or “then he released the dove from the ark/boat again.”
+
+
+Gen 8:11 Then the dove returned to him at evening time, and behold, {there was} a freshly picked olive leaf in its mouth. So Noah knew that the waters had subsided from the earth. 
+
+Then the dove returned to him at evening time,
+“That evening the dove returned to him/Noah,” or “When it was evening, the dove returned to him/Noah,”
+
+and behold, 
+“and surprisingly,” or “and he/Noah saw that”
+
+{there was} 
+“{it had}” or “{the dove had}” or “{it was holding}”
+
+a freshly picked olive leaf in its mouth.
+“a newly picked {green} leaf from an olive tree in its mouth/beak.” or “a {green} leaf in its mouth/beak that it had just picked/taken from an olive tree.” An olive tree produces small, oval, green fruit that has a hard pit. Olives are used for food and as a source of cooking oil. If olive trees are unknown in your language area, you could include a footnote about them. (See: translate-unknown)
+
+So Noah knew
+“Then Noah realized” or “That is how Noah/he knew/realized”
+
+that the waters
+“that the water/floodwaters”
+
+had subsided
+“had receded” or “had gone down {more/further}”. See how you translated “subsided” in verse 8, and how you translated three other Hebrew words with similar meanings In verses 1, 3, and 5.
+
+from the earth.
+“from the ground/land.” See how you translated this phrase in verse 7.
+
+
+Gen 8:12 Then he waited another seven days, and he sent out the dove, but it did not return to him again.
+
+Then he waited another seven days, and
+“He waited another seven days, then” or “After he waited seven more days,” 
+
+he sent out the dove,
+“he released the dove {again},” See how you translated “sent out” in verses 7, 8, and 10. 
+
+but it did not return to him again.
+“but {this time} it did not come back to him again {because it found a dry place to land/live}.” Remember to only make implied information explicit in a translation if it helps readers’ understanding, or if it is necessary to prevent wrong meaning or incorrect grammar. (See: figs-explicit)
+
+
+____________________Paragraph Break____________________
+
+Gen 8:13 So it happened in the six hundred and first year, in the first {month}, on the first day of the month, the waters were drying up from the earth. Then Noah removed the covering of the ark and looked, and behold, the surface of the ground was drying.
+ 
+So it happened 
+“So it happened {that}” or “So it was,”
+
+in the six hundred and first year, 
+“In {his/Noah’s} 601st year,” or “when {Noah was} 601 years old,” See how you translated a similar phrase in Gen 7:11.
+
+in the first {month}, on the first day of the month,
+“in the first {month} {of the year}, on the first day of the month,” or “on the first day of the first month {of the year},” (See: translate-ordinal)
+
+the waters were drying up
+“the water was drying up” or “the water had {almost} dried up”. Make sure your translation of this phrase fits with the fact that the ground was not yet dry enough to get out of the ark. That did not happen until the end of the second month (verse 14).
+
+from the earth.
+“from the ground/land.” 
+
+Then Noah removed
+“So Noah/he took off {part of}” or “made an opening in”
+
+the covering of the ark
+“the roof that was covering the ark/boat” or “the roof of the ark/boat”
+
+and looked,
+“and looked {around/out},”
+
+and behold,
+“and indeed,” or “and he saw that”. See how you translated this phrase in verse 11.
+
+the surface of the ground
+“the land’s surface” or “the ground/land”
+
+was drying.
+“was drying off.” or “was {almost} dry.”
+
+
+Gen 8:14 Then in the second month, on the twenty-seventh day of the month, the earth was dry.
+
+Then in the second month, on the twenty-seventh day of the month,
+“Then by the twenty-seventh day of the second month {of the year},” See how you translated similar time phrases in verses 4, 5, and 13.
+
+the earth
+“the land/ground”. Notice that the land/ground was dry here, not the entire earth. Consider again how you translated this phrase in verses 3, 7, 11, 13-14.
+
+was dry.
+“had dried off.” In this context “dry” means that the ground was dry enough to walk on and live on without getting stuck in mud. Make sure your translation does not imply that it was so dry that nothing would grow on it (like a desert).
+
+
+____________________Paragraph Break____________________
+
+Gen 8:15 Then God said to Noah, saying, 
+
+Then God said to Noah, saying,
+“Then/So God said to Noah,” or “Then God commanded Noah,” See how you translated “said to Noah” in Gen 7:1. (See: writing-quotations)
+
+
+Gen 8:16 “Go out of the ark, you and your wife and your sons and the wives of your sons with you. 
+
+“Go out of the ark,
+“Come out of/from the ark/boat” or “Disembark from the ark/boat”. Consider whether “come” or “go” is more natural here in your language. Also, some languages have a special term for getting off a boat that fits well here. Do what is best in your language. (See: figs-go)
+
+you and 
+“together with” or “with” 
+
+your wife and your sons 
+“your wife, your sons,”
+
+and the wives of your sons with you.
+“and your sons’ wives.” or “and their wives.”
+
+
+Gen 8:17 Bring out with you every living thing that {is} with you, all flesh, including the birds and the livestock and every moving creature moving on the earth, so that they will abound on the earth and be fruitful and multiply over the earth.” 
+
+Bring out with you
+“Bring/Take with you” or “Bring/Take out”. Consider whether “bring” or “take” is more natural here in your language. (See: figs-go)
+
+every living thing that {is}
+“all the living things/creatures that {are}” or “all the animals that {are}”
+
+with you,
+“with you {in the ark/boat},” or “in the ark/boat,”
+
+all flesh,
+“all the animals,” or “all of them,” See how you translated “flesh” in Gen 7:15-16. (See: figs-synecdoche)
+
+including the birds and the livestock
+“including the birds, domestic/tame animals,”
+
+and every moving creature moving
+In the Hebrew text this phrase is ambiguous. It can mean (1) “and every {other} creature/animal that moves/lives”, which seems to fit this context best since it is general and includes all the land animals that were not birds or livestock. (2) “and every creature/animal that crawls”, which is more specific and refers to animals like lizards, snakes, mice, and other animals that have bodies that are close to the ground.
+
+on the earth,
+“on the ground,” or “on land,”
+
+so that they will abound on the earth 
+“Then they will/can live/spread all over the earth/world”
+
+and
+“{yes,} they will”. The rest of verse 17 forms a parallelism with “abound on the earth” that emphasizes filling the earth again with animals. Make sure your translation does not sound like this refers to separate events. (See: figs-parallelism)
+
+be fruitful 
+“have many offspring/young”
+
+and multiply
+“and increase {in number}” or “and become {very} numerous/many”. See how you translated “be fruitful” and “multiply” in Gen 1:22, 28.
+
+over the earth.”
+“{all} over the earth/world.” or “throughout the earth.”
+
+
+Gen 8:18 Then Noah went out, and his sons and his wife and the wives of his sons with him. 
+
+Then Noah went out,
+“Then/So Noah went/came out {of the ark/boat},” or “Then/So Noah disembarked {from the ark/boat},” or “Then/So Noah got off {the ark/boat},” (See: figs-go)
+
+and his sons and his wife and the wives of his sons with him.
+“and his sons, his wife, and his sons’ wives {went} with him.” or “along/together with his wife and his sons and their wives.” See how you translated this list of Noah’s family members (and similar lists) in Gen 6:18; 7:7, 13; 8:16. Notice that the order of the people in this list varies in the Hebrew text, perhaps depending on who is in focus in each context.
+
+
+Gen 8:19 Every living thing, every crawling thing and every bird, everything moving on the earth, went out of the ark by their families.
+
+Every living thing,
+“Every living creature,” or “All the animals,” 
+
+every crawling thing
+“{including} every animal/creature that crawls” or “{including} all the animals/creatures that crawl”
+
+and every bird,
+“and all the birds”
+
+ everything 
+“{yes,} every creature” or “{and} everything {else}”
+
+moving on the earth,
+“that moves/lives on the ground,” or “that lives on land,” This phrase refers here to the land, not the entire planet earth. See how you translated this phrase in verse 17.
+
+went out
+“{also} went/came out”. Consider again how you translated “go/come out” and “went/came out” and “bring/take out” in verses 16-19. Notice that your choices are affected by your perspective: whether the viewpoint is from inside the ark or whether the viewpoint is from outside the ark. Do what is natural in your language. (See: figs-go)
+
+by their families.
+“{grouped} by their kinds.” or “in groups of their own kind.” or “one family/kind after another.”
+
+
+8:20-9:17 Yahweh Establishes His Covenant With Noah And His/Noah’s Descendants
+  
+Gen 8:20 Then Noah built an altar to Yahweh, and he took from every clean animal and from every clean bird, and offered burnt offerings on the altar. 
+
+Then Noah built an altar 
+“Then Noah built/made an altar {out of large stones}” or “Then Noah built/made a {sacrifice} table/mound {with large stones}”. An altar was an elevated, often table-shaped structure made out of stones where certain animals and crops were burned as sacrifices to God. (See: translate-key-terms)
+
+to Yahweh, 
+“{to offer sacrifices} to Yahweh,” or “{dedicated} to Yahweh,” or “to worship Yahweh,” 
+
+and he
+“Then/Next he”. Consider whether it is better in your language to begin a new sentence here.
+
+took from every clean animal and from every clean bird,
+“selected/chose {some/one} from/of every {kind of} clean/pure animal and {some/one of} every {kind of} clean/pure bird,” or “selected/chose {some/one} from/of every {kind of} animal and bird that are acceptable to sacrifice”. In the Bible, a “clean” animal or bird is one that is acceptable to be sacrificed to God or eaten; it does not refer to how clean the animal or bird was physically. See how you translated this term in Gen 7:2, 8.
+
+and offered burnt offerings on the altar.
+“and he {killed them and} offered/sacrificed them as burnt offerings {to Yahweh} on the altar.” or “and he {killed them and} burned {their bodies} on the altar as offerings/gifts {to Yahweh} {to worship/honor/thank him}.” Notice that animals were not burned alive, but were killed first. Consider whether or not you need to make that information explicit in your translation. (See: figs-explicit)
+
+
+Gen 8:21 And Yahweh smelled the pleasant aroma, and Yahweh said in his heart, “Never again will I curse the ground because of mankind, though the inclination of mankind’s hearts {is} evil from their youth. And never again will I strike every living {thing} as I have done. 
+
+And Yahweh smelled the pleasant aroma,
+“Yahweh smelled the pleasant/sweet aroma/smell {of the sacrifices},” or “When Yahweh smelled the aroma {of the sacrifices}, he was pleased,”
+
+and Yahweh
+“and/so he”. Consider what is the best way to refer to Yahweh here in your language. (See: writing-pronouns)
+
+said in his heart,
+“said/thought to himself,” Consider whether your language has this idiom or a similar idiom that would work well here, or whether it is better to translate this without an idiom. (See: figs-idiom)
+
+“Never again will I curse the ground 
+“I will never again curse/devastate the ground/earth”. Make sure that your translation of “curse” does not imply the use of magic. (See: translate-key-terms)
+
+because of mankind,
+“because of mankind{’s sins},” or “to punish mankind {for their sins},”
+
+though the inclination of mankind’s hearts {is} evil
+“{even} though the intentions/desires of their hearts/minds/thinking {are} evil” or “{even} though everything they desire {is} evil”. See how you translated “inclination” in a similar phrase in Gen 6:5. (See: figs-idiom)
+
+from their youth.
+“from youth/childhood {onward}.” or “from the time they are young/children.” 
+
+And never again will I 
+“I will never again” or “Nor will I ever again”
+
+strike 
+“destroy/annihilate/kill”. Consider whether your language has this idiom or a similar idiom that fits well here. (See: figs-idiom)
+
+every living {thing}
+“every living {creature}” or “all living {things/creatures}”
+
+ as I have done.
+ “as I {just} did.” or “the way I {just} did.” 
+
+
+Gen 8:22 While all of the days of the earth continue, seed time and harvest, and cold and heat, and summer and winter, and day and night will not cease.”
+
+While all of the days of the earth continue,
+“As long as the earth {still} exists/lasts,” 
+
+seed time
+“seed-planting time/season” or “the time/season for planting seeds”
+
+and harvest, 
+“and harvest {time/season},” or “the time/season for harvesting/gathering {crops}”
+
+and cold and heat, 
+“cold {weather/season} and hot {weather/season},” These terms form a parallelism with “summer and winter”. If possible, it is best to keep both parts of the parallelism in your translation, since each part has a different emphasis. (See: figs-parallelism)
+
+and summer and winter,
+“summer and winter,” The seasons of summer and winter may be described differently depending on which part of the world your language area is located in. For example, some translations might use the terms “dry season” and “rainy/wet season”, depending on what best corresponds to summer and winter in that area. 
+
+will not cease.”
+“will never cease/stop.” or “will always continue {to happen/occur} {each year}.” It may be more natural to change the order of this sentence and say, “As long as the earth exists, {each year} there will always be a season/time to plant seeds and a season/time to harvest {crops}, as well as cold weather and hot weather, winter and summer, and day and night.” Do what is best in your language. (See: figs-infostructure)
+
+
